@@ -1,0 +1,2775 @@
+year,state,id,name,type,population
+2010,AK,2,Anchorage,Total Homeless,1231
+2010,AK,2,Alaska Balance of State,Total Homeless,632
+2010,AL,1,"Birmingham/Jefferson, St. Clair, Shelby Counties",Total Homeless,2273
+2010,AL,1,Mobile City & County/Baldwin County,Total Homeless,883
+2010,AL,1,Florence/Northwest Alabama,Total Homeless,170
+2010,AL,1,Huntsville/North Alabama,Total Homeless,819
+2010,AL,1,Montgomery City & County,Total Homeless,444
+2010,AL,1,Gadsden/Northeast Alabama,Total Homeless,370
+2010,AL,1,Tuscaloosa City & County,Total Homeless,278
+2010,AL,1,Alabama Balance of State,Total Homeless,809
+2010,AR,5,Little Rock/Central Arkansas,Total Homeless,1425
+2010,AR,5,Fayetteville/Northwest Arkansas,Total Homeless,251
+2010,AR,5,Delta Hills,Total Homeless,969
+2010,AR,5,Southeast Arkansas,Total Homeless,51
+2010,AR,5,"Boone, Baxter, Marion, Newton Counties",Total Homeless,66
+2010,AZ,4,Arizona Balance of State,Total Homeless,3069
+2010,AZ,4,Tucson/Pima County,Total Homeless,3643
+2010,AZ,4,Phoenix/Mesa/Maricopa County Regional,Total Homeless,6999
+2010,CA,6,San Jose/Santa Clara City & County,Total Homeless,7086
+2010,CA,6,San Francisco,Total Homeless,5823
+2010,CA,6,Oakland/Alameda County,Total Homeless,4341
+2010,CA,6,Sacramento City & County,Total Homeless,2734
+2010,CA,6,Santa Rosa/Petaluma/Sonoma County,Total Homeless,3345
+2010,CA,6,Richmond/Contra Costa County,Total Homeless,2759
+2010,CA,6,"Salinas/Monterey, San Benito Counties",Total Homeless,2407
+2010,CA,6,Marin County,Total Homeless,1026
+2010,CA,6,Watsonville/Santa Cruz City & County,Total Homeless,2265
+2010,CA,6,Mendocino County,Total Homeless,1202
+2010,CA,6,Turlock/Modesto/Stanislaus County,Total Homeless,1800
+2010,CA,6,Stockton/San Joaquin County,Total Homeless,3005
+2010,CA,6,Daly/San Mateo County,Total Homeless,1424
+2010,CA,6,"Visalia, Kings, Tulare Counties",Total Homeless,966
+2010,CA,6,Fresno/Madera County,Total Homeless,4288
+2010,CA,6,"Roseville/Rocklin/Placer, Nevada Counties",Total Homeless,1054
+2010,CA,6,"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties",Total Homeless,336
+2010,CA,6,Napa City & County,Total Homeless,314
+2010,CA,6,Vallejo/Solano County,Total Homeless,829
+2010,CA,6,Chico/Paradise/Butte County,Total Homeless,742
+2010,CA,6,Merced City & County,Total Homeless,372
+2010,CA,6,Davis/Woodland/Yolo County,Total Homeless,491
+2010,CA,6,Humboldt County,Total Homeless,1355
+2010,CA,6,"Colusa, Glenn, Trinity Counties",Total Homeless,197
+2010,CA,6,Yuba City & County/Sutter County,Total Homeless,512
+2010,CA,6,El Dorado County,Total Homeless,146
+2010,CA,6,"Amador, Calaveras, Tuolumne and Mariposa Counties",Total Homeless,289
+2010,CA,6,Del Norte County,Total Homeless,18
+2010,CA,6,Los Angeles City & County,Total Homeless,33243
+2010,CA,6,San Diego City and County,Total Homeless,8383
+2010,CA,6,Santa Ana/Anaheim/Orange County,Total Homeless,8333
+2010,CA,6,Santa Maria/Santa Barbara County,Total Homeless,4121
+2010,CA,6,Bakersfield/Kern County,Total Homeless,1499
+2010,CA,6,Long Beach,Total Homeless,3909
+2010,CA,6,Pasadena,Total Homeless,1137
+2010,CA,6,Riverside City & County,Total Homeless,3126
+2010,CA,6,San Bernardino City & County,Total Homeless,2026
+2010,CA,6,Oxnard/San Buenaventura/Ventura County,Total Homeless,1815
+2010,CA,6,Glendale,Total Homeless,428
+2010,CA,6,Imperial County,Total Homeless,505
+2010,CA,6,San Luis Obispo County,Total Homeless,3829
+2010,CO,8,Colorado Balance of State,Total Homeless,5267
+2010,CO,8,Metropolitan Denver Homeless Initiative,Total Homeless,8752
+2010,CO,8,Colorado Springs/El Paso County,Total Homeless,1463
+2010,CT,9,Bridgeport/Norwalk /Stamford/Fairfield County,Total Homeless,944
+2010,CT,9,Connecticut Balance of State,Total Homeless,3372
+2010,DC,11,District of Columbia,Total Homeless,6539
+2010,DE,10,Delaware Statewide,Total Homeless,982
+2010,FL,12,"Sarasota/Bradenton/Manatee, Sarasota Counties",Total Homeless,1999
+2010,FL,12,Tampa/Hillsborough County,Total Homeless,7473
+2010,FL,12,St. Petersburg/Clearwater/Largo/Pinellas County,Total Homeless,3948
+2010,FL,12,Lakeland/Winter Haven/Polk County,Total Homeless,820
+2010,FL,12,"Daytona Beach/Daytona/Volusia, Flagler Counties",Total Homeless,2155
+2010,FL,12,"Fort Walton Beach/Okaloosa, Walton Counties",Total Homeless,2262
+2010,FL,12,Tallahassee/Leon County,Total Homeless,640
+2010,FL,12,"Orlando/Orange, Osceola, Seminole Counties",Total Homeless,4041
+2010,FL,12,"Gainesville/Alachua, Putnam Counties",Total Homeless,1019
+2010,FL,12,"Fort Pierce/St. Lucie, Indian River, Martin Counties",Total Homeless,2160
+2010,FL,12,"Jacksonville-Duval, Clay Counties",Total Homeless,3241
+2010,FL,12,Pensacola/Escambia/Santa Rosa County,Total Homeless,1160
+2010,FL,12,Saint Johns County,Total Homeless,1252
+2010,FL,12,Palm Bay/Melbourne/Brevard County,Total Homeless,1221
+2010,FL,12,Ocala/Marion County,Total Homeless,576
+2010,FL,12,"Panama City/Bay, Jackson Counties",Total Homeless,326
+2010,FL,12,"Hendry, Hardee, Highlands Counties",Total Homeless,4220
+2010,FL,12,"Columbia, Hamilton, Lafayette, Suwannee Counties",Total Homeless,1114
+2010,FL,12,Pasco County,Total Homeless,4527
+2010,FL,12,"Citrus, Hernando, Lake, Sumter Counties",Total Homeless,1385
+2010,FL,12,Miami/Dade County,Total Homeless,3879
+2010,FL,12,Ft Lauderdale/Broward County,Total Homeless,3225
+2010,FL,12,Punta Gorda/Charlotte County,Total Homeless,376
+2010,FL,12,Ft Myers/Cape Coral/Lee County,Total Homeless,944
+2010,FL,12,Monroe County,Total Homeless,1040
+2010,FL,12,West Palm Beach/Palm Beach County,Total Homeless,2147
+2010,FL,12,Naples/Collier County,Total Homeless,401
+2010,GA,13,Atlanta Continuum of Care,Total Homeless,7019
+2010,GA,13,Georgia Balance of State,Total Homeless,9750
+2010,GA,13,Athens/Clarke County,Total Homeless,496
+2010,GA,13,Augusta,Total Homeless,556
+2010,GA,13,Columbus-Muscogee/Russell County,Total Homeless,468
+2010,GA,13,Marietta/Cobb County,Total Homeless,470
+2010,GA,13,Savannah/Chatham County,Total Homeless,1077
+2010,HI,15,Hawaii Balance of State,Total Homeless,1663
+2010,HI,15,Honolulu,Total Homeless,4171
+2010,IA,19,"Sioux City/Dakota, Woodbury Counties",Total Homeless,308
+2010,IA,19,Iowa Balance of State,Total Homeless,1686
+2010,IA,19,Des Moines/Polk County,Total Homeless,1020
+2010,ID,16,Boise/Ada County,Total Homeless,872
+2010,ID,16,Idaho Balance of State,Total Homeless,1474
+2010,IL,17,McHenry County,Total Homeless,212
+2010,IL,17,"Rockford/Winnebago, Boone Counties",Total Homeless,621
+2010,IL,17,Waukegan/North Chicago/Lake County,Total Homeless,474
+2010,IL,17,Champaign/Urbana/Rantoul/Champaign County,Total Homeless,534
+2010,IL,17,Madison County,Total Homeless,202
+2010,IL,17,Joliet/Bolingbrook/Will County,Total Homeless,389
+2010,IL,17,"Peoria/Perkin/Fulton, Peoria, Tazewell, Woodford",Total Homeless,376
+2010,IL,17,East Saint Louis/Belleville/Saint Clair County,Total Homeless,514
+2010,IL,17,Dekalb City & County,Total Homeless,118
+2010,IL,17,Chicago,Total Homeless,6240
+2010,IL,17,Cook County,Total Homeless,1390
+2010,IL,17,Bloomington/Central Illinois,Total Homeless,639
+2010,IL,17,Springfield/Sangamon County,Total Homeless,287
+2010,IL,17,DuPage County,Total Homeless,712
+2010,IL,17,South Central Illinois,Total Homeless,190
+2010,IL,17,Decatur/Macon County,Total Homeless,197
+2010,IL,17,Aurora/Elgin/Kane County,Total Homeless,445
+2010,IL,17,Rock Island/Moline/Northwestern Illinois,Total Homeless,392
+2010,IL,17,West Central Illinois,Total Homeless,172
+2010,IL,17,Southern Illinois,Total Homeless,291
+2010,IN,18,South Bend/Mishawaka/St. Joseph County,Total Homeless,641
+2010,IN,18,Indiana Balance of State,Total Homeless,4317
+2010,IN,18,Indianapolis,Total Homeless,1494
+2010,KS,20,Wichita/Sedgwick County,Total Homeless,384
+2010,KS,20,Topeka/Shawnee County,Total Homeless,356
+2010,KS,20,Overland Park/Shawnee/Johnson County,Total Homeless,210
+2010,KS,20,Kansas Balance of State,Total Homeless,859
+2010,KY,21,Kentucky Balance of State,Total Homeless,3446
+2010,KY,21,Louisville/Jefferson County,Total Homeless,1626
+2010,KY,21,Lexington/Fayette County,Total Homeless,1551
+2010,LA,22,Lafayette/Acadiana,Total Homeless,731
+2010,LA,22,Shreveport/Bossier/Northwest,Total Homeless,830
+2010,LA,22,New Orleans/Jefferson Parish,Total Homeless,8725
+2010,LA,22,Baton Rouge,Total Homeless,1118
+2010,LA,22,Monroe/Northeast Louisiana,Total Homeless,228
+2010,LA,22,Slidell/Southeast Louisiana,Total Homeless,357
+2010,LA,22,Alexandria/Central Louisiana,Total Homeless,151
+2010,LA,22,Houma-Terrebonne/Thibodaux,Total Homeless,270
+2010,LA,22,Louisiana Balance of State,Total Homeless,72
+2010,MA,25,Boston,Total Homeless,5139
+2010,MA,25,"Holyoke/Franklin, Hampden, Hampshire Counties",Total Homeless,1881
+2010,MA,25,Lynn,Total Homeless,464
+2010,MA,25,Cape Cod/Islands,Total Homeless,504
+2010,MA,25,Springfield,Total Homeless,886
+2010,MA,25,New Bedford,Total Homeless,374
+2010,MA,25,Worcester City & County,Total Homeless,1409
+2010,MA,25,Pittsfield/Berkshire County,Total Homeless,280
+2010,MA,25,Lowell,Total Homeless,526
+2010,MA,25,Cambridge,Total Homeless,559
+2010,MA,25,Gloucester/Haverhill/Salem/Essex County,Total Homeless,997
+2010,MA,25,Quincy/Brockton/Weymouth/Plymouth City and County,Total Homeless,1186
+2010,MA,25,Fall River,Total Homeless,253
+2010,MA,25,Massachusetts Balance of State,Total Homeless,1462
+2010,MA,25,Somerville,Total Homeless,142
+2010,MA,25,Brookline/Newton,Total Homeless,410
+2010,MA,25,Attleboro/Taunton/Bristol County,Total Homeless,174
+2010,MD,24,Cumberland/Allegany County,Total Homeless,107
+2010,MD,24,Baltimore City,Total Homeless,3419
+2010,MD,24,Harford County,Total Homeless,228
+2010,MD,24,Annapolis/Anne Arundel County,Total Homeless,395
+2010,MD,24,Howard County,Total Homeless,221
+2010,MD,24,Baltimore County,Total Homeless,891
+2010,MD,24,Carroll County,Total Homeless,211
+2010,MD,24,Cecil County,Total Homeless,173
+2010,MD,24,"Charles, Calvert, St.Mary's Counties",Total Homeless,2560
+2010,MD,24,Frederick City & County,Total Homeless,303
+2010,MD,24,Garrett County,Total Homeless,11
+2010,MD,24,Mid-Shore Regional,Total Homeless,96
+2010,MD,24,Hagerstown/Washington County,Total Homeless,137
+2010,MD,24,Wicomico/Somerset/Worcester County,Total Homeless,240
+2010,MD,24,Prince George`s County/Maryland,Total Homeless,789
+2010,MD,24,Montgomery County,Total Homeless,1064
+2010,ME,23,Maine Balance of State,Total Homeless,1743
+2010,ME,23,Portland,Total Homeless,636
+2010,MI,26,Michigan Balance of State,Total Homeless,2953
+2010,MI,26,Detroit,Total Homeless,2812
+2010,MI,26,Dearborn/Dearborn Heights/Westland/Wayne County,Total Homeless,458
+2010,MI,26,St. Clair Shores/Warren/Macomb County,Total Homeless,896
+2010,MI,26,Pontiac/Royal Oak/Oakland County,Total Homeless,731
+2010,MI,26,Flint/Genesee County,Total Homeless,277
+2010,MI,26,Grand Rapids/Wyoming/Kent County,Total Homeless,585
+2010,MI,26,Portage/Kalamazoo City & County,Total Homeless,679
+2010,MI,26,Lansing/East Lansing/Ingham County,Total Homeless,535
+2010,MI,26,Ann Arbor/Washtenaw County,Total Homeless,474
+2010,MI,26,Saginaw City & County,Total Homeless,305
+2010,MI,26,Lenawee County,Total Homeless,120
+2010,MI,26,"Grand Traverse, Antrim, Leelanau Counties",Total Homeless,296
+2010,MI,26,"Marquette, Alger Counties",Total Homeless,68
+2010,MI,26,Battle Creek/Calhoun County,Total Homeless,186
+2010,MI,26,Monroe City & County,Total Homeless,140
+2010,MI,26,Norton Shores/Muskegon City & County,Total Homeless,646
+2010,MI,26,Jackson City & County,Total Homeless,323
+2010,MI,26,Livingston County,Total Homeless,121
+2010,MI,26,Holland/Ottawa County,Total Homeless,306
+2010,MI,26,Eaton County,Total Homeless,147
+2010,MN,27,Minneapolis/Hennepin County,Total Homeless,3056
+2010,MN,27,Saint Paul/Ramsey County,Total Homeless,1424
+2010,MN,27,Rochester/Southeast Minnesota,Total Homeless,419
+2010,MN,27,"Dakota, Anoka, Washington, Scott, Carver Counties",Total Homeless,924
+2010,MN,27,Northeast Minnesota,Total Homeless,208
+2010,MN,27,St. Cloud/Central Minnesota,Total Homeless,541
+2010,MN,27,Northwest Minnesota,Total Homeless,422
+2010,MN,27,Moorhead/West Central Minnesota,Total Homeless,278
+2010,MN,27,Duluth/St.Louis County,Total Homeless,524
+2010,MN,27,Southwest Minnesota,Total Homeless,73
+2010,MO,29,St. Louis County,Total Homeless,659
+2010,MO,29,St.Louis City,Total Homeless,1305
+2010,MO,29,"St. Charles, Lincoln, Warren Counties",Total Homeless,1089
+2010,MO,29,"Springfield/Greene, Christian, Webster Counties",Total Homeless,662
+2010,MO,29,"Joplin/Jasper, Newton Counties",Total Homeless,393
+2010,MO,29,"St. Joseph/Andrew, Buchanan, DeKalb Counties",Total Homeless,164
+2010,MO,29,"Kansas City, Independence, Lees Summit/Jackson, Wyandotte Counties, MO & KS",Total Homeless,2153
+2010,MO,29,Missouri Balance of State,Total Homeless,1912
+2010,MS,28,"Jackson/Rankin, Madison Counties",Total Homeless,914
+2010,MS,28,Mississippi Balance of State,Total Homeless,1242
+2010,MS,28,Gulf Port/Gulf Coast Regional,Total Homeless,587
+2010,MT,30,Montana Statewide,Total Homeless,1615
+2010,NC,37,Winston Salem/Forsyth County,Total Homeless,543
+2010,NC,37,Asheville/Buncombe County,Total Homeless,516
+2010,NC,37,Durham City & County,Total Homeless,675
+2010,NC,37,North Carolina Balance of State,Total Homeless,2851
+2010,NC,37,Greensboro/High Point,Total Homeless,1070
+2010,NC,37,Charlotte/Mecklenberg,Total Homeless,2841
+2010,NC,37,"Wilmington/Brunswick, New Hanover, Pender Counties",Total Homeless,678
+2010,NC,37,Raleigh/Wake County,Total Homeless,1180
+2010,NC,37,"Gastonia/Cleveland, Gaston, Lincoln Counties",Total Homeless,324
+2010,NC,37,Fayetteville/Cumberland County,Total Homeless,1033
+2010,NC,37,Chapel Hill/Orange County,Total Homeless,135
+2010,NC,37,Northwest North Carolina,Total Homeless,345
+2010,ND,38,North Dakota Statewide,Total Homeless,799
+2010,NE,31,Nebraska Balance of State,Total Homeless,1540
+2010,NE,31,Omaha/Council Bluffs,Total Homeless,1429
+2010,NE,31,Lincoln,Total Homeless,908
+2010,NH,33,New Hampshire Balance of State,Total Homeless,813
+2010,NH,33,Manchester,Total Homeless,415
+2010,NH,33,Nashua/Hillsborough County,Total Homeless,346
+2010,NJ,34,Atlantic City & County,Total Homeless,588
+2010,NJ,34,Bergen County,Total Homeless,522
+2010,NJ,34,Burlington County,Total Homeless,716
+2010,NJ,34,"Camden City/Camden, Cumberland, Gloucester, Cape May Counties",Total Homeless,1572
+2010,NJ,34,Newark/Essex County,Total Homeless,1716
+2010,NJ,34,Jersey City/Bayonne/Hudson County,Total Homeless,1779
+2010,NJ,34,New Brunswick/Middlesex County,Total Homeless,1535
+2010,NJ,34,Monmouth County,Total Homeless,604
+2010,NJ,34,Morris County,Total Homeless,297
+2010,NJ,34,Lakewood Township/Ocean County,Total Homeless,590
+2010,NJ,34,Paterson/Passaic County,Total Homeless,698
+2010,NJ,34,Salem County,Total Homeless,146
+2010,NJ,34,Somerset County,Total Homeless,310
+2010,NJ,34,Trenton/Mercer County,Total Homeless,901
+2010,NJ,34,Elizabeth/Union County,Total Homeless,1212
+2010,NJ,34,"Warren, Sussex, Hunterdon Counties",Total Homeless,551
+2010,NM,35,Albuquerque,Total Homeless,2002
+2010,NM,35,New Mexico Balance of State,Total Homeless,1473
+2010,NV,32,Las Vegas/Clark County,Total Homeless,9949
+2010,NV,32,Reno/Sparks/Washoe County,Total Homeless,934
+2010,NV,32,Nevada Balance of State,Total Homeless,322
+2010,NY,36,Rochester/Irondequoit/Greece/Monroe County,Total Homeless,709
+2010,NY,36,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties",Total Homeless,256
+2010,NY,36,Albany City & County,Total Homeless,650
+2010,NY,36,Cattaragus County,Total Homeless,118
+2010,NY,36,"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties",Total Homeless,840
+2010,NY,36,"Fulton, Montgomery, Schoharie Counties",Total Homeless,19
+2010,NY,36,Schenectady City & County,Total Homeless,389
+2010,NY,36,"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties",Total Homeless,1137
+2010,NY,36,Ithaca/Tompkins County,Total Homeless,73
+2010,NY,36,"Binghamton, Union/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Counties C",Total Homeless,234
+2010,NY,36,Troy/Rensselaer County,Total Homeless,314
+2010,NY,36,"Wayne, Ontario, Seneca, Yates Counties",Total Homeless,75
+2010,NY,36,Jamestown/Dunkirk/Chautauqua County,Total Homeless,88
+2010,NY,36,Clinton County,Total Homeless,84
+2010,NY,36,"Utica/Rome/Oneida, Madison Counties",Total Homeless,343
+2010,NY,36,Columbia/Greene County,Total Homeless,305
+2010,NY,36,Franklin County,Total Homeless,14
+2010,NY,36,Jefferson/Lewis/St. Lawrence Counties,Total Homeless,121
+2010,NY,36,"Glens Falls/Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties",Total Homeless,186
+2010,NY,36,New York City,Total Homeless,53187
+2010,NY,36,Poughkeepsie/Dutchess County,Total Homeless,476
+2010,NY,36,Newburgh/Middletown/Orange County,Total Homeless,505
+2010,NY,36,"Nassau, Suffolk Counties/Babylon/Islip/ Huntington",Total Homeless,3163
+2010,NY,36,Yonkers/Mount Vernon/New Rochelle/Westchester,Total Homeless,1339
+2010,NY,36,Rockland County,Total Homeless,141
+2010,NY,36,Sullivan County,Total Homeless,400
+2010,NY,36,Kingston/Ulster County,Total Homeless,440
+2010,OH,39,Cincinnati/Hamilton County,Total Homeless,1006
+2010,OH,39,Toledo/Lucas County,Total Homeless,986
+2010,OH,39,Cleveland/Cuyahoga County,Total Homeless,2278
+2010,OH,39,Columbus/Franklin County,Total Homeless,1387
+2010,OH,39,Youngstown/Mahoning County,Total Homeless,183
+2010,OH,39,Dayton/Kettering/Montgomery County,Total Homeless,884
+2010,OH,39,Akron/Barberton/Summit County,Total Homeless,859
+2010,OH,39,Ohio Balance of State,Total Homeless,4555
+2010,OH,39,Canton/Massillon/Alliance/Stark County,Total Homeless,431
+2010,OK,40,North Central Oklahoma,Total Homeless,323
+2010,OK,40,Tulsa City & County/Broken Arrow,Total Homeless,905
+2010,OK,40,Oklahoma City,Total Homeless,1128
+2010,OK,40,Oklahoma Balance of State,Total Homeless,324
+2010,OK,40,Norman/Cleveland County,Total Homeless,565
+2010,OK,40,Northeast Oklahoma,Total Homeless,567
+2010,OK,40,Southwest Oklahoma Regional,Total Homeless,272
+2010,OK,40,Southeastern Oklahoma Regional,Total Homeless,1145
+2010,OR,41,Eugene/Springfield/Lane County,Total Homeless,2580
+2010,OR,41,Portland-Gresham-Multnomah County,Total Homeless,4235
+2010,OR,41,Medford/Ashland/Jackson County,Total Homeless,922
+2010,OR,41,Central Oregon,Total Homeless,569
+2010,OR,41,Oregon Balance of State,Total Homeless,8814
+2010,OR,41,Hillsboro/Beaverton/Washington County,Total Homeless,950
+2010,OR,41,Clackamas County,Total Homeless,1422
+2010,PA,42,Philadelphia,Total Homeless,6084
+2010,PA,42,Harrisburg/Dauphin County,Total Homeless,394
+2010,PA,42,Upper Darby/Chester/Haverford/Delaware County,Total Homeless,716
+2010,PA,42,Wilkes-Barre/Hazleton/Luzerne County,Total Homeless,201
+2010,PA,42,Lower Marion/Norristown/Abington/Montgomery County,Total Homeless,428
+2010,PA,42,Chester County,Total Homeless,319
+2010,PA,42,Reading/Berks County,Total Homeless,513
+2010,PA,42,Scranton/Lackawanna County,Total Homeless,285
+2010,PA,42,Eastern Pennsylvania,Total Homeless,1895
+2010,PA,42,Lancaster City & County,Total Homeless,602
+2010,PA,42,Bristol/Bensalem/Bucks County,Total Homeless,474
+2010,PA,42,Pittsburgh/McKeesport/Penn Hills/Allegheny County,Total Homeless,1265
+2010,PA,42,Western Pennsylvania,Total Homeless,910
+2010,PA,42,Beaver County,Total Homeless,134
+2010,PA,42,Erie City & County,Total Homeless,296
+2010,RI,44,Rhode Island Statewide,Total Homeless,1282
+2010,SC,45,Charleston/Low Country,Total Homeless,416
+2010,SC,45,Greenville/Anderson/Spartanburg Upstate,Total Homeless,1164
+2010,SC,45,Columbia/Midlands,Total Homeless,1368
+2010,SC,45,Myrtle Beach/Sumter City & County,Total Homeless,1525
+2010,SD,46,South Dakota Statewide,Total Homeless,731
+2010,TN,47,Chattanooga/Southeast Tennessee,Total Homeless,622
+2010,TN,47,Memphis/Shelby County,Total Homeless,1657
+2010,TN,47,Knoxville/Knox County,Total Homeless,910
+2010,TN,47,Central Tennessee,Total Homeless,177
+2010,TN,47,Nashville/Davidson County,Total Homeless,2324
+2010,TN,47,Oak Ridge/Upper Cumberland,Total Homeless,635
+2010,TN,47,Jackson/West Tennessee,Total Homeless,2050
+2010,TN,47,Appalachian Regional,Total Homeless,840
+2010,TN,47,Murfreesboro/Rutherford County,Total Homeless,219
+2010,TN,47,"Morristown/Blount, Sevier, Campbell, Cocke Counties",Total Homeless,842
+2010,TX,48,San Antonio/Bexar County,Total Homeless,3291
+2010,TX,48,Austin/Travis County,Total Homeless,2087
+2010,TX,48,Dallas City & County/Irving,Total Homeless,3710
+2010,TX,48,Fort Worth/Arlington/Tarrant County,Total Homeless,2181
+2010,TX,48,El Paso City & County,Total Homeless,1260
+2010,TX,48,Waco/McLennan County,Total Homeless,312
+2010,TX,48,Texas Balance of State (BoS),Total Homeless,14827
+2010,TX,48,Amarillo,Total Homeless,578
+2010,TX,48,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties",Total Homeless,242
+2010,TX,48,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties",Total Homeless,6368
+2010,TX,48,Bryan/College Station/Brazos Valley,Total Homeless,265
+2010,UT,49,Salt Lake City & County,Total Homeless,1968
+2010,UT,49,Utah Balance of State,Total Homeless,952
+2010,UT,49,Provo/Mountainland,Total Homeless,364
+2010,VA,51,"Richmond/Henrico, Chesterfield, Hanover Counties",Total Homeless,1012
+2010,VA,51,"Norfolk/Chesapeake/Suffolk/Isle of Wright, Southampton Counties",Total Homeless,625
+2010,VA,51,Roanoke City & County/Salem,Total Homeless,518
+2010,VA,51,Virginia Beach,Total Homeless,517
+2010,VA,51,Charlottesville,Total Homeless,228
+2010,VA,51,Newport News/Hampton/Virginia Peninsula,Total Homeless,607
+2010,VA,51,Portsmouth,Total Homeless,210
+2010,VA,51,Lynchburg,Total Homeless,255
+2010,VA,51,"Harrisburg, Winchester/Western Virginia",Total Homeless,448
+2010,VA,51,"Fredericksburg/Spotsylvania, Stafford Counties",Total Homeless,288
+2010,VA,51,Virginia Balance of State (BoS),Total Homeless,1261
+2010,VA,51,Arlington County,Total Homeless,535
+2010,VA,51,Fairfax County,Total Homeless,1552
+2010,VA,51,Loudoun County,Total Homeless,157
+2010,VA,51,City of Alexandria,Total Homeless,359
+2010,VA,51,Prince William County,Total Homeless,508
+2010,VT,50,Vermont Balance of State,Total Homeless,607
+2010,VT,50,Burlington/Chittenden County,Total Homeless,613
+2010,WA,53,Seattle/King County,Total Homeless,9022
+2010,WA,53,Washington Balance of State,Total Homeless,7178
+2010,WA,53,Spokane City & County,Total Homeless,1242
+2010,WA,53,Tacoma/Lakewood/Pierce County,Total Homeless,1807
+2010,WA,53,Everett/Snohomish County,Total Homeless,2018
+2010,WA,53,Yakima City & County,Total Homeless,507
+2010,WA,53,Vancouver/Clark County,Total Homeless,1104
+2010,WI,55,Wisconsin Balance of State,Total Homeless,3992
+2010,WI,55,Milwaukee City & County,Total Homeless,1537
+2010,WI,55,Racine City & County,Total Homeless,236
+2010,WI,55,Madison/Dane County,Total Homeless,568
+2010,WV,54,Wheeling/Weirton Area,Total Homeless,197
+2010,WV,54,"Huntington/Cabell, Wayne Counties",Total Homeless,286
+2010,WV,54,"Charleston/Kanawha, Putnam, Boone, Clay Counties",Total Homeless,406
+2010,WV,54,West Virginia Balance of State,Total Homeless,1375
+2010,WY,56,Wyoming Statewide,Total Homeless,579
+2011,AK,2,Anchorage,Total Homeless,1223
+2011,AK,2,Alaska Balance of State,Total Homeless,905
+2011,AL,1,"Birmingham/Jefferson, St. Clair, Shelby Counties",Total Homeless,1950
+2011,AL,1,Mobile City & County/Baldwin County,Total Homeless,718
+2011,AL,1,Florence/Northwest Alabama,Total Homeless,244
+2011,AL,1,Huntsville/North Alabama,Total Homeless,656
+2011,AL,1,Montgomery City & County,Total Homeless,433
+2011,AL,1,Gadsden/Northeast Alabama,Total Homeless,495
+2011,AL,1,Tuscaloosa City & County,Total Homeless,265
+2011,AL,1,Alabama Balance of State,Total Homeless,797
+2011,AR,5,Little Rock/Central Arkansas,Total Homeless,1276
+2011,AR,5,Fayetteville/Northwest Arkansas,Total Homeless,238
+2011,AR,5,Arkansas  Balance of State ,Total Homeless,943
+2011,AR,5,Delta Hills,Total Homeless,790
+2011,AR,5,Southeast Arkansas,Total Homeless,94
+2011,AR,5,Eastern Arkansas,Total Homeless,0
+2011,AR,5,"Boone, Baxter, Marion, Newton Counties",Total Homeless,83
+2011,AZ,4,Arizona Balance of State,Total Homeless,2047
+2011,AZ,4,Tucson/Pima County,Total Homeless,2626
+2011,AZ,4,Phoenix/Mesa/Maricopa County Regional,Total Homeless,5831
+2011,CA,6,San Jose/Santa Clara City & County,Total Homeless,7067
+2011,CA,6,San Francisco,Total Homeless,5669
+2011,CA,6,Oakland/Alameda County,Total Homeless,4178
+2011,CA,6,Sacramento City & County,Total Homeless,2376
+2011,CA,6,Santa Rosa/Petaluma/Sonoma County,Total Homeless,4541
+2011,CA,6,Richmond/Contra Costa County,Total Homeless,2415
+2011,CA,6,"Salinas/Monterey, San Benito Counties",Total Homeless,2699
+2011,CA,6,Marin County,Total Homeless,862
+2011,CA,6,Watsonville/Santa Cruz City & County,Total Homeless,2771
+2011,CA,6,Mendocino County,Total Homeless,1456
+2011,CA,6,Turlock/Modesto/Stanislaus County,Total Homeless,1434
+2011,CA,6,Stockton/San Joaquin County,Total Homeless,2540
+2011,CA,6,Daly/San Mateo County,Total Homeless,1926
+2011,CA,6,"Visalia, Kings, Tulare Counties",Total Homeless,804
+2011,CA,6,Fresno/Madera County,Total Homeless,5135
+2011,CA,6,"Roseville/Rocklin/Placer, Nevada Counties",Total Homeless,821
+2011,CA,6,"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties",Total Homeless,527
+2011,CA,6,Napa City & County,Total Homeless,230
+2011,CA,6,Vallejo/Solano County,Total Homeless,569
+2011,CA,6,Chico/Paradise/Butte County,Total Homeless,897
+2011,CA,6,Merced City & County,Total Homeless,486
+2011,CA,6,Davis/Woodland/Yolo County,Total Homeless,468
+2011,CA,6,Humboldt County,Total Homeless,861
+2011,CA,6,"Colusa, Glenn, Trinity Counties",Total Homeless,322
+2011,CA,6,Yuba City & County/Sutter County,Total Homeless,649
+2011,CA,6,El Dorado County,Total Homeless,170
+2011,CA,6,"Amador, Calaveras, Tuolumne and Mariposa Counties",Total Homeless,406
+2011,CA,6,Del Norte County,Total Homeless,448
+2011,CA,6,Los Angeles City & County,Total Homeless,34622
+2011,CA,6,San Diego City and County,Total Homeless,9436
+2011,CA,6,Santa Ana/Anaheim/Orange County,Total Homeless,6939
+2011,CA,6,Santa Maria/Santa Barbara County,Total Homeless,1698
+2011,CA,6,Bakersfield/Kern County,Total Homeless,1439
+2011,CA,6,Long Beach,Total Homeless,3164
+2011,CA,6,Pasadena,Total Homeless,1216
+2011,CA,6,Riverside City & County,Total Homeless,6203
+2011,CA,6,San Bernardino City & County,Total Homeless,2825
+2011,CA,6,Oxnard/San Buenaventura/Ventura County,Total Homeless,1810
+2011,CA,6,Glendale,Total Homeless,412
+2011,CA,6,Imperial County,Total Homeless,508
+2011,CA,6,San Luis Obispo County,Total Homeless,2129
+2011,CO,8,Colorado Balance of State,Total Homeless,9283
+2011,CO,8,Metropolitan Denver Homeless Initiative,Total Homeless,4809
+2011,CO,8,Colorado Springs/El Paso County,Total Homeless,1024
+2011,CT,9,Bridgeport/Norwalk /Stamford/Fairfield County,Total Homeless,1005
+2011,CT,9,Connecticut Balance of State,Total Homeless,3451
+2011,DC,11,District of Columbia,Total Homeless,6546
+2011,DE,10,Delaware Statewide,Total Homeless,1035
+2011,FL,12,"Sarasota/Bradenton/Manatee, Sarasota Counties",Total Homeless,1152
+2011,FL,12,Tampa/Hillsborough County,Total Homeless,7336
+2011,FL,12,St. Petersburg/Clearwater/Largo/Pinellas County,Total Homeless,3890
+2011,FL,12,Lakeland/Winter Haven/Polk County,Total Homeless,1100
+2011,FL,12,"Daytona Beach/Daytona/Volusia, Flagler Counties",Total Homeless,2210
+2011,FL,12,"Fort Walton Beach/Okaloosa, Walton Counties",Total Homeless,2764
+2011,FL,12,Tallahassee/Leon County,Total Homeless,787
+2011,FL,12,"Orlando/Orange, Osceola, Seminole Counties",Total Homeless,4515
+2011,FL,12,"Gainesville/Alachua, Putnam Counties",Total Homeless,1179
+2011,FL,12,"Fort Pierce/St. Lucie, Indian River, Martin Counties",Total Homeless,1683
+2011,FL,12,"Jacksonville-Duval, Clay Counties",Total Homeless,3025
+2011,FL,12,Pensacola/Escambia/Santa Rosa County,Total Homeless,733
+2011,FL,12,Saint Johns County,Total Homeless,1391
+2011,FL,12,Palm Bay/Melbourne/Brevard County,Total Homeless,1907
+2011,FL,12,Ocala/Marion County,Total Homeless,1032
+2011,FL,12,"Panama City/Bay, Jackson Counties",Total Homeless,411
+2011,FL,12,"Hendry, Hardee, Highlands Counties",Total Homeless,1319
+2011,FL,12,"Columbia, Hamilton, Lafayette, Suwannee Counties",Total Homeless,1179
+2011,FL,12,Pasco County,Total Homeless,4502
+2011,FL,12,"Citrus, Hernando, Lake, Sumter Counties",Total Homeless,1715
+2011,FL,12,Miami/Dade County,Total Homeless,3817
+2011,FL,12,Ft Lauderdale/Broward County,Total Homeless,3801
+2011,FL,12,Punta Gorda/Charlotte County,Total Homeless,828
+2011,FL,12,Ft Myers/Cape Coral/Lee County,Total Homeless,969
+2011,FL,12,Monroe County,Total Homeless,904
+2011,FL,12,West Palm Beach/Palm Beach County,Total Homeless,2148
+2011,FL,12,Naples/Collier County,Total Homeless,390
+2011,GA,13,Atlanta Continuum of Care,Total Homeless,6805
+2011,GA,13,Georgia Balance of State,Total Homeless,11168
+2011,GA,13,Athens/Clarke County,Total Homeless,407
+2011,GA,13,Augusta,Total Homeless,497
+2011,GA,13,Columbus-Muscogee/Russell County,Total Homeless,486
+2011,GA,13,Marietta/Cobb County,Total Homeless,370
+2011,GA,13,Savannah/Chatham County,Total Homeless,1242
+2011,HI,15,Hawaii Balance of State,Total Homeless,1954
+2011,HI,15,Honolulu,Total Homeless,4234
+2011,IA,19,"Sioux City/Dakota, Woodbury Counties",Total Homeless,366
+2011,IA,19,Iowa Balance of State,Total Homeless,1782
+2011,IA,19,Des Moines/Polk County,Total Homeless,986
+2011,ID,16,Boise/Ada County,Total Homeless,838
+2011,ID,16,Idaho Balance of State,Total Homeless,1361
+2011,IL,17,McHenry County,Total Homeless,182
+2011,IL,17,"Rockford/Winnebago, Boone Counties",Total Homeless,580
+2011,IL,17,Waukegan/North Chicago/Lake County,Total Homeless,464
+2011,IL,17,Champaign/Urbana/Rantoul/Champaign County,Total Homeless,231
+2011,IL,17,Madison County,Total Homeless,256
+2011,IL,17,Joliet/Bolingbrook/Will County,Total Homeless,353
+2011,IL,17,"Peoria/Perkin/Fulton, Peoria, Tazewell, Woodford",Total Homeless,313
+2011,IL,17,East Saint Louis/Belleville/Saint Clair County,Total Homeless,370
+2011,IL,17,Dekalb City & County,Total Homeless,160
+2011,IL,17,Chicago,Total Homeless,6635
+2011,IL,17,Cook County,Total Homeless,1257
+2011,IL,17,Bloomington/Central Illinois,Total Homeless,635
+2011,IL,17,Springfield/Sangamon County,Total Homeless,227
+2011,IL,17,DuPage County,Total Homeless,676
+2011,IL,17,South Central Illinois,Total Homeless,160
+2011,IL,17,Decatur/Macon County,Total Homeless,206
+2011,IL,17,Aurora/Elgin/Kane County,Total Homeless,444
+2011,IL,17,Rock Island/Moline/Northwestern Illinois,Total Homeless,313
+2011,IL,17,West Central Illinois,Total Homeless,160
+2011,IL,17,Southern Illinois,Total Homeless,387
+2011,IN,18,South Bend/Mishawaka/St. Joseph County,Total Homeless,613
+2011,IN,18,Indiana Balance of State,Total Homeless,3996
+2011,IN,18,Indianapolis,Total Homeless,1587
+2011,KS,20,Wichita/Sedgwick County,Total Homeless,634
+2011,KS,20,Topeka/Shawnee County,Total Homeless,336
+2011,KS,20,Overland Park/Shawnee/Johnson County,Total Homeless,315
+2011,KS,20,Kansas Balance of State,Total Homeless,1023
+2011,KY,21,Kentucky Balance of State,Total Homeless,2834
+2011,KY,21,Louisville/Jefferson County,Total Homeless,1628
+2011,KY,21,Lexington/Fayette County,Total Homeless,1572
+2011,LA,22,Lafayette/Acadiana,Total Homeless,577
+2011,LA,22,Shreveport/Bossier/Northwest,Total Homeless,733
+2011,LA,22,New Orleans/Jefferson Parish,Total Homeless,6687
+2011,LA,22,Baton Rouge,Total Homeless,501
+2011,LA,22,Monroe/Northeast Louisiana,Total Homeless,227
+2011,LA,22,Slidell/Southeast Louisiana,Total Homeless,281
+2011,LA,22,Alexandria/Central Louisiana,Total Homeless,208
+2011,LA,22,Houma-Terrebonne/Thibodaux,Total Homeless,32
+2011,LA,22,Louisiana Balance of State,Total Homeless,45
+2011,MA,25,Boston,Total Homeless,5476
+2011,MA,25,"Holyoke/Franklin, Hampden, Hampshire Counties",Total Homeless,1541
+2011,MA,25,Lynn,Total Homeless,531
+2011,MA,25,Cape Cod/Islands,Total Homeless,480
+2011,MA,25,Springfield,Total Homeless,1025
+2011,MA,25,New Bedford,Total Homeless,351
+2011,MA,25,Worcester City & County,Total Homeless,1315
+2011,MA,25,Pittsfield/Berkshire County,Total Homeless,192
+2011,MA,25,Lowell,Total Homeless,589
+2011,MA,25,Cambridge,Total Homeless,471
+2011,MA,25,Gloucester/Haverhill/Salem/Essex County,Total Homeless,886
+2011,MA,25,Quincy/Brockton/Weymouth/Plymouth City and County,Total Homeless,1468
+2011,MA,25,Fall River,Total Homeless,288
+2011,MA,25,Massachusetts Balance of State,Total Homeless,1499
+2011,MA,25,Somerville,Total Homeless,137
+2011,MA,25,Brookline/Newton,Total Homeless,191
+2011,MA,25,Attleboro/Taunton/Bristol County,Total Homeless,224
+2011,MD,24,Cumberland/Allegany County,Total Homeless,123
+2011,MD,24,Baltimore City,Total Homeless,4094
+2011,MD,24,Harford County,Total Homeless,243
+2011,MD,24,Annapolis/Anne Arundel County,Total Homeless,382
+2011,MD,24,Howard County,Total Homeless,189
+2011,MD,24,Baltimore County,Total Homeless,881
+2011,MD,24,Carroll County,Total Homeless,179
+2011,MD,24,Cecil County,Total Homeless,220
+2011,MD,24,"Charles, Calvert, St.Mary's Counties",Total Homeless,1153
+2011,MD,24,Frederick City & County,Total Homeless,248
+2011,MD,24,Garrett County,Total Homeless,35
+2011,MD,24,Mid-Shore Regional,Total Homeless,85
+2011,MD,24,Hagerstown/Washington County,Total Homeless,210
+2011,MD,24,Wicomico/Somerset/Worcester County,Total Homeless,253
+2011,MD,24,Prince George`s County/Maryland,Total Homeless,772
+2011,MD,24,Montgomery County,Total Homeless,1141
+2011,ME,23,Maine Balance of State,Total Homeless,1832
+2011,ME,23,Portland,Total Homeless,615
+2011,MI,26,Michigan Balance of State,Total Homeless,2499
+2011,MI,26,Detroit,Total Homeless,3138
+2011,MI,26,Dearborn/Dearborn Heights/Westland/Wayne County,Total Homeless,482
+2011,MI,26,St. Clair Shores/Warren/Macomb County,Total Homeless,656
+2011,MI,26,Pontiac/Royal Oak/Oakland County,Total Homeless,713
+2011,MI,26,Flint/Genesee County,Total Homeless,490
+2011,MI,26,Grand Rapids/Wyoming/Kent County,Total Homeless,627
+2011,MI,26,Portage/Kalamazoo City & County,Total Homeless,822
+2011,MI,26,Lansing/East Lansing/Ingham County,Total Homeless,444
+2011,MI,26,Ann Arbor/Washtenaw County,Total Homeless,469
+2011,MI,26,Saginaw City & County,Total Homeless,390
+2011,MI,26,Lenawee County,Total Homeless,166
+2011,MI,26,"Grand Traverse, Antrim, Leelanau Counties",Total Homeless,234
+2011,MI,26,"Marquette, Alger Counties",Total Homeless,102
+2011,MI,26,Battle Creek/Calhoun County,Total Homeless,192
+2011,MI,26,Monroe City & County,Total Homeless,121
+2011,MI,26,Norton Shores/Muskegon City & County,Total Homeless,691
+2011,MI,26,Jackson City & County,Total Homeless,246
+2011,MI,26,Livingston County,Total Homeless,135
+2011,MI,26,Holland/Ottawa County,Total Homeless,343
+2011,MI,26,Eaton County,Total Homeless,225
+2011,MN,27,Minneapolis/Hennepin County,Total Homeless,3100
+2011,MN,27,Saint Paul/Ramsey County,Total Homeless,1439
+2011,MN,27,Rochester/Southeast Minnesota,Total Homeless,361
+2011,MN,27,"Dakota, Anoka, Washington, Scott, Carver Counties",Total Homeless,696
+2011,MN,27,Northeast Minnesota,Total Homeless,174
+2011,MN,27,St. Cloud/Central Minnesota,Total Homeless,599
+2011,MN,27,Northwest Minnesota,Total Homeless,252
+2011,MN,27,Moorhead/West Central Minnesota,Total Homeless,263
+2011,MN,27,Duluth/St.Louis County,Total Homeless,494
+2011,MN,27,Southwest Minnesota,Total Homeless,117
+2011,MO,29,St. Louis County,Total Homeless,657
+2011,MO,29,St.Louis City,Total Homeless,1344
+2011,MO,29,"St. Charles, Lincoln, Warren Counties",Total Homeless,1003
+2011,MO,29,"Springfield/Greene, Christian, Webster Counties",Total Homeless,591
+2011,MO,29,"Joplin/Jasper, Newton Counties",Total Homeless,457
+2011,MO,29,"St. Joseph/Andrew, Buchanan, DeKalb Counties",Total Homeless,181
+2011,MO,29,"Kansas City, Independence, Lees Summit/Jackson, Wyandotte Counties, MO & KS",Total Homeless,2992
+2011,MO,29,Missouri Balance of State,Total Homeless,1967
+2011,MS,28,"Jackson/Rankin, Madison Counties",Total Homeless,826
+2011,MS,28,Mississippi Balance of State,Total Homeless,951
+2011,MS,28,Gulf Port/Gulf Coast Regional,Total Homeless,529
+2011,MT,30,Montana Statewide,Total Homeless,1768
+2011,NC,37,Winston Salem/Forsyth County,Total Homeless,527
+2011,NC,37,Asheville/Buncombe County,Total Homeless,514
+2011,NC,37,Durham City & County,Total Homeless,597
+2011,NC,37,North Carolina Balance of State,Total Homeless,2987
+2011,NC,37,Greensboro/High Point,Total Homeless,1024
+2011,NC,37,Charlotte/Mecklenberg,Total Homeless,2847
+2011,NC,37,"Wilmington/Brunswick, New Hanover, Pender Counties",Total Homeless,483
+2011,NC,37,Raleigh/Wake County,Total Homeless,1150
+2011,NC,37,"Gastonia/Cleveland, Gaston, Lincoln Counties",Total Homeless,378
+2011,NC,37,Fayetteville/Cumberland County,Total Homeless,1061
+2011,NC,37,Chapel Hill/Orange County,Total Homeless,136
+2011,NC,37,Northwest North Carolina,Total Homeless,1192
+2011,ND,38,North Dakota Statewide,Total Homeless,603
+2011,NE,31,Nebraska Balance of State,Total Homeless,1121
+2011,NE,31,Omaha/Council Bluffs,Total Homeless,1580
+2011,NE,31,Lincoln,Total Homeless,847
+2011,NH,33,New Hampshire Balance of State,Total Homeless,808
+2011,NH,33,Manchester,Total Homeless,350
+2011,NH,33,Nashua/Hillsborough County,Total Homeless,311
+2011,NJ,34,Atlantic City & County,Total Homeless,533
+2011,NJ,34,Bergen County,Total Homeless,1521
+2011,NJ,34,Burlington County,Total Homeless,1035
+2011,NJ,34,"Camden City/Camden, Cumberland, Gloucester, Cape May Counties",Total Homeless,1427
+2011,NJ,34,Newark/Essex County,Total Homeless,1505
+2011,NJ,34,Jersey City/Bayonne/Hudson County,Total Homeless,1536
+2011,NJ,34,New Brunswick/Middlesex County,Total Homeless,930
+2011,NJ,34,Monmouth County,Total Homeless,559
+2011,NJ,34,Morris County,Total Homeless,446
+2011,NJ,34,Lakewood Township/Ocean County,Total Homeless,545
+2011,NJ,34,Paterson/Passaic County,Total Homeless,847
+2011,NJ,34,Salem County,Total Homeless,80
+2011,NJ,34,Somerset County,Total Homeless,387
+2011,NJ,34,Trenton/Mercer County,Total Homeless,843
+2011,NJ,34,Elizabeth/Union County,Total Homeless,1471
+2011,NJ,34,"Warren, Sussex, Hunterdon Counties",Total Homeless,472
+2011,NM,35,Albuquerque,Total Homeless,1639
+2011,NM,35,New Mexico Balance of State,Total Homeless,1962
+2011,NV,32,Las Vegas/Clark County,Total Homeless,8003
+2011,NV,32,Reno/Sparks/Washoe County,Total Homeless,850
+2011,NV,32,Nevada Balance of State,Total Homeless,297
+2011,NY,36,Rochester/Irondequoit/Greece/Monroe County,Total Homeless,694
+2011,NY,36,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties",Total Homeless,297
+2011,NY,36,Albany City & County,Total Homeless,641
+2011,NY,36,Cattaragus County,Total Homeless,40
+2011,NY,36,"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties",Total Homeless,834
+2011,NY,36,"Fulton, Montgomery, Schoharie Counties",Total Homeless,60
+2011,NY,36,Schenectady City & County,Total Homeless,358
+2011,NY,36,"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties",Total Homeless,1156
+2011,NY,36,Ithaca/Tompkins County,Total Homeless,68
+2011,NY,36,"Binghamton, Union/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Counties C",Total Homeless,218
+2011,NY,36,Troy/Rensselaer County,Total Homeless,267
+2011,NY,36,"Wayne, Ontario, Seneca, Yates Counties",Total Homeless,111
+2011,NY,36,Jamestown/Dunkirk/Chautauqua County,Total Homeless,57
+2011,NY,36,Clinton County,Total Homeless,118
+2011,NY,36,"Utica/Rome/Oneida, Madison Counties",Total Homeless,182
+2011,NY,36,Columbia/Greene County,Total Homeless,177
+2011,NY,36,Franklin County,Total Homeless,22
+2011,NY,36,Jefferson/Lewis/St. Lawrence Counties,Total Homeless,108
+2011,NY,36,"Glens Falls/Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties",Total Homeless,320
+2011,NY,36,New York City,Total Homeless,51123
+2011,NY,36,Poughkeepsie/Dutchess County,Total Homeless,435
+2011,NY,36,Newburgh/Middletown/Orange County,Total Homeless,448
+2011,NY,36,"Nassau, Suffolk Counties/Babylon/Islip/ Huntington",Total Homeless,3278
+2011,NY,36,Yonkers/Mount Vernon/New Rochelle/Westchester,Total Homeless,1537
+2011,NY,36,Rockland County,Total Homeless,112
+2011,NY,36,Sullivan County,Total Homeless,525
+2011,NY,36,Kingston/Ulster County,Total Homeless,259
+2011,OH,39,Cincinnati/Hamilton County,Total Homeless,1275
+2011,OH,39,Toledo/Lucas County,Total Homeless,1096
+2011,OH,39,Cleveland/Cuyahoga County,Total Homeless,2262
+2011,OH,39,Columbus/Franklin County,Total Homeless,1418
+2011,OH,39,Youngstown/Mahoning County,Total Homeless,223
+2011,OH,39,Dayton/Kettering/Montgomery County,Total Homeless,986
+2011,OH,39,Akron/Barberton/Summit County,Total Homeless,857
+2011,OH,39,Ohio Balance of State,Total Homeless,4431
+2011,OH,39,Canton/Massillon/Alliance/Stark County,Total Homeless,482
+2011,OK,40,North Central Oklahoma,Total Homeless,249
+2011,OK,40,Tulsa City & County/Broken Arrow,Total Homeless,879
+2011,OK,40,Oklahoma City,Total Homeless,1348
+2011,OK,40,Oklahoma Balance of State,Total Homeless,483
+2011,OK,40,Norman/Cleveland County,Total Homeless,619
+2011,OK,40,Northeast Oklahoma,Total Homeless,266
+2011,OK,40,Southwest Oklahoma Regional,Total Homeless,133
+2011,OK,40,Southeastern Oklahoma Regional,Total Homeless,648
+2011,OR,41,Eugene/Springfield/Lane County,Total Homeless,2140
+2011,OR,41,Portland-Gresham-Multnomah County,Total Homeless,4497
+2011,OR,41,Medford/Ashland/Jackson County,Total Homeless,1049
+2011,OR,41,Central Oregon,Total Homeless,802
+2011,OR,41,Oregon Balance of State,Total Homeless,7006
+2011,OR,41,Hillsboro/Beaverton/Washington County,Total Homeless,752
+2011,OR,41,Clackamas County,Total Homeless,1008
+2011,PA,42,Philadelphia,Total Homeless,6180
+2011,PA,42,Harrisburg/Dauphin County,Total Homeless,394
+2011,PA,42,Upper Darby/Chester/Haverford/Delaware County,Total Homeless,648
+2011,PA,42,Wilkes-Barre/Hazleton/Luzerne County,Total Homeless,180
+2011,PA,42,Lower Marion/Norristown/Abington/Montgomery County,Total Homeless,410
+2011,PA,42,Chester County,Total Homeless,726
+2011,PA,42,Reading/Berks County,Total Homeless,357
+2011,PA,42,Scranton/Lackawanna County,Total Homeless,276
+2011,PA,42,Eastern Pennsylvania,Total Homeless,1720
+2011,PA,42,Lancaster City & County,Total Homeless,505
+2011,PA,42,Bristol/Bensalem/Bucks County,Total Homeless,505
+2011,PA,42,York City & County,Total Homeless,257
+2011,PA,42,Pittsburgh/McKeesport/Penn Hills/Allegheny County,Total Homeless,1423
+2011,PA,42,Western Pennsylvania,Total Homeless,991
+2011,PA,42,Beaver County,Total Homeless,119
+2011,PA,42,Erie City & County,Total Homeless,405
+2011,RI,44,Rhode Island Statewide,Total Homeless,1070
+2011,SC,45,Charleston/Low Country,Total Homeless,569
+2011,SC,45,Greenville/Anderson/Spartanburg Upstate,Total Homeless,1401
+2011,SC,45,Columbia/Midlands,Total Homeless,1621
+2011,SC,45,Myrtle Beach/Sumter City & County,Total Homeless,1502
+2011,SD,46,South Dakota Statewide,Total Homeless,826
+2011,TN,47,Chattanooga/Southeast Tennessee,Total Homeless,561
+2011,TN,47,Memphis/Shelby County,Total Homeless,1942
+2011,TN,47,Knoxville/Knox County,Total Homeless,998
+2011,TN,47,Central Tennessee,Total Homeless,232
+2011,TN,47,Nashville/Davidson County,Total Homeless,1938
+2011,TN,47,Oak Ridge/Upper Cumberland,Total Homeless,526
+2011,TN,47,Jackson/West Tennessee,Total Homeless,1894
+2011,TN,47,Appalachian Regional,Total Homeless,360
+2011,TN,47,Murfreesboro/Rutherford County,Total Homeless,225
+2011,TN,47,"Morristown/Blount, Sevier, Campbell, Cocke Counties",Total Homeless,437
+2011,TX,48,San Antonio/Bexar County,Total Homeless,3222
+2011,TX,48,Austin/Travis County,Total Homeless,2362
+2011,TX,48,Dallas City & County/Irving,Total Homeless,3540
+2011,TX,48,Fort Worth/Arlington/Tarrant County,Total Homeless,2169
+2011,TX,48,El Paso City & County,Total Homeless,1331
+2011,TX,48,Waco/McLennan County,Total Homeless,267
+2011,TX,48,Texas Balance of State (BoS),Total Homeless,14643
+2011,TX,48,Amarillo,Total Homeless,439
+2011,TX,48,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties",Total Homeless,234
+2011,TX,48,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties",Total Homeless,8471
+2011,TX,48,Bryan/College Station/Brazos Valley,Total Homeless,233
+2011,UT,49,Salt Lake City & County,Total Homeless,2033
+2011,UT,49,Utah Balance of State,Total Homeless,898
+2011,UT,49,Provo/Mountainland,Total Homeless,199
+2011,VA,51,"Richmond/Henrico, Chesterfield, Hanover Counties",Total Homeless,1084
+2011,VA,51,"Norfolk/Chesapeake/Suffolk/Isle of Wright, Southampton Counties",Total Homeless,609
+2011,VA,51,Roanoke City & County/Salem,Total Homeless,536
+2011,VA,51,Virginia Beach,Total Homeless,427
+2011,VA,51,Charlottesville,Total Homeless,213
+2011,VA,51,Newport News/Hampton/Virginia Peninsula,Total Homeless,736
+2011,VA,51,Portsmouth,Total Homeless,265
+2011,VA,51,Lynchburg,Total Homeless,226
+2011,VA,51,"Harrisburg, Winchester/Western Virginia",Total Homeless,311
+2011,VA,51,"Fredericksburg/Spotsylvania, Stafford Counties",Total Homeless,191
+2011,VA,51,Virginia Balance of State (BoS),Total Homeless,1064
+2011,VA,51,Arlington County,Total Homeless,461
+2011,VA,51,Fairfax County,Total Homeless,1549
+2011,VA,51,Loudoun County,Total Homeless,162
+2011,VA,51,City of Alexandria,Total Homeless,416
+2011,VA,51,Prince William County,Total Homeless,566
+2011,VT,50,Vermont Balance of State,Total Homeless,655
+2011,VT,50,Burlington/Chittenden County,Total Homeless,489
+2011,WA,53,Seattle/King County,Total Homeless,8972
+2011,WA,53,Washington Balance of State,Total Homeless,4956
+2011,WA,53,Spokane City & County,Total Homeless,1272
+2011,WA,53,Tacoma/Lakewood/Pierce County,Total Homeless,2089
+2011,WA,53,Everett/Snohomish County,Total Homeless,1860
+2011,WA,53,Yakima City & County,Total Homeless,443
+2011,WA,53,Vancouver/Clark County,Total Homeless,847
+2011,WI,55,Wisconsin Balance of State,Total Homeless,3400
+2011,WI,55,Milwaukee City & County,Total Homeless,1466
+2011,WI,55,Racine City & County,Total Homeless,243
+2011,WI,55,Madison/Dane County,Total Homeless,676
+2011,WV,54,Wheeling/Weirton Area,Total Homeless,124
+2011,WV,54,"Huntington/Cabell, Wayne Counties",Total Homeless,238
+2011,WV,54,"Charleston/Kanawha, Putnam, Boone, Clay Counties",Total Homeless,394
+2011,WV,54,West Virginia Balance of State,Total Homeless,1455
+2011,WY,56,Wyoming Statewide,Total Homeless,1038
+2012,AK,2,Anchorage,Total Homeless,1147
+2012,AK,2,Alaska Balance of State,Total Homeless,766
+2012,AL,1,"Birmingham/Jefferson, St. Clair, Shelby Counties",Total Homeless,1707
+2012,AL,1,Mobile City & County/Baldwin County,Total Homeless,634
+2012,AL,1,Florence/Northwest Alabama,Total Homeless,192
+2012,AL,1,Huntsville/North Alabama,Total Homeless,607
+2012,AL,1,Montgomery City & County,Total Homeless,487
+2012,AL,1,Gadsden/Northeast Alabama,Total Homeless,544
+2012,AL,1,Tuscaloosa City & County,Total Homeless,152
+2012,AL,1,Alabama Balance of State,Total Homeless,886
+2012,AR,5,Little Rock/Central Arkansas,Total Homeless,1249
+2012,AR,5,Fayetteville/Northwest Arkansas,Total Homeless,186
+2012,AR,5,Arkansas  Balance of State ,Total Homeless,1873
+2012,AR,5,Delta Hills,Total Homeless,785
+2012,AR,5,Southeast Arkansas,Total Homeless,64
+2012,AR,5,"Boone, Baxter, Marion, Newton Counties",Total Homeless,57
+2012,AZ,4,Arizona Balance of State,Total Homeless,2451
+2012,AZ,4,Tucson/Pima County,Total Homeless,2366
+2012,AZ,4,Phoenix/Mesa/Maricopa County Regional,Total Homeless,6485
+2012,CA,6,San Jose/Santa Clara City & County,Total Homeless,7053
+2012,CA,6,San Francisco,Total Homeless,5895
+2012,CA,6,Oakland/Alameda County,Total Homeless,4257
+2012,CA,6,Sacramento City & County,Total Homeless,2812
+2012,CA,6,Santa Rosa/Petaluma/Sonoma County,Total Homeless,4483
+2012,CA,6,Richmond/Contra Costa County,Total Homeless,2386
+2012,CA,6,"Salinas/Monterey, San Benito Counties",Total Homeless,2673
+2012,CA,6,Marin County,Total Homeless,725
+2012,CA,6,Watsonville/Santa Cruz City & County,Total Homeless,2735
+2012,CA,6,Mendocino County,Total Homeless,1441
+2012,CA,6,Turlock/Modesto/Stanislaus County,Total Homeless,1470
+2012,CA,6,Stockton/San Joaquin County,Total Homeless,1569
+2012,CA,6,Daly/San Mateo County,Total Homeless,1845
+2012,CA,6,"Visalia, Kings, Tulare Counties",Total Homeless,771
+2012,CA,6,Fresno/Madera County,Total Homeless,4492
+2012,CA,6,"Roseville/Rocklin/Placer, Nevada Counties",Total Homeless,742
+2012,CA,6,"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties",Total Homeless,524
+2012,CA,6,Napa City & County,Total Homeless,248
+2012,CA,6,Vallejo/Solano County,Total Homeless,622
+2012,CA,6,Chico/Paradise/Butte County,Total Homeless,897
+2012,CA,6,Merced City & County,Total Homeless,502
+2012,CA,6,Davis/Woodland/Yolo County,Total Homeless,513
+2012,CA,6,Humboldt County,Total Homeless,846
+2012,CA,6,"Colusa, Glenn, Trinity Counties",Total Homeless,303
+2012,CA,6,Yuba City & County/Sutter County,Total Homeless,492
+2012,CA,6,El Dorado County,Total Homeless,217
+2012,CA,6,"Amador, Calaveras, Tuolumne and Mariposa Counties",Total Homeless,379
+2012,CA,6,Del Norte County,Total Homeless,437
+2012,CA,6,Los Angeles City & County,Total Homeless,31553
+2012,CA,6,San Diego City and County,Total Homeless,10013
+2012,CA,6,Santa Ana/Anaheim/Orange County,Total Homeless,7010
+2012,CA,6,Santa Maria/Santa Barbara County,Total Homeless,1546
+2012,CA,6,Bakersfield/Kern County,Total Homeless,1352
+2012,CA,6,Long Beach,Total Homeless,3170
+2012,CA,6,Pasadena,Total Homeless,904
+2012,CA,6,Riverside City & County,Total Homeless,6096
+2012,CA,6,San Bernardino City & County,Total Homeless,2532
+2012,CA,6,Oxnard/San Buenaventura/Ventura County,Total Homeless,1926
+2012,CA,6,Glendale,Total Homeless,299
+2012,CA,6,Imperial County,Total Homeless,239
+2012,CA,6,San Luis Obispo County,Total Homeless,2129
+2012,CO,8,Colorado Balance of State,Total Homeless,9283
+2012,CO,8,Metropolitan Denver Homeless Initiative,Total Homeless,6358
+2012,CO,8,Colorado Springs/El Paso County,Total Homeless,1127
+2012,CT,9,Bridgeport/Norwalk /Stamford/Fairfield County,Total Homeless,902
+2012,CT,9,Connecticut Balance of State,Total Homeless,3307
+2012,DC,11,District of Columbia,Total Homeless,6954
+2012,DE,10,Delaware Statewide,Total Homeless,1008
+2012,FL,12,"Sarasota/Bradenton/Manatee, Sarasota Counties",Total Homeless,921
+2012,FL,12,Tampa/Hillsborough County,Total Homeless,7419
+2012,FL,12,St. Petersburg/Clearwater/Largo/Pinellas County,Total Homeless,3971
+2012,FL,12,Lakeland/Winter Haven/Polk County,Total Homeless,881
+2012,FL,12,"Daytona Beach/Daytona/Volusia, Flagler Counties",Total Homeless,2384
+2012,FL,12,"Fort Walton Beach/Okaloosa, Walton Counties",Total Homeless,2438
+2012,FL,12,Tallahassee/Leon County,Total Homeless,797
+2012,FL,12,"Orlando/Orange, Osceola, Seminole Counties",Total Homeless,3661
+2012,FL,12,"Gainesville/Alachua, Putnam Counties",Total Homeless,1814
+2012,FL,12,"Fort Pierce/St. Lucie, Indian River, Martin Counties",Total Homeless,1724
+2012,FL,12,"Jacksonville-Duval, Clay Counties",Total Homeless,2861
+2012,FL,12,Pensacola/Escambia/Santa Rosa County,Total Homeless,792
+2012,FL,12,Saint Johns County,Total Homeless,1385
+2012,FL,12,Palm Bay/Melbourne/Brevard County,Total Homeless,2062
+2012,FL,12,Ocala/Marion County,Total Homeless,911
+2012,FL,12,"Panama City/Bay, Jackson Counties",Total Homeless,322
+2012,FL,12,"Hendry, Hardee, Highlands Counties",Total Homeless,1319
+2012,FL,12,"Columbia, Hamilton, Lafayette, Suwannee Counties",Total Homeless,1180
+2012,FL,12,Pasco County,Total Homeless,4351
+2012,FL,12,"Citrus, Hernando, Lake, Sumter Counties",Total Homeless,1788
+2012,FL,12,Miami/Dade County,Total Homeless,3976
+2012,FL,12,Ft Lauderdale/Broward County,Total Homeless,3183
+2012,FL,12,Punta Gorda/Charlotte County,Total Homeless,756
+2012,FL,12,Ft Myers/Cape Coral/Lee County,Total Homeless,781
+2012,FL,12,Monroe County,Total Homeless,922
+2012,FL,12,West Palm Beach/Palm Beach County,Total Homeless,2116
+2012,FL,12,Naples/Collier County,Total Homeless,455
+2012,GA,13,Atlanta Continuum of Care,Total Homeless,6811
+2012,GA,13,Georgia Balance of State,Total Homeless,11105
+2012,GA,13,Athens/Clarke County,Total Homeless,361
+2012,GA,13,Augusta,Total Homeless,396
+2012,GA,13,Columbus-Muscogee/Russell County,Total Homeless,333
+2012,GA,13,Marietta/Cobb County,Total Homeless,392
+2012,GA,13,Savannah/Chatham County,Total Homeless,1118
+2012,HI,15,Hawaii Balance of State,Total Homeless,1893
+2012,HI,15,Honolulu,Total Homeless,4353
+2012,IA,19,"Sioux City/Dakota, Woodbury Counties",Total Homeless,250
+2012,IA,19,Iowa Balance of State,Total Homeless,1860
+2012,IA,19,Des Moines/Polk County,Total Homeless,818
+2012,ID,16,Boise/Ada County,Total Homeless,754
+2012,ID,16,Idaho Balance of State,Total Homeless,1214
+2012,IL,17,McHenry County,Total Homeless,196
+2012,IL,17,"Rockford/Winnebago, Boone Counties",Total Homeless,727
+2012,IL,17,Waukegan/North Chicago/Lake County,Total Homeless,450
+2012,IL,17,Champaign/Urbana/Rantoul/Champaign County,Total Homeless,209
+2012,IL,17,Madison County,Total Homeless,196
+2012,IL,17,Joliet/Bolingbrook/Will County,Total Homeless,291
+2012,IL,17,"Peoria/Perkin/Fulton, Peoria, Tazewell, Woodford",Total Homeless,376
+2012,IL,17,East Saint Louis/Belleville/Saint Clair County,Total Homeless,451
+2012,IL,17,Dekalb City & County,Total Homeless,125
+2012,IL,17,Chicago,Total Homeless,6710
+2012,IL,17,Cook County,Total Homeless,1242
+2012,IL,17,Bloomington/Central Illinois,Total Homeless,668
+2012,IL,17,Springfield/Sangamon County,Total Homeless,251
+2012,IL,17,DuPage County,Total Homeless,641
+2012,IL,17,South Central Illinois,Total Homeless,124
+2012,IL,17,Decatur/Macon County,Total Homeless,210
+2012,IL,17,Aurora/Elgin/Kane County,Total Homeless,431
+2012,IL,17,Rock Island/Moline/Northwestern Illinois,Total Homeless,263
+2012,IL,17,West Central Illinois,Total Homeless,172
+2012,IL,17,Southern Illinois,Total Homeless,411
+2012,IN,18,South Bend/Mishawaka/St. Joseph County,Total Homeless,653
+2012,IN,18,Indiana Balance of State,Total Homeless,3959
+2012,IN,18,Indianapolis,Total Homeless,1647
+2012,KS,20,Wichita/Sedgwick County,Total Homeless,550
+2012,KS,20,Topeka/Shawnee County,Total Homeless,577
+2012,KS,20,Overland Park/Shawnee/Johnson County,Total Homeless,288
+2012,KS,20,Kansas Balance of State,Total Homeless,1043
+2012,KY,21,Kentucky Balance of State,Total Homeless,2328
+2012,KY,21,Louisville/Jefferson County,Total Homeless,1532
+2012,KY,21,Lexington/Fayette County,Total Homeless,1370
+2012,LA,22,Lafayette/Acadiana,Total Homeless,518
+2012,LA,22,Shreveport/Bossier/Northwest,Total Homeless,804
+2012,LA,22,New Orleans/Jefferson Parish,Total Homeless,4903
+2012,LA,22,Baton Rouge,Total Homeless,741
+2012,LA,22,Monroe/Northeast Louisiana,Total Homeless,257
+2012,LA,22,Slidell/Southeast Louisiana,Total Homeless,276
+2012,LA,22,Alexandria/Central Louisiana,Total Homeless,188
+2012,LA,22,Houma-Terrebonne/Thibodaux,Total Homeless,7
+2012,LA,22,Louisiana Balance of State,Total Homeless,78
+2012,MA,25,Boston,Total Homeless,5607
+2012,MA,25,Lynn,Total Homeless,414
+2012,MA,25,Cape Cod/Islands,Total Homeless,364
+2012,MA,25,Springfield,Total Homeless,2444
+2012,MA,25,New Bedford,Total Homeless,374
+2012,MA,25,Worcester City & County,Total Homeless,1572
+2012,MA,25,Pittsfield/Berkshire County,Total Homeless,717
+2012,MA,25,Lowell,Total Homeless,534
+2012,MA,25,Cambridge,Total Homeless,485
+2012,MA,25,Gloucester/Haverhill/Salem/Essex County,Total Homeless,993
+2012,MA,25,Quincy/Brockton/Weymouth/Plymouth City and County,Total Homeless,1424
+2012,MA,25,Fall River,Total Homeless,307
+2012,MA,25,Massachusetts Balance of State,Total Homeless,1739
+2012,MA,25,Somerville,Total Homeless,145
+2012,MA,25,Brookline/Newton,Total Homeless,133
+2012,MA,25,Attleboro/Taunton/Bristol County,Total Homeless,249
+2012,MD,24,Cumberland/Allegany County,Total Homeless,110
+2012,MD,24,Baltimore City,Total Homeless,3854
+2012,MD,24,Harford County,Total Homeless,189
+2012,MD,24,Annapolis/Anne Arundel County,Total Homeless,373
+2012,MD,24,Howard County,Total Homeless,230
+2012,MD,24,Baltimore County,Total Homeless,800
+2012,MD,24,Carroll County,Total Homeless,167
+2012,MD,24,Cecil County,Total Homeless,187
+2012,MD,24,"Charles, Calvert, St.Mary's Counties",Total Homeless,1156
+2012,MD,24,Frederick City & County,Total Homeless,285
+2012,MD,24,Garrett County,Total Homeless,18
+2012,MD,24,Mid-Shore Regional,Total Homeless,80
+2012,MD,24,Hagerstown/Washington County,Total Homeless,161
+2012,MD,24,Wicomico/Somerset/Worcester County,Total Homeless,221
+2012,MD,24,Prince George`s County/Maryland,Total Homeless,641
+2012,MD,24,Montgomery County,Total Homeless,982
+2012,ME,23,Maine Balance of State,Total Homeless,1762
+2012,ME,23,Portland,Total Homeless,631
+2012,MI,26,Michigan Balance of State,Total Homeless,2255
+2012,MI,26,Detroit,Total Homeless,3115
+2012,MI,26,Dearborn/Dearborn Heights/Westland/Wayne County,Total Homeless,476
+2012,MI,26,St. Clair Shores/Warren/Macomb County,Total Homeless,607
+2012,MI,26,Pontiac/Royal Oak/Oakland County,Total Homeless,743
+2012,MI,26,Flint/Genesee County,Total Homeless,435
+2012,MI,26,Grand Rapids/Wyoming/Kent County,Total Homeless,712
+2012,MI,26,Portage/Kalamazoo City & County,Total Homeless,729
+2012,MI,26,Lansing/East Lansing/Ingham County,Total Homeless,470
+2012,MI,26,Ann Arbor/Washtenaw County,Total Homeless,381
+2012,MI,26,Saginaw City & County,Total Homeless,402
+2012,MI,26,Lenawee County,Total Homeless,118
+2012,MI,26,"Grand Traverse, Antrim, Leelanau Counties",Total Homeless,316
+2012,MI,26,"Marquette, Alger Counties",Total Homeless,80
+2012,MI,26,Battle Creek/Calhoun County,Total Homeless,216
+2012,MI,26,Monroe City & County,Total Homeless,113
+2012,MI,26,Norton Shores/Muskegon City & County,Total Homeless,457
+2012,MI,26,Jackson City & County,Total Homeless,256
+2012,MI,26,Livingston County,Total Homeless,150
+2012,MI,26,Holland/Ottawa County,Total Homeless,322
+2012,MI,26,Eaton County,Total Homeless,239
+2012,MN,27,Minneapolis/Hennepin County,Total Homeless,3285
+2012,MN,27,Saint Paul/Ramsey County,Total Homeless,1218
+2012,MN,27,Rochester/Southeast Minnesota,Total Homeless,379
+2012,MN,27,"Dakota, Anoka, Washington, Scott, Carver Counties",Total Homeless,853
+2012,MN,27,Northeast Minnesota,Total Homeless,178
+2012,MN,27,St. Cloud/Central Minnesota,Total Homeless,547
+2012,MN,27,Northwest Minnesota,Total Homeless,301
+2012,MN,27,Moorhead/West Central Minnesota,Total Homeless,254
+2012,MN,27,Duluth/St.Louis County,Total Homeless,568
+2012,MN,27,Southwest Minnesota,Total Homeless,161
+2012,MO,29,St. Louis County,Total Homeless,543
+2012,MO,29,St.Louis City,Total Homeless,1506
+2012,MO,29,"St. Charles, Lincoln, Warren Counties",Total Homeless,1023
+2012,MO,29,"Springfield/Greene, Christian, Webster Counties",Total Homeless,662
+2012,MO,29,"Joplin/Jasper, Newton Counties",Total Homeless,1724
+2012,MO,29,"St. Joseph/Andrew, Buchanan, DeKalb Counties",Total Homeless,186
+2012,MO,29,"Kansas City, Independence, Lees Summit/Jackson, Wyandotte Counties, MO & KS",Total Homeless,2705
+2012,MO,29,Missouri Balance of State,Total Homeless,2114
+2012,MS,28,"Jackson/Rankin, Madison Counties",Total Homeless,1037
+2012,MS,28,Mississippi Balance of State,Total Homeless,1018
+2012,MS,28,Gulf Port/Gulf Coast Regional,Total Homeless,358
+2012,MT,30,Montana Statewide,Total Homeless,1833
+2012,NC,37,Winston Salem/Forsyth County,Total Homeless,556
+2012,NC,37,Asheville/Buncombe County,Total Homeless,560
+2012,NC,37,Durham City & County,Total Homeless,698
+2012,NC,37,North Carolina Balance of State,Total Homeless,2922
+2012,NC,37,Greensboro/High Point,Total Homeless,990
+2012,NC,37,Charlotte/Mecklenberg,Total Homeless,2567
+2012,NC,37,"Wilmington/Brunswick, New Hanover, Pender Counties",Total Homeless,469
+2012,NC,37,Raleigh/Wake County,Total Homeless,1116
+2012,NC,37,"Gastonia/Cleveland, Gaston, Lincoln Counties",Total Homeless,611
+2012,NC,37,Fayetteville/Cumberland County,Total Homeless,1606
+2012,NC,37,Chapel Hill/Orange County,Total Homeless,110
+2012,NC,37,Northwest North Carolina,Total Homeless,1319
+2012,ND,38,North Dakota Statewide,Total Homeless,688
+2012,NE,31,Nebraska Balance of State,Total Homeless,1278
+2012,NE,31,Omaha/Council Bluffs,Total Homeless,1530
+2012,NE,31,Lincoln,Total Homeless,981
+2012,NH,33,New Hampshire Balance of State,Total Homeless,761
+2012,NH,33,Manchester,Total Homeless,399
+2012,NH,33,Nashua/Hillsborough County,Total Homeless,336
+2012,NJ,34,Atlantic City & County,Total Homeless,631
+2012,NJ,34,Bergen County,Total Homeless,454
+2012,NJ,34,Burlington County,Total Homeless,823
+2012,NJ,34,"Camden City/Camden, Cumberland, Gloucester, Cape May Counties",Total Homeless,1215
+2012,NJ,34,Newark/Essex County,Total Homeless,1504
+2012,NJ,34,Jersey City/Bayonne/Hudson County,Total Homeless,2087
+2012,NJ,34,New Brunswick/Middlesex County,Total Homeless,1145
+2012,NJ,34,Monmouth County,Total Homeless,650
+2012,NJ,34,Morris County,Total Homeless,281
+2012,NJ,34,Lakewood Township/Ocean County,Total Homeless,649
+2012,NJ,34,Paterson/Passaic County,Total Homeless,518
+2012,NJ,34,Salem County,Total Homeless,78
+2012,NJ,34,Somerset County,Total Homeless,295
+2012,NJ,34,Trenton/Mercer County,Total Homeless,1009
+2012,NJ,34,Elizabeth/Union County,Total Homeless,1456
+2012,NJ,34,"Warren, Sussex, Hunterdon Counties",Total Homeless,230
+2012,NM,35,Albuquerque,Total Homeless,1431
+2012,NM,35,New Mexico Balance of State,Total Homeless,1814
+2012,NV,32,Las Vegas/Clark County,Total Homeless,7323
+2012,NV,32,Reno/Sparks/Washoe County,Total Homeless,869
+2012,NV,32,Nevada Balance of State,Total Homeless,305
+2012,NY,36,Rochester/Irondequoit/Greece/Monroe County,Total Homeless,699
+2012,NY,36,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties",Total Homeless,305
+2012,NY,36,Albany City & County,Total Homeless,590
+2012,NY,36,Cattaragus County,Total Homeless,38
+2012,NY,36,"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties",Total Homeless,882
+2012,NY,36,"Fulton, Montgomery, Schoharie Counties",Total Homeless,72
+2012,NY,36,Schenectady City & County,Total Homeless,287
+2012,NY,36,"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties",Total Homeless,1183
+2012,NY,36,Ithaca/Tompkins County,Total Homeless,68
+2012,NY,36,"Binghamton, Union/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Counties C",Total Homeless,292
+2012,NY,36,Troy/Rensselaer County,Total Homeless,225
+2012,NY,36,"Wayne, Ontario, Seneca, Yates Counties",Total Homeless,121
+2012,NY,36,Jamestown/Dunkirk/Chautauqua County,Total Homeless,33
+2012,NY,36,Clinton County,Total Homeless,236
+2012,NY,36,"Utica/Rome/Oneida, Madison Counties",Total Homeless,176
+2012,NY,36,Columbia/Greene County,Total Homeless,132
+2012,NY,36,Franklin County,Total Homeless,14
+2012,NY,36,Jefferson/Lewis/St. Lawrence Counties,Total Homeless,95
+2012,NY,36,"Glens Falls/Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties",Total Homeless,299
+2012,NY,36,New York City,Total Homeless,56672
+2012,NY,36,Poughkeepsie/Dutchess County,Total Homeless,453
+2012,NY,36,Newburgh/Middletown/Orange County,Total Homeless,502
+2012,NY,36,"Nassau, Suffolk Counties/Babylon/Islip/ Huntington",Total Homeless,3359
+2012,NY,36,Yonkers/Mount Vernon/New Rochelle/Westchester,Total Homeless,1741
+2012,NY,36,Rockland County,Total Homeless,107
+2012,NY,36,Sullivan County,Total Homeless,630
+2012,NY,36,Kingston/Ulster County,Total Homeless,355
+2012,OH,39,Cincinnati/Hamilton County,Total Homeless,1654
+2012,OH,39,Toledo/Lucas County,Total Homeless,977
+2012,OH,39,Cleveland/Cuyahoga County,Total Homeless,2191
+2012,OH,39,Columbus/Franklin County,Total Homeless,1434
+2012,OH,39,Youngstown/Mahoning County,Total Homeless,224
+2012,OH,39,Dayton/Kettering/Montgomery County,Total Homeless,1081
+2012,OH,39,Akron/Barberton/Summit County,Total Homeless,813
+2012,OH,39,Ohio Balance of State,Total Homeless,5121
+2012,OH,39,Canton/Massillon/Alliance/Stark County,Total Homeless,482
+2012,OK,40,North Central Oklahoma,Total Homeless,204
+2012,OK,40,Tulsa City & County/Broken Arrow,Total Homeless,1021
+2012,OK,40,Oklahoma City,Total Homeless,1303
+2012,OK,40,Oklahoma Balance of State,Total Homeless,571
+2012,OK,40,Norman/Cleveland County,Total Homeless,616
+2012,OK,40,Northeast Oklahoma,Total Homeless,342
+2012,OK,40,Southwest Oklahoma Regional,Total Homeless,396
+2012,OK,40,Southeastern Oklahoma Regional,Total Homeless,579
+2012,OR,41,Eugene/Springfield/Lane County,Total Homeless,2057
+2012,OR,41,Portland-Gresham-Multnomah County,Total Homeless,4423
+2012,OR,41,Medford/Ashland/Jackson County,Total Homeless,691
+2012,OR,41,Central Oregon,Total Homeless,808
+2012,OR,41,Oregon Balance of State,Total Homeless,6105
+2012,OR,41,Hillsboro/Beaverton/Washington County,Total Homeless,751
+2012,OR,41,Clackamas County,Total Homeless,993
+2012,PA,42,Philadelphia,Total Homeless,5780
+2012,PA,42,Harrisburg/Dauphin County,Total Homeless,386
+2012,PA,42,Upper Darby/Chester/Haverford/Delaware County,Total Homeless,604
+2012,PA,42,Wilkes-Barre/Hazleton/Luzerne County,Total Homeless,178
+2012,PA,42,Lower Marion/Norristown/Abington/Montgomery County,Total Homeless,419
+2012,PA,42,Chester County,Total Homeless,691
+2012,PA,42,Reading/Berks County,Total Homeless,340
+2012,PA,42,Scranton/Lackawanna County,Total Homeless,260
+2012,PA,42,Eastern Pennsylvania,Total Homeless,1752
+2012,PA,42,Lancaster City & County,Total Homeless,562
+2012,PA,42,Bristol/Bensalem/Bucks County,Total Homeless,458
+2012,PA,42,York City & County,Total Homeless,284
+2012,PA,42,Pittsburgh/McKeesport/Penn Hills/Allegheny County,Total Homeless,1376
+2012,PA,42,Western Pennsylvania,Total Homeless,1097
+2012,PA,42,Beaver County,Total Homeless,110
+2012,PA,42,Erie City & County,Total Homeless,439
+2012,RI,44,Rhode Island Statewide,Total Homeless,1277
+2012,SC,45,Charleston/Low Country,Total Homeless,483
+2012,SC,45,Greenville/Anderson/Spartanburg Upstate,Total Homeless,1324
+2012,SC,45,Columbia/Midlands,Total Homeless,1648
+2012,SC,45,Myrtle Beach/Sumter City & County,Total Homeless,1460
+2012,SD,46,South Dakota Statewide,Total Homeless,859
+2012,TN,47,Chattanooga/Southeast Tennessee,Total Homeless,548
+2012,TN,47,Memphis/Shelby County,Total Homeless,2076
+2012,TN,47,Knoxville/Knox County,Total Homeless,854
+2012,TN,47,Central Tennessee,Total Homeless,245
+2012,TN,47,Nashville/Davidson County,Total Homeless,1934
+2012,TN,47,Oak Ridge/Upper Cumberland,Total Homeless,658
+2012,TN,47,Jackson/West Tennessee,Total Homeless,1692
+2012,TN,47,Appalachian Regional,Total Homeless,424
+2012,TN,47,Murfreesboro/Rutherford County,Total Homeless,218
+2012,TN,47,"Morristown/Blount, Sevier, Campbell, Cocke Counties",Total Homeless,777
+2012,TX,48,San Antonio/Bexar County,Total Homeless,3670
+2012,TX,48,Austin/Travis County,Total Homeless,2244
+2012,TX,48,Dallas City & County/Irving,Total Homeless,3447
+2012,TX,48,Fort Worth/Arlington/Tarrant County,Total Homeless,2123
+2012,TX,48,El Paso City & County,Total Homeless,1236
+2012,TX,48,Waco/McLennan County,Total Homeless,319
+2012,TX,48,Texas Balance of State (BoS),Total Homeless,12764
+2012,TX,48,Amarillo,Total Homeless,528
+2012,TX,48,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties",Total Homeless,226
+2012,TX,48,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties",Total Homeless,7187
+2012,TX,48,Bryan/College Station/Brazos Valley,Total Homeless,308
+2012,UT,49,Salt Lake City & County,Total Homeless,2463
+2012,UT,49,Utah Balance of State,Total Homeless,879
+2012,UT,49,Provo/Mountainland,Total Homeless,185
+2012,VA,51,"Richmond/Henrico, Chesterfield, Hanover Counties",Total Homeless,933
+2012,VA,51,"Norfolk/Chesapeake/Suffolk/Isle of Wright, Southampton Counties",Total Homeless,652
+2012,VA,51,Roanoke City & County/Salem,Total Homeless,561
+2012,VA,51,Virginia Beach,Total Homeless,440
+2012,VA,51,Charlottesville,Total Homeless,191
+2012,VA,51,Newport News/Hampton/Virginia Peninsula,Total Homeless,681
+2012,VA,51,Portsmouth,Total Homeless,332
+2012,VA,51,Lynchburg,Total Homeless,214
+2012,VA,51,"Harrisburg, Winchester/Western Virginia",Total Homeless,313
+2012,VA,51,"Fredericksburg/Spotsylvania, Stafford Counties",Total Homeless,193
+2012,VA,51,Virginia Balance of State (BoS),Total Homeless,957
+2012,VA,51,Arlington County,Total Homeless,451
+2012,VA,51,Fairfax County,Total Homeless,1534
+2012,VA,51,Loudoun County,Total Homeless,168
+2012,VA,51,City of Alexandria,Total Homeless,352
+2012,VA,51,Prince William County,Total Homeless,452
+2012,VT,50,Vermont Balance of State,Total Homeless,776
+2012,VT,50,Burlington/Chittenden County,Total Homeless,384
+2012,WA,53,Seattle/King County,Total Homeless,8899
+2012,WA,53,Washington Balance of State,Total Homeless,4819
+2012,WA,53,Spokane City & County,Total Homeless,1185
+2012,WA,53,Tacoma/Lakewood/Pierce County,Total Homeless,1997
+2012,WA,53,Everett/Snohomish County,Total Homeless,2061
+2012,WA,53,Yakima City & County,Total Homeless,523
+2012,WA,53,Vancouver/Clark County,Total Homeless,1020
+2012,WI,55,Wisconsin Balance of State,Total Homeless,3618
+2012,WI,55,Milwaukee City & County,Total Homeless,1432
+2012,WI,55,Racine City & County,Total Homeless,241
+2012,WI,55,Madison/Dane County,Total Homeless,736
+2012,WV,54,Wheeling/Weirton Area,Total Homeless,116
+2012,WV,54,"Huntington/Cabell, Wayne Counties",Total Homeless,274
+2012,WV,54,"Charleston/Kanawha, Putnam, Boone, Clay Counties",Total Homeless,416
+2012,WV,54,West Virginia Balance of State,Total Homeless,1604
+2012,WY,56,Wyoming Statewide,Total Homeless,1813
+2013,AK,2,Anchorage,Total Homeless,1122
+2013,AK,2,Alaska Balance of State,Total Homeless,824
+2013,AL,1,"Birmingham/Jefferson, St. Clair, Shelby Counties",Total Homeless,1469
+2013,AL,1,Mobile City & County/Baldwin County,Total Homeless,493
+2013,AL,1,Florence/Northwest Alabama,Total Homeless,223
+2013,AL,1,Huntsville/North Alabama,Total Homeless,586
+2013,AL,1,Montgomery City & County,Total Homeless,515
+2013,AL,1,Gadsden/Northeast Alabama,Total Homeless,399
+2013,AL,1,Tuscaloosa City & County,Total Homeless,99
+2013,AL,1,Alabama Balance of State,Total Homeless,905
+2013,AR,5,Little Rock/Central Arkansas,Total Homeless,1066
+2013,AR,5,Fayetteville/Northwest Arkansas,Total Homeless,668
+2013,AR,5,Arkansas  Balance of State ,Total Homeless,1678
+2013,AR,5,Delta Hills,Total Homeless,254
+2013,AR,5,Southeast Arkansas,Total Homeless,64
+2013,AR,5,"Boone, Baxter, Marion, Newton Counties",Total Homeless,82
+2013,AZ,4,Arizona Balance of State,Total Homeless,2435
+2013,AZ,4,Tucson/Pima County,Total Homeless,2238
+2013,AZ,4,Phoenix/Mesa/Maricopa County Regional,Total Homeless,5889
+2013,CA,6,San Jose/Santa Clara City & County,Total Homeless,7631
+2013,CA,6,San Francisco,Total Homeless,7008
+2013,CA,6,Oakland/Alameda County,Total Homeless,4264
+2013,CA,6,Sacramento City & County,Total Homeless,2538
+2013,CA,6,Santa Rosa/Petaluma/Sonoma County,Total Homeless,4280
+2013,CA,6,Richmond/Contra Costa County,Total Homeless,2000
+2013,CA,6,"Salinas/Monterey, San Benito Counties",Total Homeless,2955
+2013,CA,6,Marin County,Total Homeless,676
+2013,CA,6,Watsonville/Santa Cruz City & County,Total Homeless,3536
+2013,CA,6,Mendocino County,Total Homeless,1392
+2013,CA,6,Turlock/Modesto/Stanislaus County,Total Homeless,1201
+2013,CA,6,Stockton/San Joaquin County,Total Homeless,1541
+2013,CA,6,Daly/San Mateo County,Total Homeless,1995
+2013,CA,6,"Visalia, Kings, Tulare Counties",Total Homeless,705
+2013,CA,6,Fresno/Madera County,Total Homeless,3131
+2013,CA,6,"Roseville/Rocklin/Placer, Nevada Counties",Total Homeless,908
+2013,CA,6,"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties",Total Homeless,851
+2013,CA,6,Napa City & County,Total Homeless,245
+2013,CA,6,Vallejo/Solano County,Total Homeless,1329
+2013,CA,6,Chico/Paradise/Butte County,Total Homeless,712
+2013,CA,6,Merced City & County,Total Homeless,372
+2013,CA,6,Davis/Woodland/Yolo County,Total Homeless,474
+2013,CA,6,Humboldt County,Total Homeless,864
+2013,CA,6,"Colusa, Glenn, Trinity Counties",Total Homeless,696
+2013,CA,6,Yuba City & County/Sutter County,Total Homeless,1485
+2013,CA,6,El Dorado County,Total Homeless,180
+2013,CA,6,"Amador, Calaveras, Tuolumne and Mariposa Counties",Total Homeless,376
+2013,CA,6,Los Angeles City & County,Total Homeless,35524
+2013,CA,6,San Diego City and County,Total Homeless,8879
+2013,CA,6,Santa Ana/Anaheim/Orange County,Total Homeless,4251
+2013,CA,6,Santa Maria/Santa Barbara County,Total Homeless,1882
+2013,CA,6,Bakersfield/Kern County,Total Homeless,1152
+2013,CA,6,Long Beach,Total Homeless,2847
+2013,CA,6,Pasadena,Total Homeless,772
+2013,CA,6,Riverside City & County,Total Homeless,2978
+2013,CA,6,San Bernardino City & County,Total Homeless,2321
+2013,CA,6,Oxnard/San Buenaventura/Ventura County,Total Homeless,1674
+2013,CA,6,Glendale,Total Homeless,318
+2013,CA,6,Imperial County,Total Homeless,252
+2013,CA,6,San Luis Obispo County,Total Homeless,2357
+2013,CO,8,Colorado Balance of State,Total Homeless,2267
+2013,CO,8,Metropolitan Denver Homeless Initiative,Total Homeless,6316
+2013,CO,8,Colorado Springs/El Paso County,Total Homeless,1171
+2013,CT,9,Bridgeport/Norwalk /Stamford/Fairfield County,Total Homeless,1059
+2013,CT,9,Connecticut Balance of State,Total Homeless,3389
+2013,DC,11,District of Columbia,Total Homeless,6865
+2013,DE,10,Delaware Statewide,Total Homeless,946
+2013,FL,12,"Sarasota/Bradenton/Manatee, Sarasota Counties",Total Homeless,1049
+2013,FL,12,Tampa/Hillsborough County,Total Homeless,1909
+2013,FL,12,St. Petersburg/Clearwater/Largo/Pinellas County,Total Homeless,3913
+2013,FL,12,Lakeland/Winter Haven/Polk County,Total Homeless,520
+2013,FL,12,"Daytona Beach/Daytona/Volusia, Flagler Counties",Total Homeless,2176
+2013,FL,12,"Fort Walton Beach/Okaloosa, Walton Counties",Total Homeless,1658
+2013,FL,12,Tallahassee/Leon County,Total Homeless,974
+2013,FL,12,"Orlando/Orange, Osceola, Seminole Counties",Total Homeless,4378
+2013,FL,12,"Gainesville/Alachua, Putnam Counties",Total Homeless,1718
+2013,FL,12,"Fort Pierce/St. Lucie, Indian River, Martin Counties",Total Homeless,2240
+2013,FL,12,"Jacksonville-Duval, Clay Counties",Total Homeless,2768
+2013,FL,12,Pensacola/Escambia/Santa Rosa County,Total Homeless,945
+2013,FL,12,Saint Johns County,Total Homeless,1437
+2013,FL,12,Palm Bay/Melbourne/Brevard County,Total Homeless,1567
+2013,FL,12,Ocala/Marion County,Total Homeless,530
+2013,FL,12,"Panama City/Bay, Jackson Counties",Total Homeless,301
+2013,FL,12,"Hendry, Hardee, Highlands Counties",Total Homeless,3847
+2013,FL,12,"Columbia, Hamilton, Lafayette, Suwannee Counties",Total Homeless,1278
+2013,FL,12,Pasco County,Total Homeless,3305
+2013,FL,12,"Citrus, Hernando, Lake, Sumter Counties",Total Homeless,709
+2013,FL,12,Miami/Dade County,Total Homeless,3802
+2013,FL,12,Ft Lauderdale/Broward County,Total Homeless,2810
+2013,FL,12,Punta Gorda/Charlotte County,Total Homeless,573
+2013,FL,12,Ft Myers/Cape Coral/Lee County,Total Homeless,848
+2013,FL,12,Monroe County,Total Homeless,652
+2013,FL,12,West Palm Beach/Palm Beach County,Total Homeless,1559
+2013,FL,12,Naples/Collier County,Total Homeless,396
+2013,GA,13,Atlanta Continuum of Care,Total Homeless,5536
+2013,GA,13,Georgia Balance of State,Total Homeless,7651
+2013,GA,13,Fulton County Continuum of Care,Total Homeless,428
+2013,GA,13,Athens/Clarke County,Total Homeless,213
+2013,GA,13,Augusta,Total Homeless,476
+2013,GA,13,Columbus-Muscogee/Russell County,Total Homeless,294
+2013,GA,13,Marietta/Cobb County,Total Homeless,495
+2013,GA,13,Savannah/Chatham County,Total Homeless,1165
+2013,GA,13,DeKalb County Continuum of Care,Total Homeless,713
+2013,HI,15,Hawaii Balance of State,Total Homeless,1779
+2013,HI,15,Honolulu,Total Homeless,4556
+2013,IA,19,"Sioux City/Dakota, Woodbury Counties",Total Homeless,236
+2013,IA,19,Iowa Balance of State,Total Homeless,1920
+2013,IA,19,Des Moines/Polk County,Total Homeless,928
+2013,ID,16,Boise/Ada County,Total Homeless,694
+2013,ID,16,Idaho Balance of State,Total Homeless,1087
+2013,IL,17,McHenry County,Total Homeless,185
+2013,IL,17,"Rockford/Winnebago, Boone Counties",Total Homeless,788
+2013,IL,17,Waukegan/North Chicago/Lake County,Total Homeless,497
+2013,IL,17,Champaign/Urbana/Rantoul/Champaign County,Total Homeless,214
+2013,IL,17,Madison County,Total Homeless,201
+2013,IL,17,Joliet/Bolingbrook/Will County,Total Homeless,288
+2013,IL,17,"Peoria/Perkin/Fulton, Peoria, Tazewell, Woodford",Total Homeless,396
+2013,IL,17,East Saint Louis/Belleville/Saint Clair County,Total Homeless,213
+2013,IL,17,Dekalb City & County,Total Homeless,107
+2013,IL,17,Chicago,Total Homeless,6276
+2013,IL,17,Cook County,Total Homeless,1242
+2013,IL,17,Bloomington/Central Illinois,Total Homeless,536
+2013,IL,17,Springfield/Sangamon County,Total Homeless,280
+2013,IL,17,DuPage County,Total Homeless,665
+2013,IL,17,South Central Illinois,Total Homeless,149
+2013,IL,17,Decatur/Macon County,Total Homeless,247
+2013,IL,17,Aurora/Elgin/Kane County,Total Homeless,451
+2013,IL,17,Rock Island/Moline/Northwestern Illinois,Total Homeless,219
+2013,IL,17,West Central Illinois,Total Homeless,133
+2013,IL,17,Southern Illinois,Total Homeless,338
+2013,IN,18,South Bend/Mishawaka/St. Joseph County,Total Homeless,587
+2013,IN,18,Indiana Balance of State,Total Homeless,3910
+2013,IN,18,Indianapolis,Total Homeless,1599
+2013,KS,20,Wichita/Sedgwick County,Total Homeless,538
+2013,KS,20,Topeka/Shawnee County,Total Homeless,439
+2013,KS,20,Overland Park/Shawnee/Johnson County,Total Homeless,213
+2013,KS,20,Kansas Balance of State,Total Homeless,1141
+2013,KY,21,Kentucky Balance of State,Total Homeless,2392
+2013,KY,21,Louisville/Jefferson County,Total Homeless,1445
+2013,KY,21,Lexington/Fayette County,Total Homeless,1408
+2013,LA,22,Lafayette/Acadiana,Total Homeless,542
+2013,LA,22,Shreveport/Bossier/Northwest,Total Homeless,692
+2013,LA,22,New Orleans/Jefferson Parish,Total Homeless,2337
+2013,LA,22,Baton Rouge,Total Homeless,833
+2013,LA,22,Monroe/Northeast Louisiana,Total Homeless,200
+2013,LA,22,Slidell/Southeast Louisiana,Total Homeless,276
+2013,LA,22,Alexandria/Central Louisiana,Total Homeless,118
+2013,LA,22,Houma-Terrebonne/Thibodaux,Total Homeless,125
+2013,LA,22,Louisiana Balance of State,Total Homeless,103
+2013,MA,25,Boston,Total Homeless,5881
+2013,MA,25,Lynn,Total Homeless,468
+2013,MA,25,Cape Cod/Islands,Total Homeless,514
+2013,MA,25,Springfield,Total Homeless,2117
+2013,MA,25,New Bedford,Total Homeless,337
+2013,MA,25,Worcester City & County,Total Homeless,1657
+2013,MA,25,Pittsfield/Berkshire County,Total Homeless,678
+2013,MA,25,Lowell,Total Homeless,559
+2013,MA,25,Cambridge,Total Homeless,535
+2013,MA,25,Gloucester/Haverhill/Salem/Essex County,Total Homeless,1286
+2013,MA,25,Quincy/Brockton/Weymouth/Plymouth City and County,Total Homeless,1690
+2013,MA,25,Fall River,Total Homeless,235
+2013,MA,25,Massachusetts Balance of State,Total Homeless,1945
+2013,MA,25,Somerville,Total Homeless,169
+2013,MA,25,Brookline/Newton,Total Homeless,707
+2013,MA,25,Attleboro/Taunton/Bristol County,Total Homeless,251
+2013,MD,24,Cumberland/Allegany County,Total Homeless,76
+2013,MD,24,Baltimore City,Total Homeless,2638
+2013,MD,24,Harford County,Total Homeless,166
+2013,MD,24,Annapolis/Anne Arundel County,Total Homeless,400
+2013,MD,24,Howard County,Total Homeless,194
+2013,MD,24,Baltimore County,Total Homeless,919
+2013,MD,24,Carroll County,Total Homeless,134
+2013,MD,24,Cecil County,Total Homeless,234
+2013,MD,24,"Charles, Calvert, St.Mary's Counties",Total Homeless,833
+2013,MD,24,Frederick City & County,Total Homeless,275
+2013,MD,24,Garrett County,Total Homeless,7
+2013,MD,24,Mid-Shore Regional,Total Homeless,87
+2013,MD,24,Hagerstown/Washington County,Total Homeless,192
+2013,MD,24,Wicomico/Somerset/Worcester County,Total Homeless,360
+2013,MD,24,Prince George`s County/Maryland,Total Homeless,686
+2013,MD,24,Montgomery County,Total Homeless,1004
+2013,ME,23,Maine Balance of State,Total Homeless,2191
+2013,ME,23,Portland,Total Homeless,825
+2013,MI,26,Michigan Balance of State,Total Homeless,1806
+2013,MI,26,Detroit,Total Homeless,2789
+2013,MI,26,Dearborn/Dearborn Heights/Westland/Wayne County,Total Homeless,380
+2013,MI,26,St. Clair Shores/Warren/Macomb County,Total Homeless,504
+2013,MI,26,Pontiac/Royal Oak/Oakland County,Total Homeless,698
+2013,MI,26,Flint/Genesee County,Total Homeless,387
+2013,MI,26,Grand Rapids/Wyoming/Kent County,Total Homeless,732
+2013,MI,26,Portage/Kalamazoo City & County,Total Homeless,642
+2013,MI,26,Lansing/East Lansing/Ingham County,Total Homeless,423
+2013,MI,26,Ann Arbor/Washtenaw County,Total Homeless,510
+2013,MI,26,Saginaw City & County,Total Homeless,350
+2013,MI,26,Lenawee County,Total Homeless,124
+2013,MI,26,"Grand Traverse, Antrim, Leelanau Counties",Total Homeless,328
+2013,MI,26,"Marquette, Alger Counties",Total Homeless,74
+2013,MI,26,Battle Creek/Calhoun County,Total Homeless,236
+2013,MI,26,Monroe City & County,Total Homeless,139
+2013,MI,26,Norton Shores/Muskegon City & County,Total Homeless,644
+2013,MI,26,Jackson City & County,Total Homeless,187
+2013,MI,26,Livingston County,Total Homeless,127
+2013,MI,26,Holland/Ottawa County,Total Homeless,318
+2013,MI,26,Eaton County,Total Homeless,129
+2013,MN,27,Minneapolis/Hennepin County,Total Homeless,3591
+2013,MN,27,Saint Paul/Ramsey County,Total Homeless,1417
+2013,MN,27,Rochester/Southeast Minnesota,Total Homeless,452
+2013,MN,27,"Dakota, Anoka, Washington, Scott, Carver Counties",Total Homeless,745
+2013,MN,27,Northeast Minnesota,Total Homeless,265
+2013,MN,27,St. Cloud/Central Minnesota,Total Homeless,657
+2013,MN,27,Northwest Minnesota,Total Homeless,253
+2013,MN,27,Moorhead/West Central Minnesota,Total Homeless,287
+2013,MN,27,Duluth/St.Louis County,Total Homeless,410
+2013,MN,27,Southwest Minnesota,Total Homeless,137
+2013,MO,29,St. Louis County,Total Homeless,388
+2013,MO,29,St.Louis City,Total Homeless,1423
+2013,MO,29,"St. Charles, Lincoln, Warren Counties",Total Homeless,940
+2013,MO,29,"Springfield/Greene, Christian, Webster Counties",Total Homeless,711
+2013,MO,29,"Joplin/Jasper, Newton Counties",Total Homeless,574
+2013,MO,29,"St. Joseph/Andrew, Buchanan, DeKalb Counties",Total Homeless,186
+2013,MO,29,"Kansas City, Independence, Lees Summit/Jackson, Wyandotte Counties, MO & KS",Total Homeless,2691
+2013,MO,29,Missouri Balance of State,Total Homeless,2030
+2013,MS,28,"Jackson/Rankin, Madison Counties",Total Homeless,760
+2013,MS,28,Mississippi Balance of State,Total Homeless,1052
+2013,MS,28,Gulf Port/Gulf Coast Regional,Total Homeless,591
+2013,MT,30,Montana Statewide,Total Homeless,1878
+2013,NC,37,Winston Salem/Forsyth County,Total Homeless,394
+2013,NC,37,Asheville/Buncombe County,Total Homeless,570
+2013,NC,37,Durham City & County,Total Homeless,753
+2013,NC,37,North Carolina Balance of State,Total Homeless,3625
+2013,NC,37,Greensboro/High Point,Total Homeless,949
+2013,NC,37,Charlotte/Mecklenberg,Total Homeless,2418
+2013,NC,37,"Wilmington/Brunswick, New Hanover, Pender Counties",Total Homeless,348
+2013,NC,37,Raleigh/Wake County,Total Homeless,1098
+2013,NC,37,"Gastonia/Cleveland, Gaston, Lincoln Counties",Total Homeless,384
+2013,NC,37,Fayetteville/Cumberland County,Total Homeless,631
+2013,NC,37,Chapel Hill/Orange County,Total Homeless,123
+2013,NC,37,Northwest North Carolina,Total Homeless,875
+2013,ND,38,North Dakota Statewide,Total Homeless,2069
+2013,NE,31,Nebraska Balance of State,Total Homeless,713
+2013,NE,31,Omaha/Council Bluffs,Total Homeless,1476
+2013,NE,31,Lincoln,Total Homeless,956
+2013,NH,33,New Hampshire Balance of State,Total Homeless,759
+2013,NH,33,Manchester,Total Homeless,382
+2013,NH,33,Nashua/Hillsborough County,Total Homeless,306
+2013,NJ,34,Atlantic City & County,Total Homeless,746
+2013,NJ,34,Bergen County,Total Homeless,346
+2013,NJ,34,Burlington County,Total Homeless,671
+2013,NJ,34,"Camden City/Camden, Cumberland, Gloucester, Cape May Counties",Total Homeless,1291
+2013,NJ,34,Newark/Essex County,Total Homeless,1646
+2013,NJ,34,Jersey City/Bayonne/Hudson County,Total Homeless,942
+2013,NJ,34,New Brunswick/Middlesex County,Total Homeless,1031
+2013,NJ,34,Monmouth County,Total Homeless,918
+2013,NJ,34,Morris County,Total Homeless,346
+2013,NJ,34,Lakewood Township/Ocean County,Total Homeless,682
+2013,NJ,34,Paterson/Passaic County,Total Homeless,440
+2013,NJ,34,Salem County,Total Homeless,44
+2013,NJ,34,Somerset County,Total Homeless,312
+2013,NJ,34,Trenton/Mercer County,Total Homeless,668
+2013,NJ,34,Elizabeth/Union County,Total Homeless,1648
+2013,NJ,34,"Warren, Sussex, Hunterdon Counties",Total Homeless,271
+2013,NM,35,Albuquerque,Total Homeless,1171
+2013,NM,35,New Mexico Balance of State,Total Homeless,1648
+2013,NV,32,Las Vegas/Clark County,Total Homeless,5952
+2013,NV,32,Reno/Sparks/Washoe County,Total Homeless,746
+2013,NV,32,Nevada Balance of State,Total Homeless,341
+2013,NY,36,Rochester/Irondequoit/Greece/Monroe County,Total Homeless,1007
+2013,NY,36,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties",Total Homeless,349
+2013,NY,36,Albany City & County,Total Homeless,728
+2013,NY,36,Cattaragus County,Total Homeless,47
+2013,NY,36,"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties",Total Homeless,994
+2013,NY,36,"Fulton, Montgomery, Schoharie Counties",Total Homeless,43
+2013,NY,36,Schenectady City & County,Total Homeless,327
+2013,NY,36,"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties",Total Homeless,1162
+2013,NY,36,Ithaca/Tompkins County,Total Homeless,47
+2013,NY,36,"Binghamton, Union/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Counties C",Total Homeless,276
+2013,NY,36,Troy/Rensselaer County,Total Homeless,188
+2013,NY,36,"Wayne, Ontario, Seneca, Yates Counties",Total Homeless,171
+2013,NY,36,Jamestown/Dunkirk/Chautauqua County,Total Homeless,62
+2013,NY,36,Clinton County,Total Homeless,140
+2013,NY,36,"Utica/Rome/Oneida, Madison Counties",Total Homeless,200
+2013,NY,36,Columbia/Greene County,Total Homeless,112
+2013,NY,36,Franklin County,Total Homeless,34
+2013,NY,36,Jefferson/Lewis/St. Lawrence Counties,Total Homeless,83
+2013,NY,36,"Glens Falls/Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties",Total Homeless,262
+2013,NY,36,New York City,Total Homeless,64060
+2013,NY,36,Poughkeepsie/Dutchess County,Total Homeless,397
+2013,NY,36,Newburgh/Middletown/Orange County,Total Homeless,459
+2013,NY,36,"Nassau, Suffolk Counties/Babylon/Islip/ Huntington",Total Homeless,3123
+2013,NY,36,Yonkers/Mount Vernon/New Rochelle/Westchester,Total Homeless,2054
+2013,NY,36,Rockland County,Total Homeless,107
+2013,NY,36,Sullivan County,Total Homeless,556
+2013,NY,36,Kingston/Ulster County,Total Homeless,442
+2013,OH,39,Cincinnati/Hamilton County,Total Homeless,1326
+2013,OH,39,Toledo/Lucas County,Total Homeless,900
+2013,OH,39,Cleveland/Cuyahoga County,Total Homeless,2129
+2013,OH,39,Columbus/Franklin County,Total Homeless,1488
+2013,OH,39,Youngstown/Mahoning County,Total Homeless,227
+2013,OH,39,Dayton/Kettering/Montgomery County,Total Homeless,1041
+2013,OH,39,Akron/Barberton/Summit County,Total Homeless,862
+2013,OH,39,Ohio Balance of State,Total Homeless,3830
+2013,OH,39,Canton/Massillon/Alliance/Stark County,Total Homeless,522
+2013,OK,40,North Central Oklahoma,Total Homeless,190
+2013,OK,40,Tulsa City & County/Broken Arrow,Total Homeless,1008
+2013,OK,40,Oklahoma City,Total Homeless,1362
+2013,OK,40,Oklahoma Balance of State,Total Homeless,272
+2013,OK,40,Norman/Cleveland County,Total Homeless,368
+2013,OK,40,Northeast Oklahoma,Total Homeless,487
+2013,OK,40,Southwest Oklahoma Regional,Total Homeless,196
+2013,OK,40,Southeastern Oklahoma Regional,Total Homeless,525
+2013,OR,41,Eugene/Springfield/Lane County,Total Homeless,1751
+2013,OR,41,Portland-Gresham-Multnomah County,Total Homeless,4441
+2013,OR,41,Medford/Ashland/Jackson County,Total Homeless,548
+2013,OR,41,Central Oregon,Total Homeless,506
+2013,OR,41,Oregon Balance of State,Total Homeless,5525
+2013,OR,41,Hillsboro/Beaverton/Washington County,Total Homeless,432
+2013,OR,41,Clackamas County,Total Homeless,619
+2013,PA,42,Philadelphia,Total Homeless,5645
+2013,PA,42,Harrisburg/Dauphin County,Total Homeless,390
+2013,PA,42,Upper Darby/Chester/Haverford/Delaware County,Total Homeless,546
+2013,PA,42,Wilkes-Barre/Hazleton/Luzerne County,Total Homeless,165
+2013,PA,42,Lower Marion/Norristown/Abington/Montgomery County,Total Homeless,464
+2013,PA,42,Chester County,Total Homeless,641
+2013,PA,42,Reading/Berks County,Total Homeless,468
+2013,PA,42,Scranton/Lackawanna County,Total Homeless,252
+2013,PA,42,Eastern Pennsylvania,Total Homeless,2081
+2013,PA,42,Lancaster City & County,Total Homeless,518
+2013,PA,42,Bristol/Bensalem/Bucks County,Total Homeless,451
+2013,PA,42,York City & County,Total Homeless,278
+2013,PA,42,Pittsburgh/McKeesport/Penn Hills/Allegheny County,Total Homeless,1492
+2013,PA,42,Western Pennsylvania,Total Homeless,1170
+2013,PA,42,Beaver County,Total Homeless,90
+2013,PA,42,Erie City & County,Total Homeless,435
+2013,RI,44,Rhode Island Statewide,Total Homeless,1384
+2013,SC,45,Charleston/Low Country,Total Homeless,733
+2013,SC,45,Greenville/Anderson/Spartanburg Upstate,Total Homeless,2308
+2013,SC,45,Columbia/Midlands,Total Homeless,2007
+2013,SC,45,Myrtle Beach/Sumter City & County,Total Homeless,1496
+2013,SD,46,South Dakota Statewide,Total Homeless,1094
+2013,TN,47,Chattanooga/Southeast Tennessee,Total Homeless,591
+2013,TN,47,Memphis/Shelby County,Total Homeless,1816
+2013,TN,47,Knoxville/Knox County,Total Homeless,993
+2013,TN,47,Central Tennessee,Total Homeless,283
+2013,TN,47,Nashville/Davidson County,Total Homeless,2069
+2013,TN,47,Oak Ridge/Upper Cumberland,Total Homeless,372
+2013,TN,47,Jackson/West Tennessee,Total Homeless,1673
+2013,TN,47,Appalachian Regional,Total Homeless,694
+2013,TN,47,Murfreesboro/Rutherford County,Total Homeless,241
+2013,TN,47,"Morristown/Blount, Sevier, Campbell, Cocke Counties",Total Homeless,796
+2013,TX,48,San Antonio/Bexar County,Total Homeless,2980
+2013,TX,48,Austin/Travis County,Total Homeless,2090
+2013,TX,48,Dallas City & County/Irving,Total Homeless,3163
+2013,TX,48,Fort Worth/Arlington/Tarrant County,Total Homeless,2390
+2013,TX,48,El Paso City & County,Total Homeless,1217
+2013,TX,48,Waco/McLennan County,Total Homeless,295
+2013,TX,48,Texas Balance of State (BoS),Total Homeless,10128
+2013,TX,48,Amarillo,Total Homeless,516
+2013,TX,48,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties",Total Homeless,302
+2013,TX,48,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties",Total Homeless,6359
+2013,TX,48,Bryan/College Station/Brazos Valley,Total Homeless,175
+2013,UT,49,Salt Lake City & County,Total Homeless,2133
+2013,UT,49,Utah Balance of State,Total Homeless,891
+2013,UT,49,Provo/Mountainland,Total Homeless,253
+2013,VA,51,"Richmond/Henrico, Chesterfield, Hanover Counties",Total Homeless,881
+2013,VA,51,"Norfolk/Chesapeake/Suffolk/Isle of Wright, Southampton Counties",Total Homeless,742
+2013,VA,51,Roanoke City & County/Salem,Total Homeless,442
+2013,VA,51,Virginia Beach,Total Homeless,456
+2013,VA,51,Charlottesville,Total Homeless,195
+2013,VA,51,Newport News/Hampton/Virginia Peninsula,Total Homeless,533
+2013,VA,51,Portsmouth,Total Homeless,247
+2013,VA,51,Lynchburg,Total Homeless,150
+2013,VA,51,"Harrisburg, Winchester/Western Virginia",Total Homeless,355
+2013,VA,51,"Fredericksburg/Spotsylvania, Stafford Counties",Total Homeless,192
+2013,VA,51,Virginia Balance of State (BoS),Total Homeless,715
+2013,VA,51,Arlington County,Total Homeless,479
+2013,VA,51,Fairfax County,Total Homeless,1350
+2013,VA,51,Loudoun County,Total Homeless,166
+2013,VA,51,City of Alexandria,Total Homeless,275
+2013,VA,51,Prince William County,Total Homeless,447
+2013,VT,50,Vermont Balance of State,Total Homeless,971
+2013,VT,50,Burlington/Chittenden County,Total Homeless,483
+2013,WA,53,Seattle/King County,Total Homeless,9106
+2013,WA,53,Washington Balance of State,Total Homeless,4108
+2013,WA,53,Spokane City & County,Total Homeless,1030
+2013,WA,53,Tacoma/Lakewood/Pierce County,Total Homeless,1303
+2013,WA,53,Everett/Snohomish County,Total Homeless,947
+2013,WA,53,Yakima City & County,Total Homeless,563
+2013,WA,53,Vancouver/Clark County,Total Homeless,703
+2013,WI,55,Wisconsin Balance of State,Total Homeless,3610
+2013,WI,55,Milwaukee City & County,Total Homeless,1442
+2013,WI,55,Racine City & County,Total Homeless,221
+2013,WI,55,Madison/Dane County,Total Homeless,831
+2013,WV,54,Wheeling/Weirton Area,Total Homeless,89
+2013,WV,54,"Huntington/Cabell, Wayne Counties",Total Homeless,227
+2013,WV,54,"Charleston/Kanawha, Putnam, Boone, Clay Counties",Total Homeless,411
+2013,WV,54,West Virginia Balance of State,Total Homeless,1513
+2013,WY,56,Wyoming Statewide,Total Homeless,953
+2014,AK,2,Anchorage,Total Homeless,1023
+2014,AK,2,Alaska Balance of State,Total Homeless,761
+2014,AL,1,"Birmingham/Jefferson, St. Clair, Shelby Counties",Total Homeless,1329
+2014,AL,1,Mobile City & County/Baldwin County,Total Homeless,598
+2014,AL,1,Florence/Northwest Alabama,Total Homeless,209
+2014,AL,1,Huntsville/North Alabama,Total Homeless,536
+2014,AL,1,Montgomery City & County,Total Homeless,490
+2014,AL,1,Gadsden/Northeast Alabama,Total Homeless,438
+2014,AL,1,Tuscaloosa City & County,Total Homeless,245
+2014,AL,1,Alabama Balance of State,Total Homeless,716
+2014,AR,5,Little Rock/Central Arkansas,Total Homeless,1074
+2014,AR,5,Fayetteville/Northwest Arkansas,Total Homeless,551
+2014,AR,5,Arkansas  Balance of State ,Total Homeless,1028
+2014,AR,5,Southeast Arkansas,Total Homeless,70
+2014,AR,5,Old Fort Homeless Coalition,Total Homeless,185
+2014,AR,5,"Boone, Baxter, Marion, Newton Counties",Total Homeless,28
+2014,AZ,4,Arizona Balance of State,Total Homeless,2398
+2014,AZ,4,Tucson/Pima County,Total Homeless,2179
+2014,AZ,4,Phoenix/Mesa/Maricopa County Regional,Total Homeless,5918
+2014,CA,6,San Jose/Santa Clara City & County,Total Homeless,7567
+2014,CA,6,San Francisco,Total Homeless,6408
+2014,CA,6,Oakland/Alameda County,Total Homeless,4272
+2014,CA,6,Sacramento City & County,Total Homeless,2449
+2014,CA,6,Santa Rosa/Petaluma/Sonoma County,Total Homeless,4266
+2014,CA,6,Richmond/Contra Costa County,Total Homeless,2009
+2014,CA,6,"Salinas/Monterey, San Benito Counties",Total Homeless,2962
+2014,CA,6,Marin County,Total Homeless,679
+2014,CA,6,Watsonville/Santa Cruz City & County,Total Homeless,3529
+2014,CA,6,Mendocino County,Total Homeless,1404
+2014,CA,6,Turlock/Modesto/Stanislaus County,Total Homeless,1156
+2014,CA,6,Stockton/San Joaquin County,Total Homeless,1588
+2014,CA,6,Daly/San Mateo County,Total Homeless,2024
+2014,CA,6,"Visalia, Kings, Tulare Counties",Total Homeless,763
+2014,CA,6,Fresno/Madera County,Total Homeless,2592
+2014,CA,6,"Roseville/Rocklin/Placer, Nevada Counties",Total Homeless,762
+2014,CA,6,"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties",Total Homeless,630
+2014,CA,6,Napa City & County,Total Homeless,285
+2014,CA,6,Vallejo/Solano County,Total Homeless,1295
+2014,CA,6,Chico/Paradise/Butte County,Total Homeless,696
+2014,CA,6,Merced City & County,Total Homeless,768
+2014,CA,6,Davis/Woodland/Yolo County,Total Homeless,442
+2014,CA,6,Humboldt County,Total Homeless,932
+2014,CA,6,"Colusa, Glenn, Trinity Counties",Total Homeless,567
+2014,CA,6,Yuba City & County/Sutter County,Total Homeless,726
+2014,CA,6,El Dorado County,Total Homeless,195
+2014,CA,6,"Amador, Calaveras, Tuolumne and Mariposa Counties",Total Homeless,382
+2014,CA,6,Los Angeles City & County,Total Homeless,34393
+2014,CA,6,San Diego City and County,Total Homeless,8506
+2014,CA,6,Santa Ana/Anaheim/Orange County,Total Homeless,3833
+2014,CA,6,Santa Maria/Santa Barbara County,Total Homeless,1832
+2014,CA,6,Bakersfield/Kern County,Total Homeless,992
+2014,CA,6,Long Beach,Total Homeless,2738
+2014,CA,6,Pasadena,Total Homeless,666
+2014,CA,6,Riverside City & County,Total Homeless,2945
+2014,CA,6,San Bernardino City & County,Total Homeless,2315
+2014,CA,6,Oxnard/San Buenaventura/Ventura County,Total Homeless,1428
+2014,CA,6,Glendale,Total Homeless,292
+2014,CA,6,Imperial County,Total Homeless,298
+2014,CA,6,San Luis Obispo County,Total Homeless,2366
+2014,CO,8,Colorado Balance of State,Total Homeless,2188
+2014,CO,8,Metropolitan Denver Homeless Initiative,Total Homeless,6621
+2014,CO,8,Colorado Springs/El Paso County,Total Homeless,1219
+2014,CT,9,Bridgeport/Norwalk /Stamford/Fairfield County,Total Homeless,1083
+2014,CT,9,Connecticut Balance of State,Total Homeless,3367
+2014,DC,11,District of Columbia,Total Homeless,7748
+2014,DE,10,Delaware Statewide,Total Homeless,901
+2014,FL,12,"Sarasota/Bradenton/Manatee, Sarasota Counties",Total Homeless,1377
+2014,FL,12,Tampa/Hillsborough County,Total Homeless,1944
+2014,FL,12,St. Petersburg/Clearwater/Largo/Pinellas County,Total Homeless,3391
+2014,FL,12,Lakeland/Winter Haven/Polk County,Total Homeless,536
+2014,FL,12,"Daytona Beach/Daytona/Volusia, Flagler Counties",Total Homeless,1633
+2014,FL,12,"Fort Walton Beach/Okaloosa, Walton Counties",Total Homeless,1577
+2014,FL,12,Tallahassee/Leon County,Total Homeless,805
+2014,FL,12,"Orlando/Orange, Osceola, Seminole Counties",Total Homeless,2254
+2014,FL,12,"Gainesville/Alachua, Putnam Counties",Total Homeless,1256
+2014,FL,12,"Fort Pierce/St. Lucie, Indian River, Martin Counties",Total Homeless,2591
+2014,FL,12,"Jacksonville-Duval, Clay Counties",Total Homeless,2049
+2014,FL,12,Pensacola/Escambia/Santa Rosa County,Total Homeless,843
+2014,FL,12,Saint Johns County,Total Homeless,1401
+2014,FL,12,Palm Bay/Melbourne/Brevard County,Total Homeless,1477
+2014,FL,12,Ocala/Marion County,Total Homeless,918
+2014,FL,12,"Panama City/Bay, Jackson Counties",Total Homeless,268
+2014,FL,12,"Hendry, Hardee, Highlands Counties",Total Homeless,1346
+2014,FL,12,"Columbia, Hamilton, Lafayette, Suwannee Counties",Total Homeless,1070
+2014,FL,12,Pasco County,Total Homeless,3356
+2014,FL,12,"Citrus, Hernando, Lake, Sumter Counties",Total Homeless,511
+2014,FL,12,Miami/Dade County,Total Homeless,4156
+2014,FL,12,Ft Lauderdale/Broward County,Total Homeless,2766
+2014,FL,12,Punta Gorda/Charlotte County,Total Homeless,511
+2014,FL,12,Ft Myers/Cape Coral/Lee County,Total Homeless,871
+2014,FL,12,Monroe County,Total Homeless,678
+2014,FL,12,West Palm Beach/Palm Beach County,Total Homeless,1596
+2014,FL,12,Naples/Collier County,Total Homeless,361
+2014,GA,13,Atlanta Continuum of Care,Total Homeless,4797
+2014,GA,13,Georgia Balance of State,Total Homeless,7577
+2014,GA,13,Fulton County Continuum of Care,Total Homeless,477
+2014,GA,13,Athens/Clarke County,Total Homeless,247
+2014,GA,13,Augusta,Total Homeless,472
+2014,GA,13,Columbus-Muscogee/Russell County,Total Homeless,312
+2014,GA,13,Marietta/Cobb County,Total Homeless,523
+2014,GA,13,Savannah/Chatham County,Total Homeless,1315
+2014,GA,13,DeKalb County Continuum of Care,Total Homeless,801
+2014,HI,15,Hawaii Balance of State,Total Homeless,2206
+2014,HI,15,Honolulu,Total Homeless,4712
+2014,IA,19,"Sioux City/Dakota, Woodbury Counties",Total Homeless,297
+2014,IA,19,Iowa Balance of State,Total Homeless,1939
+2014,IA,19,Des Moines/Polk County,Total Homeless,886
+2014,ID,16,Boise/Ada County,Total Homeless,753
+2014,ID,16,Idaho Balance of State,Total Homeless,1351
+2014,IL,17,McHenry County,Total Homeless,166
+2014,IL,17,"Rockford/Winnebago, Boone Counties",Total Homeless,410
+2014,IL,17,Waukegan/North Chicago/Lake County,Total Homeless,409
+2014,IL,17,Champaign/Urbana/Rantoul/Champaign County,Total Homeless,205
+2014,IL,17,Madison County,Total Homeless,240
+2014,IL,17,Joliet/Bolingbrook/Will County,Total Homeless,309
+2014,IL,17,"Peoria/Perkin/Fulton, Peoria, Tazewell, Woodford",Total Homeless,405
+2014,IL,17,East Saint Louis/Belleville/Saint Clair County,Total Homeless,339
+2014,IL,17,Dekalb City & County,Total Homeless,96
+2014,IL,17,Chicago,Total Homeless,6287
+2014,IL,17,Cook County,Total Homeless,1182
+2014,IL,17,Bloomington/Central Illinois,Total Homeless,669
+2014,IL,17,Springfield/Sangamon County,Total Homeless,269
+2014,IL,17,DuPage County,Total Homeless,654
+2014,IL,17,South Central Illinois,Total Homeless,118
+2014,IL,17,Decatur/Macon County,Total Homeless,256
+2014,IL,17,Aurora/Elgin/Kane County,Total Homeless,405
+2014,IL,17,Rock Island/Moline/Northwestern Illinois,Total Homeless,218
+2014,IL,17,West Central Illinois,Total Homeless,145
+2014,IL,17,Southern Illinois,Total Homeless,325
+2014,IN,18,South Bend/Mishawaka/St. Joseph County,Total Homeless,492
+2014,IN,18,Indiana Balance of State,Total Homeless,3589
+2014,IN,18,Indianapolis,Total Homeless,1890
+2014,KS,20,Wichita/Sedgwick County,Total Homeless,631
+2014,KS,20,Topeka/Shawnee County,Total Homeless,416
+2014,KS,20,Overland Park/Shawnee/Johnson County,Total Homeless,167
+2014,KS,20,Kansas Balance of State,Total Homeless,1307
+2014,KY,21,Kentucky Balance of State,Total Homeless,2229
+2014,KY,21,Louisville/Jefferson County,Total Homeless,1316
+2014,KY,21,Lexington/Fayette County,Total Homeless,1544
+2014,LA,22,Lafayette/Acadiana,Total Homeless,471
+2014,LA,22,Shreveport/Bossier/Northwest,Total Homeless,655
+2014,LA,22,New Orleans/Jefferson Parish,Total Homeless,1981
+2014,LA,22,Baton Rouge,Total Homeless,665
+2014,LA,22,Monroe/Northeast Louisiana,Total Homeless,220
+2014,LA,22,Slidell/Southeast Louisiana,Total Homeless,262
+2014,LA,22,Alexandria/Central Louisiana,Total Homeless,141
+2014,LA,22,Houma-Terrebonne/Thibodaux,Total Homeless,121
+2014,LA,22,Louisiana Balance of State,Total Homeless,90
+2014,MA,25,Boston,Total Homeless,5987
+2014,MA,25,Lynn,Total Homeless,382
+2014,MA,25,Cape Cod/Islands,Total Homeless,381
+2014,MA,25,Springfield,Total Homeless,2690
+2014,MA,25,New Bedford,Total Homeless,349
+2014,MA,25,Worcester City & County,Total Homeless,1796
+2014,MA,25,Pittsfield/Berkshire County,Total Homeless,753
+2014,MA,25,Lowell,Total Homeless,588
+2014,MA,25,Cambridge,Total Homeless,551
+2014,MA,25,Gloucester/Haverhill/Salem/Essex County,Total Homeless,1487
+2014,MA,25,Quincy/Brockton/Weymouth/Plymouth City and County,Total Homeless,1643
+2014,MA,25,Fall River,Total Homeless,354
+2014,MA,25,Massachusetts Balance of State,Total Homeless,3163
+2014,MA,25,Somerville,Total Homeless,154
+2014,MA,25,Brookline/Newton,Total Homeless,737
+2014,MA,25,Attleboro/Taunton/Bristol County,Total Homeless,222
+2014,MD,24,Cumberland/Allegany County,Total Homeless,120
+2014,MD,24,Baltimore City,Total Homeless,2567
+2014,MD,24,Harford County,Total Homeless,223
+2014,MD,24,Annapolis/Anne Arundel County,Total Homeless,384
+2014,MD,24,Howard County,Total Homeless,170
+2014,MD,24,Baltimore County,Total Homeless,569
+2014,MD,24,Carroll County,Total Homeless,124
+2014,MD,24,Cecil County,Total Homeless,195
+2014,MD,24,"Charles, Calvert, St.Mary's Counties",Total Homeless,1141
+2014,MD,24,Frederick City & County,Total Homeless,246
+2014,MD,24,Garrett County,Total Homeless,13
+2014,MD,24,Mid-Shore Regional,Total Homeless,111
+2014,MD,24,Hagerstown/Washington County,Total Homeless,107
+2014,MD,24,Wicomico/Somerset/Worcester County,Total Homeless,336
+2014,MD,24,Prince George`s County/Maryland,Total Homeless,659
+2014,MD,24,Montgomery County,Total Homeless,891
+2014,ME,23,Maine Balance of State,Total Homeless,1940
+2014,ME,23,Portland,Total Homeless,786
+2014,MI,26,Michigan Balance of State,Total Homeless,2253
+2014,MI,26,Detroit,Total Homeless,2755
+2014,MI,26,Dearborn/Dearborn Heights/Westland/Wayne County,Total Homeless,456
+2014,MI,26,St. Clair Shores/Warren/Macomb County,Total Homeless,343
+2014,MI,26,Pontiac/Royal Oak/Oakland County,Total Homeless,457
+2014,MI,26,Flint/Genesee County,Total Homeless,635
+2014,MI,26,Grand Rapids/Wyoming/Kent County,Total Homeless,793
+2014,MI,26,Portage/Kalamazoo City & County,Total Homeless,681
+2014,MI,26,Lansing/East Lansing/Ingham County,Total Homeless,429
+2014,MI,26,Ann Arbor/Washtenaw County,Total Homeless,545
+2014,MI,26,Saginaw City & County,Total Homeless,325
+2014,MI,26,Lenawee County,Total Homeless,138
+2014,MI,26,"Grand Traverse, Antrim, Leelanau Counties",Total Homeless,396
+2014,MI,26,"Marquette, Alger Counties",Total Homeless,80
+2014,MI,26,Battle Creek/Calhoun County,Total Homeless,284
+2014,MI,26,Monroe City & County,Total Homeless,185
+2014,MI,26,Norton Shores/Muskegon City & County,Total Homeless,584
+2014,MI,26,Jackson City & County,Total Homeless,240
+2014,MI,26,Livingston County,Total Homeless,135
+2014,MI,26,Holland/Ottawa County,Total Homeless,387
+2014,MI,26,Eaton County,Total Homeless,126
+2014,MN,27,Minneapolis/Hennepin County,Total Homeless,3731
+2014,MN,27,Saint Paul/Ramsey County,Total Homeless,1500
+2014,MN,27,Rochester/Southeast Minnesota,Total Homeless,482
+2014,MN,27,"Dakota, Anoka, Washington, Scott, Carver Counties",Total Homeless,735
+2014,MN,27,Northeast Minnesota,Total Homeless,200
+2014,MN,27,St. Cloud/Central Minnesota,Total Homeless,607
+2014,MN,27,Northwest Minnesota,Total Homeless,299
+2014,MN,27,Moorhead/West Central Minnesota,Total Homeless,214
+2014,MN,27,Duluth/St.Louis County,Total Homeless,429
+2014,MN,27,Southwest Minnesota,Total Homeless,180
+2014,MO,29,St. Louis County,Total Homeless,402
+2014,MO,29,St.Louis City,Total Homeless,1354
+2014,MO,29,"St. Charles, Lincoln, Warren Counties",Total Homeless,896
+2014,MO,29,"Springfield/Greene, Christian, Webster Counties",Total Homeless,656
+2014,MO,29,"Joplin/Jasper, Newton Counties",Total Homeless,315
+2014,MO,29,"St. Joseph/Andrew, Buchanan, DeKalb Counties",Total Homeless,200
+2014,MO,29,"Kansas City, Independence, Lees Summit/Jackson, Wyandotte Counties, MO & KS",Total Homeless,2193
+2014,MO,29,Missouri Balance of State,Total Homeless,1528
+2014,MS,28,"Jackson/Rankin, Madison Counties",Total Homeless,846
+2014,MS,28,Mississippi Balance of State,Total Homeless,954
+2014,MS,28,Gulf Port/Gulf Coast Regional,Total Homeless,426
+2014,MT,30,Montana Statewide,Total Homeless,1745
+2014,NC,37,Winston Salem/Forsyth County,Total Homeless,515
+2014,NC,37,Asheville/Buncombe County,Total Homeless,530
+2014,NC,37,Durham City & County,Total Homeless,811
+2014,NC,37,North Carolina Balance of State,Total Homeless,3195
+2014,NC,37,Greensboro/High Point,Total Homeless,897
+2014,NC,37,Charlotte/Mecklenberg,Total Homeless,2014
+2014,NC,37,"Wilmington/Brunswick, New Hanover, Pender Counties",Total Homeless,321
+2014,NC,37,Raleigh/Wake County,Total Homeless,1170
+2014,NC,37,"Gastonia/Cleveland, Gaston, Lincoln Counties",Total Homeless,423
+2014,NC,37,Fayetteville/Cumberland County,Total Homeless,653
+2014,NC,37,Chapel Hill/Orange County,Total Homeless,108
+2014,NC,37,Northwest North Carolina,Total Homeless,854
+2014,ND,38,North Dakota Statewide,Total Homeless,1258
+2014,NE,31,Nebraska Balance of State,Total Homeless,560
+2014,NE,31,Omaha/Council Bluffs,Total Homeless,1630
+2014,NE,31,Lincoln,Total Homeless,836
+2014,NH,33,New Hampshire Balance of State,Total Homeless,689
+2014,NH,33,Manchester,Total Homeless,407
+2014,NH,33,Nashua/Hillsborough County,Total Homeless,280
+2014,NJ,34,Atlantic City & County,Total Homeless,544
+2014,NJ,34,Bergen County,Total Homeless,371
+2014,NJ,34,Burlington County,Total Homeless,1020
+2014,NJ,34,"Camden City/Camden, Cumberland, Gloucester, Cape May Counties",Total Homeless,1695
+2014,NJ,34,Newark/Essex County,Total Homeless,1483
+2014,NJ,34,Jersey City/Bayonne/Hudson County,Total Homeless,821
+2014,NJ,34,New Brunswick/Middlesex County,Total Homeless,802
+2014,NJ,34,Monmouth County,Total Homeless,588
+2014,NJ,34,Morris County,Total Homeless,389
+2014,NJ,34,Lakewood Township/Ocean County,Total Homeless,627
+2014,NJ,34,Paterson/Passaic County,Total Homeless,376
+2014,NJ,34,Salem County,Total Homeless,42
+2014,NJ,34,Somerset County,Total Homeless,323
+2014,NJ,34,Trenton/Mercer County,Total Homeless,632
+2014,NJ,34,Elizabeth/Union County,Total Homeless,1679
+2014,NJ,34,"Warren, Sussex, Hunterdon Counties",Total Homeless,279
+2014,NM,35,Albuquerque,Total Homeless,1254
+2014,NM,35,New Mexico Balance of State,Total Homeless,1492
+2014,NV,32,Las Vegas/Clark County,Total Homeless,7443
+2014,NV,32,Reno/Sparks/Washoe County,Total Homeless,769
+2014,NV,32,Nevada Balance of State,Total Homeless,370
+2014,NY,36,Rochester/Irondequoit/Greece/Monroe County,Total Homeless,838
+2014,NY,36,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties",Total Homeless,512
+2014,NY,36,Albany City & County,Total Homeless,650
+2014,NY,36,Cattaragus County,Total Homeless,33
+2014,NY,36,"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties",Total Homeless,1024
+2014,NY,36,Schenectady City & County,Total Homeless,243
+2014,NY,36,"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties",Total Homeless,1088
+2014,NY,36,Ithaca/Tompkins County,Total Homeless,47
+2014,NY,36,"Binghamton, Union/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Counties C",Total Homeless,309
+2014,NY,36,Troy/Rensselaer County,Total Homeless,216
+2014,NY,36,"Wayne, Ontario, Seneca, Yates Counties",Total Homeless,92
+2014,NY,36,Jamestown/Dunkirk/Chautauqua County,Total Homeless,53
+2014,NY,36,Clinton County,Total Homeless,133
+2014,NY,36,"Utica/Rome/Oneida, Madison Counties",Total Homeless,159
+2014,NY,36,Columbia/Greene County,Total Homeless,128
+2014,NY,36,Franklin County,Total Homeless,78
+2014,NY,36,Jefferson/Lewis/St. Lawrence Counties,Total Homeless,149
+2014,NY,36,"Glens Falls/Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties",Total Homeless,262
+2014,NY,36,New York City,Total Homeless,67810
+2014,NY,36,Poughkeepsie/Dutchess County,Total Homeless,403
+2014,NY,36,Newburgh/Middletown/Orange County,Total Homeless,421
+2014,NY,36,"Nassau, Suffolk Counties/Babylon/Islip/ Huntington",Total Homeless,3207
+2014,NY,36,Yonkers/Mount Vernon/New Rochelle/Westchester,Total Homeless,2138
+2014,NY,36,Rockland County,Total Homeless,125
+2014,NY,36,Sullivan County,Total Homeless,131
+2014,NY,36,Kingston/Ulster County,Total Homeless,341
+2014,OH,39,Cincinnati/Hamilton County,Total Homeless,1043
+2014,OH,39,Toledo/Lucas County,Total Homeless,809
+2014,OH,39,Cleveland/Cuyahoga County,Total Homeless,2103
+2014,OH,39,Columbus/Franklin County,Total Homeless,1614
+2014,OH,39,Youngstown/Mahoning County,Total Homeless,256
+2014,OH,39,Dayton/Kettering/Montgomery County,Total Homeless,791
+2014,OH,39,Akron/Barberton/Summit County,Total Homeless,870
+2014,OH,39,Ohio Balance of State,Total Homeless,3806
+2014,OH,39,Canton/Massillon/Alliance/Stark County,Total Homeless,531
+2014,OK,40,North Central Oklahoma,Total Homeless,201
+2014,OK,40,Tulsa City & County/Broken Arrow,Total Homeless,1010
+2014,OK,40,Oklahoma City,Total Homeless,1481
+2014,OK,40,Oklahoma Balance of State,Total Homeless,295
+2014,OK,40,Norman/Cleveland County,Total Homeless,140
+2014,OK,40,Northeast Oklahoma,Total Homeless,383
+2014,OK,40,Southwest Oklahoma Regional,Total Homeless,239
+2014,OK,40,Southeastern Oklahoma Regional,Total Homeless,442
+2014,OR,41,Eugene/Springfield/Lane County,Total Homeless,1767
+2014,OR,41,Portland-Gresham-Multnomah County,Total Homeless,3927
+2014,OR,41,Medford/Ashland/Jackson County,Total Homeless,625
+2014,OR,41,Central Oregon,Total Homeless,568
+2014,OR,41,Oregon Balance of State,Total Homeless,4122
+2014,OR,41,Hillsboro/Beaverton/Washington County,Total Homeless,537
+2014,OR,41,Clackamas County,Total Homeless,618
+2014,PA,42,Philadelphia,Total Homeless,5738
+2014,PA,42,Harrisburg/Dauphin County,Total Homeless,396
+2014,PA,42,Upper Darby/Chester/Haverford/Delaware County,Total Homeless,509
+2014,PA,42,Wilkes-Barre/Hazleton/Luzerne County,Total Homeless,192
+2014,PA,42,Lower Marion/Norristown/Abington/Montgomery County,Total Homeless,438
+2014,PA,42,Chester County,Total Homeless,679
+2014,PA,42,Reading/Berks County,Total Homeless,604
+2014,PA,42,Scranton/Lackawanna County,Total Homeless,287
+2014,PA,42,Eastern Pennsylvania,Total Homeless,2021
+2014,PA,42,Lancaster City & County,Total Homeless,498
+2014,PA,42,Bristol/Bensalem/Bucks County,Total Homeless,492
+2014,PA,42,York City & County,Total Homeless,302
+2014,PA,42,Pittsburgh/McKeesport/Penn Hills/Allegheny County,Total Homeless,1573
+2014,PA,42,Western Pennsylvania,Total Homeless,1101
+2014,PA,42,Beaver County,Total Homeless,95
+2014,PA,42,Erie City & County,Total Homeless,408
+2014,RI,44,Rhode Island Statewide,Total Homeless,1190
+2014,SC,45,Charleston/Low Country,Total Homeless,516
+2014,SC,45,Greenville/Anderson/Spartanburg Upstate,Total Homeless,1636
+2014,SC,45,Columbia/Midlands,Total Homeless,1588
+2014,SC,45,Myrtle Beach/Sumter City & County,Total Homeless,1317
+2014,SD,46,South Dakota Statewide,Total Homeless,885
+2014,TN,47,Chattanooga/Southeast Tennessee,Total Homeless,627
+2014,TN,47,Memphis/Shelby County,Total Homeless,1675
+2014,TN,47,Knoxville/Knox County,Total Homeless,861
+2014,TN,47,Central Tennessee,Total Homeless,286
+2014,TN,47,Nashville/Davidson County,Total Homeless,2234
+2014,TN,47,Oak Ridge/Upper Cumberland,Total Homeless,342
+2014,TN,47,Jackson/West Tennessee,Total Homeless,1601
+2014,TN,47,Appalachian Regional,Total Homeless,598
+2014,TN,47,Murfreesboro/Rutherford County,Total Homeless,258
+2014,TN,47,"Morristown/Blount, Sevier, Campbell, Cocke Counties",Total Homeless,933
+2014,TX,48,San Antonio/Bexar County,Total Homeless,2892
+2014,TX,48,Austin/Travis County,Total Homeless,1987
+2014,TX,48,Dallas City & County/Irving,Total Homeless,3514
+2014,TX,48,Fort Worth/Arlington/Tarrant County,Total Homeless,2425
+2014,TX,48,El Paso City & County,Total Homeless,1260
+2014,TX,48,Waco/McLennan County,Total Homeless,246
+2014,TX,48,Texas Balance of State (BoS),Total Homeless,9943
+2014,TX,48,Amarillo,Total Homeless,451
+2014,TX,48,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties",Total Homeless,281
+2014,TX,48,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties",Total Homeless,5308
+2014,TX,48,Bryan/College Station/Brazos Valley,Total Homeless,188
+2014,UT,49,Salt Lake City & County,Total Homeless,2150
+2014,UT,49,Utah Balance of State,Total Homeless,782
+2014,UT,49,Provo/Mountainland,Total Homeless,149
+2014,VA,51,"Richmond/Henrico, Chesterfield, Hanover Counties",Total Homeless,846
+2014,VA,51,"Norfolk/Chesapeake/Suffolk/Isle of Wright, Southampton Counties",Total Homeless,668
+2014,VA,51,Roanoke City & County/Salem,Total Homeless,440
+2014,VA,51,Virginia Beach,Total Homeless,440
+2014,VA,51,Charlottesville,Total Homeless,204
+2014,VA,51,Newport News/Hampton/Virginia Peninsula,Total Homeless,525
+2014,VA,51,Portsmouth,Total Homeless,160
+2014,VA,51,Lynchburg,Total Homeless,220
+2014,VA,51,"Harrisburg, Winchester/Western Virginia",Total Homeless,249
+2014,VA,51,"Fredericksburg/Spotsylvania, Stafford Counties",Total Homeless,201
+2014,VA,51,Virginia Balance of State (BoS),Total Homeless,662
+2014,VA,51,Arlington County,Total Homeless,291
+2014,VA,51,Fairfax County,Total Homeless,1225
+2014,VA,51,Loudoun County,Total Homeless,177
+2014,VA,51,City of Alexandria,Total Homeless,267
+2014,VA,51,Prince William County,Total Homeless,445
+2014,VT,50,Vermont Balance of State,Total Homeless,1027
+2014,VT,50,Burlington/Chittenden County,Total Homeless,532
+2014,WA,53,Seattle/King County,Total Homeless,8949
+2014,WA,53,Washington Balance of State,Total Homeless,4703
+2014,WA,53,Spokane City & County,Total Homeless,1149
+2014,WA,53,Tacoma/Lakewood/Pierce County,Total Homeless,1464
+2014,WA,53,Everett/Snohomish County,Total Homeless,949
+2014,WA,53,Yakima City & County,Total Homeless,533
+2014,WA,53,Vancouver/Clark County,Total Homeless,695
+2014,WI,55,Wisconsin Balance of State,Total Homeless,3569
+2014,WI,55,Milwaukee City & County,Total Homeless,1499
+2014,WI,55,Racine City & County,Total Homeless,210
+2014,WI,55,Madison/Dane County,Total Homeless,777
+2014,WV,54,Wheeling/Weirton Area,Total Homeless,97
+2014,WV,54,"Huntington/Cabell, Wayne Counties",Total Homeless,218
+2014,WV,54,"Charleston/Kanawha, Putnam, Boone, Clay Counties",Total Homeless,360
+2014,WV,54,West Virginia Balance of State,Total Homeless,1338
+2014,WY,56,Wyoming Statewide,Total Homeless,757
+2015,AK,2,Anchorage,Total Homeless,1208
+2015,AK,2,Alaska Balance of State,Total Homeless,748
+2015,AL,1,"Birmingham/Jefferson, St. Clair, Shelby Counties",Total Homeless,1153
+2015,AL,1,Mobile City & County/Baldwin County,Total Homeless,578
+2015,AL,1,Florence/Northwest Alabama,Total Homeless,245
+2015,AL,1,Huntsville/North Alabama,Total Homeless,420
+2015,AL,1,Montgomery City & County,Total Homeless,441
+2015,AL,1,Gadsden/Northeast Alabama,Total Homeless,156
+2015,AL,1,Tuscaloosa City & County,Total Homeless,339
+2015,AL,1,Alabama Balance of State,Total Homeless,638
+2015,AR,5,Little Rock/Central Arkansas,Total Homeless,830
+2015,AR,5,Fayetteville/Northwest Arkansas,Total Homeless,665
+2015,AR,5,Arkansas  Balance of State ,Total Homeless,728
+2015,AR,5,Delta Hills,Total Homeless,40
+2015,AR,5,Southeast Arkansas,Total Homeless,72
+2015,AR,5,Old Fort Homeless Coalition,Total Homeless,179
+2015,AR,5,"Boone, Baxter, Marion, Newton Counties",Total Homeless,46
+2015,AZ,4,Arizona Balance of State,Total Homeless,2402
+2015,AZ,4,Tucson/Pima County,Total Homeless,1863
+2015,AZ,4,Phoenix/Mesa/Maricopa County Regional,Total Homeless,5631
+2015,CA,6,San Jose/Santa Clara City & County,Total Homeless,6556
+2015,CA,6,San Francisco,Total Homeless,6775
+2015,CA,6,Oakland/Alameda County,Total Homeless,4040
+2015,CA,6,Sacramento City & County,Total Homeless,2659
+2015,CA,6,Santa Rosa/Petaluma/Sonoma County,Total Homeless,3097
+2015,CA,6,Richmond/Contra Costa County,Total Homeless,2031
+2015,CA,6,"Salinas/Monterey, San Benito Counties",Total Homeless,2959
+2015,CA,6,Marin County,Total Homeless,1318
+2015,CA,6,Watsonville/Santa Cruz City & County,Total Homeless,1964
+2015,CA,6,Mendocino County,Total Homeless,947
+2015,CA,6,Turlock/Modesto/Stanislaus County,Total Homeless,1408
+2015,CA,6,Stockton/San Joaquin County,Total Homeless,1708
+2015,CA,6,Daly/San Mateo County,Total Homeless,1483
+2015,CA,6,"Visalia, Kings, Tulare Counties",Total Homeless,862
+2015,CA,6,Fresno/Madera County,Total Homeless,1722
+2015,CA,6,"Roseville/Rocklin/Placer, Nevada Counties",Total Homeless,796
+2015,CA,6,"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties",Total Homeless,591
+2015,CA,6,Napa City & County,Total Homeless,293
+2015,CA,6,Vallejo/Solano County,Total Homeless,1082
+2015,CA,6,Chico/Paradise/Butte County,Total Homeless,571
+2015,CA,6,Merced City & County,Total Homeless,898
+2015,CA,6,Davis/Woodland/Yolo County,Total Homeless,498
+2015,CA,6,Humboldt County,Total Homeless,1180
+2015,CA,6,"Colusa, Glenn, Trinity Counties",Total Homeless,136
+2015,CA,6,Yuba City & County/Sutter County,Total Homeless,716
+2015,CA,6,El Dorado County,Total Homeless,269
+2015,CA,6,"Amador, Calaveras, Tuolumne and Mariposa Counties",Total Homeless,430
+2015,CA,6,Tehama County,Total Homeless,138
+2015,CA,6,Lake County,Total Homeless,315
+2015,CA,6,Los Angeles City & County,Total Homeless,41174
+2015,CA,6,San Diego City and County,Total Homeless,8742
+2015,CA,6,Santa Ana/Anaheim/Orange County,Total Homeless,4452
+2015,CA,6,Santa Maria/Santa Barbara County,Total Homeless,1729
+2015,CA,6,Bakersfield/Kern County,Total Homeless,954
+2015,CA,6,Long Beach,Total Homeless,2345
+2015,CA,6,Pasadena,Total Homeless,632
+2015,CA,6,Riverside City & County,Total Homeless,2372
+2015,CA,6,San Bernardino City & County,Total Homeless,2149
+2015,CA,6,Oxnard/San Buenaventura/Ventura County,Total Homeless,1417
+2015,CA,6,Glendale,Total Homeless,208
+2015,CA,6,Imperial County,Total Homeless,554
+2015,CA,6,San Luis Obispo County,Total Homeless,1515
+2015,CA,6,"Inyo, Mono, Alpine Counties",Total Homeless,53
+2015,CO,8,Colorado Balance of State,Total Homeless,3545
+2015,CO,8,Metropolitan Denver Homeless Initiative,Total Homeless,5335
+2015,CO,8,Colorado Springs/El Paso County,Total Homeless,1073
+2015,CT,9,Bridgeport/Norwalk /Stamford/Fairfield County,Total Homeless,913
+2015,CT,9,Connecticut Balance of State,Total Homeless,3134
+2015,DC,11,District of Columbia,Total Homeless,7298
+2015,DE,10,Delaware Statewide,Total Homeless,953
+2015,FL,12,"Sarasota/Bradenton/Manatee, Sarasota Counties",Total Homeless,1198
+2015,FL,12,Tampa/Hillsborough County,Total Homeless,1931
+2015,FL,12,St. Petersburg/Clearwater/Largo/Pinellas County,Total Homeless,3387
+2015,FL,12,Lakeland/Winter Haven/Polk County,Total Homeless,464
+2015,FL,12,"Daytona Beach/Daytona/Volusia, Flagler Counties",Total Homeless,1325
+2015,FL,12,"Fort Walton Beach/Okaloosa, Walton Counties",Total Homeless,683
+2015,FL,12,Tallahassee/Leon County,Total Homeless,863
+2015,FL,12,"Orlando/Orange, Osceola, Seminole Counties",Total Homeless,2112
+2015,FL,12,"Gainesville/Alachua, Putnam Counties",Total Homeless,870
+2015,FL,12,"Fort Pierce/St. Lucie, Indian River, Martin Counties",Total Homeless,2412
+2015,FL,12,"Jacksonville-Duval, Clay Counties",Total Homeless,1853
+2015,FL,12,Pensacola/Escambia/Santa Rosa County,Total Homeless,1014
+2015,FL,12,Saint Johns County,Total Homeless,1161
+2015,FL,12,Palm Bay/Melbourne/Brevard County,Total Homeless,1072
+2015,FL,12,Ocala/Marion County,Total Homeless,787
+2015,FL,12,"Panama City/Bay, Jackson Counties",Total Homeless,317
+2015,FL,12,"Hendry, Hardee, Highlands Counties",Total Homeless,1218
+2015,FL,12,"Columbia, Hamilton, Lafayette, Suwannee Counties",Total Homeless,1115
+2015,FL,12,Pasco County,Total Homeless,1019
+2015,FL,12,"Citrus, Hernando, Lake, Sumter Counties",Total Homeless,731
+2015,FL,12,Miami/Dade County,Total Homeless,4152
+2015,FL,12,Ft Lauderdale/Broward County,Total Homeless,2615
+2015,FL,12,Punta Gorda/Charlotte County,Total Homeless,562
+2015,FL,12,Ft Myers/Cape Coral/Lee County,Total Homeless,614
+2015,FL,12,Monroe County,Total Homeless,615
+2015,FL,12,West Palm Beach/Palm Beach County,Total Homeless,1421
+2015,FL,12,Naples/Collier County,Total Homeless,389
+2015,GA,13,Atlanta Continuum of Care,Total Homeless,4317
+2015,GA,13,Georgia Balance of State,Total Homeless,5797
+2015,GA,13,Fulton County Continuum of Care,Total Homeless,473
+2015,GA,13,Athens/Clarke County,Total Homeless,226
+2015,GA,13,Augusta,Total Homeless,407
+2015,GA,13,Columbus-Muscogee/Russell County,Total Homeless,371
+2015,GA,13,Marietta/Cobb County,Total Homeless,415
+2015,GA,13,Savannah/Chatham County,Total Homeless,1100
+2015,GA,13,DeKalb County Continuum of Care,Total Homeless,684
+2015,HI,15,Hawaii Balance of State,Total Homeless,2717
+2015,HI,15,Honolulu,Total Homeless,4903
+2015,IA,19,"Sioux City/Dakota, Woodbury Counties",Total Homeless,276
+2015,IA,19,Iowa Balance of State,Total Homeless,1975
+2015,IA,19,Des Moines/Polk County,Total Homeless,830
+2015,ID,16,Boise/Ada County,Total Homeless,755
+2015,ID,16,Idaho Balance of State,Total Homeless,1211
+2015,IL,17,McHenry County,Total Homeless,177
+2015,IL,17,"Rockford/Winnebago, Boone Counties",Total Homeless,327
+2015,IL,17,Waukegan/North Chicago/Lake County,Total Homeless,386
+2015,IL,17,Champaign/Urbana/Rantoul/Champaign County,Total Homeless,163
+2015,IL,17,Madison County,Total Homeless,168
+2015,IL,17,Joliet/Bolingbrook/Will County,Total Homeless,340
+2015,IL,17,"Peoria/Perkin/Fulton, Peoria, Tazewell, Woodford",Total Homeless,451
+2015,IL,17,East Saint Louis/Belleville/Saint Clair County,Total Homeless,318
+2015,IL,17,Dekalb City & County,Total Homeless,101
+2015,IL,17,Chicago,Total Homeless,6786
+2015,IL,17,Cook County,Total Homeless,895
+2015,IL,17,Bloomington/Central Illinois,Total Homeless,619
+2015,IL,17,Springfield/Sangamon County,Total Homeless,326
+2015,IL,17,DuPage County,Total Homeless,672
+2015,IL,17,South Central Illinois,Total Homeless,122
+2015,IL,17,Decatur/Macon County,Total Homeless,238
+2015,IL,17,Aurora/Elgin/Kane County,Total Homeless,388
+2015,IL,17,Rock Island/Moline/Northwestern Illinois,Total Homeless,254
+2015,IL,17,West Central Illinois,Total Homeless,100
+2015,IL,17,Southern Illinois,Total Homeless,346
+2015,IN,18,South Bend/Mishawaka/St. Joseph County,Total Homeless,533
+2015,IN,18,Indiana Balance of State,Total Homeless,3664
+2015,IN,18,Indianapolis,Total Homeless,1666
+2015,KS,20,Wichita/Sedgwick County,Total Homeless,561
+2015,KS,20,Topeka/Shawnee County,Total Homeless,405
+2015,KS,20,Overland Park/Shawnee/Johnson County,Total Homeless,174
+2015,KS,20,Kansas Balance of State,Total Homeless,1208
+2015,KY,21,Kentucky Balance of State,Total Homeless,2119
+2015,KY,21,Louisville/Jefferson County,Total Homeless,1161
+2015,KY,21,Lexington/Fayette County,Total Homeless,1258
+2015,LA,22,Lafayette/Acadiana,Total Homeless,493
+2015,LA,22,Shreveport/Bossier/Northwest,Total Homeless,390
+2015,LA,22,New Orleans/Jefferson Parish,Total Homeless,1703
+2015,LA,22,Baton Rouge,Total Homeless,659
+2015,LA,22,Monroe/Northeast Louisiana,Total Homeless,191
+2015,LA,22,Slidell/Southeast Louisiana,Total Homeless,243
+2015,LA,22,Alexandria/Central Louisiana,Total Homeless,154
+2015,LA,22,Houma-Terrebonne/Thibodaux,Total Homeless,144
+2015,LA,22,Louisiana Balance of State,Total Homeless,104
+2015,MA,25,Boston,Total Homeless,6492
+2015,MA,25,Lynn,Total Homeless,445
+2015,MA,25,Cape Cod/Islands,Total Homeless,362
+2015,MA,25,Springfield,Total Homeless,3002
+2015,MA,25,New Bedford,Total Homeless,437
+2015,MA,25,Worcester City & County,Total Homeless,1682
+2015,MA,25,Pittsfield/Berkshire County,Total Homeless,781
+2015,MA,25,Lowell,Total Homeless,635
+2015,MA,25,Cambridge,Total Homeless,464
+2015,MA,25,Gloucester/Haverhill/Salem/Essex County,Total Homeless,1577
+2015,MA,25,Quincy/Brockton/Weymouth/Plymouth City and County,Total Homeless,1803
+2015,MA,25,Fall River,Total Homeless,406
+2015,MA,25,Massachusetts Balance of State,Total Homeless,2071
+2015,MA,25,Somerville,Total Homeless,158
+2015,MA,25,Brookline/Newton,Total Homeless,580
+2015,MA,25,Attleboro/Taunton/Bristol County,Total Homeless,240
+2015,MD,24,Cumberland/Allegany County,Total Homeless,96
+2015,MD,24,Baltimore City,Total Homeless,2796
+2015,MD,24,Harford County,Total Homeless,210
+2015,MD,24,Annapolis/Anne Arundel County,Total Homeless,335
+2015,MD,24,Howard County,Total Homeless,166
+2015,MD,24,Baltimore County,Total Homeless,745
+2015,MD,24,Carroll County,Total Homeless,140
+2015,MD,24,Cecil County,Total Homeless,191
+2015,MD,24,"Charles, Calvert, St.Mary's Counties",Total Homeless,981
+2015,MD,24,Frederick City & County,Total Homeless,311
+2015,MD,24,Garrett County,Total Homeless,9
+2015,MD,24,Mid-Shore Regional,Total Homeless,158
+2015,MD,24,Hagerstown/Washington County,Total Homeless,201
+2015,MD,24,Wicomico/Somerset/Worcester County,Total Homeless,326
+2015,MD,24,Prince George`s County/Maryland,Total Homeless,625
+2015,MD,24,Montgomery County,Total Homeless,1100
+2015,ME,23,Maine Balance of State,Total Homeless,1632
+2015,ME,23,Portland,Total Homeless,740
+2015,MI,26,Michigan Balance of State,Total Homeless,1745
+2015,MI,26,Detroit,Total Homeless,2597
+2015,MI,26,Dearborn/Dearborn Heights/Westland/Wayne County,Total Homeless,333
+2015,MI,26,St. Clair Shores/Warren/Macomb County,Total Homeless,450
+2015,MI,26,Pontiac/Royal Oak/Oakland County,Total Homeless,485
+2015,MI,26,Flint/Genesee County,Total Homeless,488
+2015,MI,26,Grand Rapids/Wyoming/Kent County,Total Homeless,912
+2015,MI,26,Portage/Kalamazoo City & County,Total Homeless,568
+2015,MI,26,Lansing/East Lansing/Ingham County,Total Homeless,418
+2015,MI,26,Ann Arbor/Washtenaw County,Total Homeless,372
+2015,MI,26,Saginaw City & County,Total Homeless,308
+2015,MI,26,Lenawee County,Total Homeless,128
+2015,MI,26,"Grand Traverse, Antrim, Leelanau Counties",Total Homeless,302
+2015,MI,26,"Marquette, Alger Counties",Total Homeless,79
+2015,MI,26,Battle Creek/Calhoun County,Total Homeless,285
+2015,MI,26,Monroe City & County,Total Homeless,185
+2015,MI,26,Norton Shores/Muskegon City & County,Total Homeless,179
+2015,MI,26,Jackson City & County,Total Homeless,159
+2015,MI,26,Livingston County,Total Homeless,103
+2015,MI,26,Holland/Ottawa County,Total Homeless,285
+2015,MI,26,Eaton County,Total Homeless,135
+2015,MN,27,Minneapolis/Hennepin County,Total Homeless,3215
+2015,MN,27,Saint Paul/Ramsey County,Total Homeless,1398
+2015,MN,27,Rochester/Southeast Minnesota,Total Homeless,451
+2015,MN,27,"Dakota, Anoka, Washington, Scott, Carver Counties",Total Homeless,608
+2015,MN,27,Northeast Minnesota,Total Homeless,68
+2015,MN,27,St. Cloud/Central Minnesota,Total Homeless,696
+2015,MN,27,Northwest Minnesota,Total Homeless,254
+2015,MN,27,Moorhead/West Central Minnesota,Total Homeless,242
+2015,MN,27,Duluth/St.Louis County,Total Homeless,490
+2015,MN,27,Southwest Minnesota,Total Homeless,124
+2015,MO,29,St. Louis County,Total Homeless,438
+2015,MO,29,St.Louis City,Total Homeless,1312
+2015,MO,29,"St. Charles, Lincoln, Warren Counties",Total Homeless,803
+2015,MO,29,"Springfield/Greene, Christian, Webster Counties",Total Homeless,584
+2015,MO,29,"Joplin/Jasper, Newton Counties",Total Homeless,258
+2015,MO,29,"St. Joseph/Andrew, Buchanan, DeKalb Counties",Total Homeless,164
+2015,MO,29,"Kansas City, Independence, Lees Summit/Jackson, Wyandotte Counties, MO & KS",Total Homeless,1686
+2015,MO,29,Missouri Balance of State,Total Homeless,1477
+2015,MS,28,"Jackson/Rankin, Madison Counties",Total Homeless,762
+2015,MS,28,Mississippi Balance of State,Total Homeless,809
+2015,MS,28,Gulf Port/Gulf Coast Regional,Total Homeless,412
+2015,MT,30,Montana Statewide,Total Homeless,1709
+2015,NC,37,Winston Salem/Forsyth County,Total Homeless,571
+2015,NC,37,Asheville/Buncombe County,Total Homeless,562
+2015,NC,37,Durham City & County,Total Homeless,813
+2015,NC,37,North Carolina Balance of State,Total Homeless,3021
+2015,NC,37,Greensboro/High Point,Total Homeless,665
+2015,NC,37,Charlotte/Mecklenberg,Total Homeless,2001
+2015,NC,37,"Wilmington/Brunswick, New Hanover, Pender Counties",Total Homeless,390
+2015,NC,37,Raleigh/Wake County,Total Homeless,904
+2015,NC,37,"Gastonia/Cleveland, Gaston, Lincoln Counties",Total Homeless,281
+2015,NC,37,Fayetteville/Cumberland County,Total Homeless,593
+2015,NC,37,Chapel Hill/Orange County,Total Homeless,129
+2015,NC,37,Northwest North Carolina,Total Homeless,755
+2015,ND,38,North Dakota Statewide,Total Homeless,1305
+2015,NE,31,Nebraska Balance of State,Total Homeless,549
+2015,NE,31,Omaha/Council Bluffs,Total Homeless,1481
+2015,NE,31,Lincoln,Total Homeless,714
+2015,NH,33,New Hampshire Balance of State,Total Homeless,718
+2015,NH,33,Manchester,Total Homeless,400
+2015,NH,33,Nashua/Hillsborough County,Total Homeless,327
+2015,NJ,34,Atlantic City & County,Total Homeless,548
+2015,NJ,34,Bergen County,Total Homeless,340
+2015,NJ,34,Burlington County,Total Homeless,1347
+2015,NJ,34,"Camden City/Camden, Cumberland, Gloucester, Cape May Counties",Total Homeless,1089
+2015,NJ,34,Newark/Essex County,Total Homeless,1610
+2015,NJ,34,Jersey City/Bayonne/Hudson County,Total Homeless,917
+2015,NJ,34,New Brunswick/Middlesex County,Total Homeless,604
+2015,NJ,34,Monmouth County,Total Homeless,456
+2015,NJ,34,Morris County,Total Homeless,384
+2015,NJ,34,Lakewood Township/Ocean County,Total Homeless,605
+2015,NJ,34,Paterson/Passaic County,Total Homeless,459
+2015,NJ,34,Salem County,Total Homeless,38
+2015,NJ,34,Somerset County,Total Homeless,342
+2015,NJ,34,Trenton/Mercer County,Total Homeless,600
+2015,NJ,34,Elizabeth/Union County,Total Homeless,504
+2015,NJ,34,"Warren, Sussex, Hunterdon Counties",Total Homeless,255
+2015,NM,35,Albuquerque,Total Homeless,1287
+2015,NM,35,New Mexico Balance of State,Total Homeless,1342
+2015,NV,32,Las Vegas/Clark County,Total Homeless,7509
+2015,NV,32,Reno/Sparks/Washoe County,Total Homeless,907
+2015,NV,32,Nevada Balance of State,Total Homeless,327
+2015,NY,36,Rochester/Irondequoit/Greece/Monroe County,Total Homeless,762
+2015,NY,36,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties",Total Homeless,648
+2015,NY,36,Albany City & County,Total Homeless,597
+2015,NY,36,Cattaragus County,Total Homeless,41
+2015,NY,36,"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties",Total Homeless,922
+2015,NY,36,Schenectady City & County,Total Homeless,349
+2015,NY,36,"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties",Total Homeless,919
+2015,NY,36,Ithaca/Tompkins County,Total Homeless,88
+2015,NY,36,"Binghamton, Union/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Counties C",Total Homeless,302
+2015,NY,36,Troy/Rensselaer County,Total Homeless,189
+2015,NY,36,"Wayne, Ontario, Seneca, Yates Counties",Total Homeless,187
+2015,NY,36,Jamestown/Dunkirk/Chautauqua County,Total Homeless,29
+2015,NY,36,Clinton County,Total Homeless,143
+2015,NY,36,"Utica/Rome/Oneida, Madison Counties",Total Homeless,140
+2015,NY,36,Columbia/Greene County,Total Homeless,97
+2015,NY,36,Franklin County,Total Homeless,28
+2015,NY,36,Jefferson/Lewis/St. Lawrence Counties,Total Homeless,86
+2015,NY,36,"Glens Falls/Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties",Total Homeless,282
+2015,NY,36,New York City,Total Homeless,75323
+2015,NY,36,Poughkeepsie/Dutchess County,Total Homeless,375
+2015,NY,36,Newburgh/Middletown/Orange County,Total Homeless,495
+2015,NY,36,"Nassau, Suffolk Counties/Babylon/Islip/ Huntington",Total Homeless,3861
+2015,NY,36,Yonkers/Mount Vernon/New Rochelle/Westchester,Total Homeless,1797
+2015,NY,36,Rockland County,Total Homeless,117
+2015,NY,36,Sullivan County,Total Homeless,130
+2015,NY,36,Kingston/Ulster County,Total Homeless,343
+2015,OH,39,Cincinnati/Hamilton County,Total Homeless,1063
+2015,OH,39,Toledo/Lucas County,Total Homeless,564
+2015,OH,39,Cleveland/Cuyahoga County,Total Homeless,1943
+2015,OH,39,Columbus/Franklin County,Total Homeless,1721
+2015,OH,39,Youngstown/Mahoning County,Total Homeless,368
+2015,OH,39,Dayton/Kettering/Montgomery County,Total Homeless,971
+2015,OH,39,Akron/Barberton/Summit County,Total Homeless,760
+2015,OH,39,Ohio Balance of State,Total Homeless,3320
+2015,OH,39,Canton/Massillon/Alliance/Stark County,Total Homeless,472
+2015,OK,40,North Central Oklahoma,Total Homeless,194
+2015,OK,40,Tulsa City & County/Broken Arrow,Total Homeless,956
+2015,OK,40,Oklahoma City,Total Homeless,1300
+2015,OK,40,Oklahoma Balance of State,Total Homeless,237
+2015,OK,40,Norman/Cleveland County,Total Homeless,133
+2015,OK,40,Northeast Oklahoma,Total Homeless,343
+2015,OK,40,Southwest Oklahoma Regional,Total Homeless,161
+2015,OK,40,Southeastern Oklahoma Regional,Total Homeless,453
+2015,OR,41,Eugene/Springfield/Lane County,Total Homeless,1473
+2015,OR,41,Portland-Gresham-Multnomah County,Total Homeless,3801
+2015,OR,41,Medford/Ashland/Jackson County,Total Homeless,729
+2015,OR,41,Central Oregon,Total Homeless,594
+2015,OR,41,Oregon Balance of State,Total Homeless,5544
+2015,OR,41,Hillsboro/Beaverton/Washington County,Total Homeless,591
+2015,OR,41,Clackamas County,Total Homeless,494
+2015,PA,42,Philadelphia,Total Homeless,5998
+2015,PA,42,Harrisburg/Dauphin County,Total Homeless,402
+2015,PA,42,Upper Darby/Chester/Haverford/Delaware County,Total Homeless,436
+2015,PA,42,Wilkes-Barre/Hazleton/Luzerne County,Total Homeless,174
+2015,PA,42,Lower Marion/Norristown/Abington/Montgomery County,Total Homeless,429
+2015,PA,42,Chester County,Total Homeless,612
+2015,PA,42,Reading/Berks County,Total Homeless,561
+2015,PA,42,Scranton/Lackawanna County,Total Homeless,233
+2015,PA,42,Eastern Pennsylvania,Total Homeless,2410
+2015,PA,42,Lancaster City & County,Total Homeless,378
+2015,PA,42,Bristol/Bensalem/Bucks County,Total Homeless,487
+2015,PA,42,York City & County,Total Homeless,345
+2015,PA,42,Pittsburgh/McKeesport/Penn Hills/Allegheny County,Total Homeless,1424
+2015,PA,42,Western Pennsylvania,Total Homeless,1002
+2015,PA,42,Beaver County,Total Homeless,120
+2015,PA,42,Erie City & County,Total Homeless,410
+2015,RI,44,Rhode Island Statewide,Total Homeless,1111
+2015,SC,45,Charleston/Low Country,Total Homeless,606
+2015,SC,45,Greenville/Anderson/Spartanburg Upstate,Total Homeless,1961
+2015,SC,45,Columbia/Midlands,Total Homeless,1468
+2015,SC,45,Myrtle Beach/Sumter City & County,Total Homeless,1319
+2015,SD,46,South Dakota Statewide,Total Homeless,1036
+2015,TN,47,Chattanooga/Southeast Tennessee,Total Homeless,636
+2015,TN,47,Memphis/Shelby County,Total Homeless,1525
+2015,TN,47,Knoxville/Knox County,Total Homeless,783
+2015,TN,47,Central Tennessee,Total Homeless,268
+2015,TN,47,Nashville/Davidson County,Total Homeless,2154
+2015,TN,47,Oak Ridge/Upper Cumberland,Total Homeless,362
+2015,TN,47,Jackson/West Tennessee,Total Homeless,1563
+2015,TN,47,Appalachian Regional,Total Homeless,577
+2015,TN,47,Murfreesboro/Rutherford County,Total Homeless,289
+2015,TN,47,"Morristown/Blount, Sevier, Campbell, Cocke Counties",Total Homeless,966
+2015,TX,48,San Antonio/Bexar County,Total Homeless,2891
+2015,TX,48,Austin/Travis County,Total Homeless,1832
+2015,TX,48,Dallas City & County/Irving,Total Homeless,3141
+2015,TX,48,Fort Worth/Arlington/Tarrant County,Total Homeless,1914
+2015,TX,48,El Paso City & County,Total Homeless,1107
+2015,TX,48,Waco/McLennan County,Total Homeless,255
+2015,TX,48,Texas Balance of State (BoS),Total Homeless,7016
+2015,TX,48,Amarillo,Total Homeless,478
+2015,TX,48,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties",Total Homeless,267
+2015,TX,48,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties",Total Homeless,4609
+2015,TX,48,Bryan/College Station/Brazos Valley,Total Homeless,168
+2015,UT,49,Salt Lake City & County,Total Homeless,2176
+2015,UT,49,Utah Balance of State,Total Homeless,646
+2015,UT,49,Provo/Mountainland,Total Homeless,203
+2015,VA,51,"Richmond/Henrico, Chesterfield, Hanover Counties",Total Homeless,818
+2015,VA,51,"Norfolk/Chesapeake/Suffolk/Isle of Wright, Southampton Counties",Total Homeless,735
+2015,VA,51,Roanoke City & County/Salem,Total Homeless,390
+2015,VA,51,Virginia Beach,Total Homeless,419
+2015,VA,51,Charlottesville,Total Homeless,185
+2015,VA,51,Newport News/Hampton/Virginia Peninsula,Total Homeless,520
+2015,VA,51,Portsmouth,Total Homeless,174
+2015,VA,51,Lynchburg,Total Homeless,237
+2015,VA,51,"Harrisburg, Winchester/Western Virginia",Total Homeless,242
+2015,VA,51,"Fredericksburg/Spotsylvania, Stafford Counties",Total Homeless,217
+2015,VA,51,Virginia Balance of State (BoS),Total Homeless,773
+2015,VA,51,Arlington County,Total Homeless,239
+2015,VA,51,Fairfax County,Total Homeless,1204
+2015,VA,51,Loudoun County,Total Homeless,172
+2015,VA,51,City of Alexandria,Total Homeless,267
+2015,VA,51,Prince William County,Total Homeless,409
+2015,VT,50,Vermont Balance of State,Total Homeless,1052
+2015,VT,50,Burlington/Chittenden County,Total Homeless,471
+2015,WA,53,Seattle/King County,Total Homeless,10122
+2015,WA,53,Washington Balance of State,Total Homeless,4951
+2015,WA,53,Spokane City & County,Total Homeless,1034
+2015,WA,53,Tacoma/Lakewood/Pierce County,Total Homeless,1283
+2015,WA,53,Everett/Snohomish County,Total Homeless,829
+2015,WA,53,Yakima City & County,Total Homeless,538
+2015,WA,53,Vancouver/Clark County,Total Homeless,662
+2015,WI,55,Wisconsin Balance of State,Total Homeless,3597
+2015,WI,55,Milwaukee City & County,Total Homeless,1521
+2015,WI,55,Racine City & County,Total Homeless,168
+2015,WI,55,Madison/Dane County,Total Homeless,771
+2015,WV,54,Wheeling/Weirton Area,Total Homeless,114
+2015,WV,54,"Huntington/Cabell, Wayne Counties",Total Homeless,227
+2015,WV,54,"Charleston/Kanawha, Putnam, Boone, Clay Counties",Total Homeless,385
+2015,WV,54,West Virginia Balance of State,Total Homeless,1109
+2015,WY,56,Wyoming Statewide,Total Homeless,798
+2016,AK,2,Anchorage,Total Homeless,1105
+2016,AK,2,Alaska Balance of State,Total Homeless,835
+2016,AL,1,"Birmingham/Jefferson, St. Clair, Shelby Counties",Total Homeless,1228
+2016,AL,1,Mobile City & County/Baldwin County,Total Homeless,623
+2016,AL,1,Florence/Northwest Alabama,Total Homeless,337
+2016,AL,1,Huntsville/North Alabama,Total Homeless,385
+2016,AL,1,Montgomery City & County,Total Homeless,367
+2016,AL,1,Gadsden/Northeast Alabama,Total Homeless,167
+2016,AL,1,Tuscaloosa City & County,Total Homeless,177
+2016,AL,1,Alabama Balance of State,Total Homeless,827
+2016,AR,5,Little Rock/Central Arkansas,Total Homeless,808
+2016,AR,5,Fayetteville/Northwest Arkansas,Total Homeless,550
+2016,AR,5,Arkansas  Balance of State ,Total Homeless,734
+2016,AR,5,Delta Hills,Total Homeless,89
+2016,AR,5,Southeast Arkansas,Total Homeless,89
+2016,AR,5,Old Fort Homeless Coalition,Total Homeless,166
+2016,AR,5,"Boone, Baxter, Marion, Newton Counties",Total Homeless,27
+2016,AZ,4,Arizona Balance of State,Total Homeless,2240
+2016,AZ,4,Tucson/Pima County,Total Homeless,1765
+2016,AZ,4,Phoenix/Mesa/Maricopa County Regional,Total Homeless,5702
+2016,CA,6,San Jose/Santa Clara City & County,Total Homeless,6524
+2016,CA,6,San Francisco,Total Homeless,6996
+2016,CA,6,Oakland/Alameda County,Total Homeless,4145
+2016,CA,6,Sacramento City & County,Total Homeless,2500
+2016,CA,6,Santa Rosa/Petaluma/Sonoma County,Total Homeless,2906
+2016,CA,6,Richmond/Contra Costa County,Total Homeless,1730
+2016,CA,6,"Salinas/Monterey, San Benito Counties",Total Homeless,3022
+2016,CA,6,Marin County,Total Homeless,1258
+2016,CA,6,Watsonville/Santa Cruz City & County,Total Homeless,1959
+2016,CA,6,Mendocino County,Total Homeless,1242
+2016,CA,6,Turlock/Modesto/Stanislaus County,Total Homeless,1434
+2016,CA,6,Stockton/San Joaquin County,Total Homeless,1780
+2016,CA,6,Daly/San Mateo County,Total Homeless,1361
+2016,CA,6,"Visalia, Kings, Tulare Counties",Total Homeless,792
+2016,CA,6,Fresno/Madera County,Total Homeless,1883
+2016,CA,6,"Roseville/Rocklin/Placer, Nevada Counties",Total Homeless,1021
+2016,CA,6,"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties",Total Homeless,1272
+2016,CA,6,Napa City & County,Total Homeless,317
+2016,CA,6,Vallejo/Solano County,Total Homeless,1118
+2016,CA,6,Chico/Paradise/Butte County,Total Homeless,574
+2016,CA,6,Merced City & County,Total Homeless,516
+2016,CA,6,Davis/Woodland/Yolo County,Total Homeless,532
+2016,CA,6,Humboldt County,Total Homeless,1134
+2016,CA,6,"Colusa, Glenn, Trinity Counties",Total Homeless,115
+2016,CA,6,Yuba City & County/Sutter County,Total Homeless,702
+2016,CA,6,El Dorado County,Total Homeless,269
+2016,CA,6,"Amador, Calaveras, Tuolumne and Mariposa Counties",Total Homeless,632
+2016,CA,6,Tehama County,Total Homeless,133
+2016,CA,6,Lake County,Total Homeless,332
+2016,CA,6,Los Angeles City & County,Total Homeless,43854
+2016,CA,6,San Diego City and County,Total Homeless,8669
+2016,CA,6,Santa Ana/Anaheim/Orange County,Total Homeless,4319
+2016,CA,6,Santa Maria/Santa Barbara County,Total Homeless,1813
+2016,CA,6,Bakersfield/Kern County,Total Homeless,1067
+2016,CA,6,Long Beach,Total Homeless,2250
+2016,CA,6,Pasadena,Total Homeless,530
+2016,CA,6,Riverside City & County,Total Homeless,2165
+2016,CA,6,San Bernardino City & County,Total Homeless,1887
+2016,CA,6,Oxnard/San Buenaventura/Ventura County,Total Homeless,1271
+2016,CA,6,Glendale,Total Homeless,240
+2016,CA,6,Imperial County,Total Homeless,380
+2016,CA,6,San Luis Obispo County,Total Homeless,1368
+2016,CA,6,"Inyo, Mono, Alpine Counties",Total Homeless,130
+2016,CO,8,Colorado Balance of State,Total Homeless,3520
+2016,CO,8,Metropolitan Denver Homeless Initiative,Total Homeless,5728
+2016,CO,8,Colorado Springs/El Paso County,Total Homeless,1302
+2016,CT,9,Bridgeport/Norwalk /Stamford/Fairfield County,Total Homeless,886
+2016,CT,9,Connecticut Balance of State,Total Homeless,3016
+2016,DC,11,District of Columbia,Total Homeless,8350
+2016,DE,10,Delaware Statewide,Total Homeless,1070
+2016,FL,12,"Sarasota/Bradenton/Manatee, Sarasota Counties",Total Homeless,1468
+2016,FL,12,Tampa/Hillsborough County,Total Homeless,1817
+2016,FL,12,St. Petersburg/Clearwater/Largo/Pinellas County,Total Homeless,2777
+2016,FL,12,Lakeland/Winter Haven/Polk County,Total Homeless,635
+2016,FL,12,"Daytona Beach/Daytona/Volusia, Flagler Counties",Total Homeless,1005
+2016,FL,12,"Fort Walton Beach/Okaloosa, Walton Counties",Total Homeless,629
+2016,FL,12,Tallahassee/Leon County,Total Homeless,869
+2016,FL,12,"Orlando/Orange, Osceola, Seminole Counties",Total Homeless,1670
+2016,FL,12,"Gainesville/Alachua, Putnam Counties",Total Homeless,844
+2016,FL,12,"Fort Pierce/St. Lucie, Indian River, Martin Counties",Total Homeless,2382
+2016,FL,12,"Jacksonville-Duval, Clay Counties",Total Homeless,1959
+2016,FL,12,Pensacola/Escambia/Santa Rosa County,Total Homeless,798
+2016,FL,12,Saint Johns County,Total Homeless,1064
+2016,FL,12,Palm Bay/Melbourne/Brevard County,Total Homeless,827
+2016,FL,12,Ocala/Marion County,Total Homeless,823
+2016,FL,12,"Panama City/Bay, Jackson Counties",Total Homeless,310
+2016,FL,12,"Hendry, Hardee, Highlands Counties",Total Homeless,1071
+2016,FL,12,"Columbia, Hamilton, Lafayette, Suwannee Counties",Total Homeless,1145
+2016,FL,12,Pasco County,Total Homeless,1055
+2016,FL,12,"Citrus, Hernando, Lake, Sumter Counties",Total Homeless,595
+2016,FL,12,Miami/Dade County,Total Homeless,4235
+2016,FL,12,Ft Lauderdale/Broward County,Total Homeless,2302
+2016,FL,12,Punta Gorda/Charlotte County,Total Homeless,388
+2016,FL,12,Ft Myers/Cape Coral/Lee County,Total Homeless,439
+2016,FL,12,Monroe County,Total Homeless,575
+2016,FL,12,West Palm Beach/Palm Beach County,Total Homeless,1332
+2016,FL,12,Naples/Collier County,Total Homeless,545
+2016,GA,13,Atlanta Continuum of Care,Total Homeless,4063
+2016,GA,13,Georgia Balance of State,Total Homeless,5575
+2016,GA,13,Fulton County Continuum of Care,Total Homeless,483
+2016,GA,13,Athens/Clarke County,Total Homeless,224
+2016,GA,13,Augusta,Total Homeless,287
+2016,GA,13,Columbus-Muscogee/Russell County,Total Homeless,329
+2016,GA,13,Marietta/Cobb County,Total Homeless,405
+2016,GA,13,Savannah/Chatham County,Total Homeless,1070
+2016,GA,13,DeKalb County Continuum of Care,Total Homeless,473
+2016,HI,15,Hawaii Balance of State,Total Homeless,2981
+2016,HI,15,Honolulu,Total Homeless,4940
+2016,IA,19,"Sioux City/Dakota, Woodbury Counties",Total Homeless,348
+2016,IA,19,Iowa Balance of State,Total Homeless,1923
+2016,IA,19,Des Moines/Polk County,Total Homeless,793
+2016,ID,16,Boise/Ada County,Total Homeless,867
+2016,ID,16,Idaho Balance of State,Total Homeless,1380
+2016,IL,17,McHenry County,Total Homeless,154
+2016,IL,17,"Rockford/Winnebago, Boone Counties",Total Homeless,255
+2016,IL,17,Waukegan/North Chicago/Lake County,Total Homeless,299
+2016,IL,17,Champaign/Urbana/Rantoul/Champaign County,Total Homeless,188
+2016,IL,17,Madison County,Total Homeless,199
+2016,IL,17,Joliet/Bolingbrook/Will County,Total Homeless,290
+2016,IL,17,"Peoria/Perkin/Fulton, Peoria, Tazewell, Woodford",Total Homeless,378
+2016,IL,17,East Saint Louis/Belleville/Saint Clair County,Total Homeless,240
+2016,IL,17,Dekalb City & County,Total Homeless,81
+2016,IL,17,Chicago,Total Homeless,5889
+2016,IL,17,Cook County,Total Homeless,952
+2016,IL,17,Bloomington/Central Illinois,Total Homeless,411
+2016,IL,17,Springfield/Sangamon County,Total Homeless,261
+2016,IL,17,DuPage County,Total Homeless,555
+2016,IL,17,South Central Illinois,Total Homeless,133
+2016,IL,17,Decatur/Macon County,Total Homeless,157
+2016,IL,17,Aurora/Elgin/Kane County,Total Homeless,355
+2016,IL,17,Rock Island/Moline/Northwestern Illinois,Total Homeless,340
+2016,IL,17,West Central Illinois,Total Homeless,102
+2016,IL,17,Southern Illinois,Total Homeless,351
+2016,IN,18,South Bend/Mishawaka/St. Joseph County,Total Homeless,468
+2016,IN,18,Indiana Balance of State,Total Homeless,3711
+2016,IN,18,Indianapolis,Total Homeless,1619
+2016,KS,20,Wichita/Sedgwick County,Total Homeless,571
+2016,KS,20,Topeka/Shawnee County,Total Homeless,381
+2016,KS,20,Overland Park/Shawnee/Johnson County,Total Homeless,153
+2016,KS,20,Kansas Balance of State,Total Homeless,903
+2016,KY,21,Kentucky Balance of State,Total Homeless,2057
+2016,KY,21,Louisville/Jefferson County,Total Homeless,1116
+2016,KY,21,Lexington/Fayette County,Total Homeless,1064
+2016,LA,22,Lafayette/Acadiana,Total Homeless,463
+2016,LA,22,Shreveport/Bossier/Northwest,Total Homeless,478
+2016,LA,22,New Orleans/Jefferson Parish,Total Homeless,1626
+2016,LA,22,Baton Rouge,Total Homeless,472
+2016,LA,22,Monroe/Northeast Louisiana,Total Homeless,188
+2016,LA,22,Slidell/Southeast Louisiana,Total Homeless,275
+2016,LA,22,Alexandria/Central Louisiana,Total Homeless,167
+2016,LA,22,Houma-Terrebonne/Thibodaux,Total Homeless,146
+2016,LA,22,Louisiana Balance of State,Total Homeless,179
+2016,MA,25,Boston,Total Homeless,6240
+2016,MA,25,Lynn,Total Homeless,541
+2016,MA,25,Cape Cod/Islands,Total Homeless,394
+2016,MA,25,Springfield,Total Homeless,2385
+2016,MA,25,New Bedford,Total Homeless,469
+2016,MA,25,Worcester City & County,Total Homeless,1572
+2016,MA,25,Pittsfield/Berkshire County,Total Homeless,653
+2016,MA,25,Lowell,Total Homeless,594
+2016,MA,25,Cambridge,Total Homeless,517
+2016,MA,25,Gloucester/Haverhill/Salem/Essex County,Total Homeless,1206
+2016,MA,25,Quincy/Brockton/Weymouth/Plymouth City and County,Total Homeless,1692
+2016,MA,25,Fall River,Total Homeless,386
+2016,MA,25,Massachusetts Balance of State,Total Homeless,2008
+2016,MA,25,Somerville,Total Homeless,165
+2016,MA,25,Brookline/Newton,Total Homeless,543
+2016,MA,25,Attleboro/Taunton/Bristol County,Total Homeless,243
+2016,MD,24,Cumberland/Allegany County,Total Homeless,124
+2016,MD,24,Baltimore City,Total Homeless,2725
+2016,MD,24,Harford County,Total Homeless,179
+2016,MD,24,Annapolis/Anne Arundel County,Total Homeless,390
+2016,MD,24,Howard County,Total Homeless,214
+2016,MD,24,Baltimore County,Total Homeless,763
+2016,MD,24,Carroll County,Total Homeless,136
+2016,MD,24,Cecil County,Total Homeless,167
+2016,MD,24,"Charles, Calvert, St.Mary's Counties",Total Homeless,464
+2016,MD,24,Frederick City & County,Total Homeless,349
+2016,MD,24,Garrett County,Total Homeless,20
+2016,MD,24,Mid-Shore Regional,Total Homeless,138
+2016,MD,24,Hagerstown/Washington County,Total Homeless,233
+2016,MD,24,Wicomico/Somerset/Worcester County,Total Homeless,262
+2016,MD,24,Prince George`s County/Maryland,Total Homeless,544
+2016,MD,24,Montgomery County,Total Homeless,981
+2016,ME,23,Maine Balance of State,Total Homeless,1482
+2016,ME,23,Portland,Total Homeless,759
+2016,MI,26,Michigan Balance of State,Total Homeless,1466
+2016,MI,26,Detroit,Total Homeless,2335
+2016,MI,26,Dearborn/Dearborn Heights/Westland/Wayne County,Total Homeless,277
+2016,MI,26,St. Clair Shores/Warren/Macomb County,Total Homeless,403
+2016,MI,26,Pontiac/Royal Oak/Oakland County,Total Homeless,438
+2016,MI,26,Flint/Genesee County,Total Homeless,377
+2016,MI,26,Grand Rapids/Wyoming/Kent County,Total Homeless,800
+2016,MI,26,Portage/Kalamazoo City & County,Total Homeless,374
+2016,MI,26,Lansing/East Lansing/Ingham County,Total Homeless,471
+2016,MI,26,Ann Arbor/Washtenaw County,Total Homeless,342
+2016,MI,26,Saginaw City & County,Total Homeless,343
+2016,MI,26,Lenawee County,Total Homeless,137
+2016,MI,26,"Grand Traverse, Antrim, Leelanau Counties",Total Homeless,243
+2016,MI,26,"Marquette, Alger Counties",Total Homeless,70
+2016,MI,26,Battle Creek/Calhoun County,Total Homeless,246
+2016,MI,26,Monroe City & County,Total Homeless,176
+2016,MI,26,Norton Shores/Muskegon City & County,Total Homeless,191
+2016,MI,26,Jackson City & County,Total Homeless,169
+2016,MI,26,Livingston County,Total Homeless,77
+2016,MI,26,Holland/Ottawa County,Total Homeless,261
+2016,MI,26,Eaton County,Total Homeless,120
+2016,MN,27,Minneapolis/Hennepin County,Total Homeless,3056
+2016,MN,27,Saint Paul/Ramsey County,Total Homeless,1346
+2016,MN,27,Rochester/Southeast Minnesota,Total Homeless,423
+2016,MN,27,"Dakota, Anoka, Washington, Scott, Carver Counties",Total Homeless,618
+2016,MN,27,Northeast Minnesota,Total Homeless,77
+2016,MN,27,St. Cloud/Central Minnesota,Total Homeless,669
+2016,MN,27,Northwest Minnesota,Total Homeless,290
+2016,MN,27,Moorhead/West Central Minnesota,Total Homeless,211
+2016,MN,27,Duluth/St.Louis County,Total Homeless,528
+2016,MN,27,Southwest Minnesota,Total Homeless,123
+2016,MO,29,St. Louis County,Total Homeless,465
+2016,MO,29,St.Louis City,Total Homeless,1248
+2016,MO,29,"St. Charles, Lincoln, Warren Counties",Total Homeless,610
+2016,MO,29,"Springfield/Greene, Christian, Webster Counties",Total Homeless,496
+2016,MO,29,"Joplin/Jasper, Newton Counties",Total Homeless,297
+2016,MO,29,"St. Joseph/Andrew, Buchanan, DeKalb Counties",Total Homeless,195
+2016,MO,29,"Kansas City, Independence, Lees Summit/Jackson, Wyandotte Counties, MO & KS",Total Homeless,1699
+2016,MO,29,Missouri Balance of State,Total Homeless,1431
+2016,MS,28,"Jackson/Rankin, Madison Counties",Total Homeless,633
+2016,MS,28,Mississippi Balance of State,Total Homeless,785
+2016,MS,28,Gulf Port/Gulf Coast Regional,Total Homeless,320
+2016,MT,30,Montana Statewide,Total Homeless,1418
+2016,NC,37,Winston Salem/Forsyth County,Total Homeless,544
+2016,NC,37,Asheville/Buncombe County,Total Homeless,509
+2016,NC,37,Durham City & County,Total Homeless,354
+2016,NC,37,North Carolina Balance of State,Total Homeless,2963
+2016,NC,37,Greensboro/High Point,Total Homeless,721
+2016,NC,37,Charlotte/Mecklenberg,Total Homeless,1818
+2016,NC,37,"Wilmington/Brunswick, New Hanover, Pender Counties",Total Homeless,389
+2016,NC,37,Raleigh/Wake County,Total Homeless,818
+2016,NC,37,"Gastonia/Cleveland, Gaston, Lincoln Counties",Total Homeless,328
+2016,NC,37,Fayetteville/Cumberland County,Total Homeless,515
+2016,NC,37,Chapel Hill/Orange County,Total Homeless,80
+2016,NC,37,Northwest North Carolina,Total Homeless,520
+2016,ND,38,North Dakota Statewide,Total Homeless,923
+2016,NE,31,Nebraska Balance of State,Total Homeless,551
+2016,NE,31,Omaha/Council Bluffs,Total Homeless,1509
+2016,NE,31,Lincoln,Total Homeless,694
+2016,NH,33,New Hampshire Balance of State,Total Homeless,670
+2016,NH,33,Manchester,Total Homeless,400
+2016,NH,33,Nashua/Hillsborough County,Total Homeless,296
+2016,NJ,34,Atlantic City & County,Total Homeless,476
+2016,NJ,34,Bergen County,Total Homeless,296
+2016,NJ,34,Burlington County,Total Homeless,926
+2016,NJ,34,"Camden City/Camden, Cumberland, Gloucester, Cape May Counties",Total Homeless,1068
+2016,NJ,34,Newark/Essex County,Total Homeless,1779
+2016,NJ,34,Jersey City/Bayonne/Hudson County,Total Homeless,829
+2016,NJ,34,New Brunswick/Middlesex County,Total Homeless,457
+2016,NJ,34,Monmouth County,Total Homeless,344
+2016,NJ,34,Morris County,Total Homeless,410
+2016,NJ,34,Lakewood Township/Ocean County,Total Homeless,429
+2016,NJ,34,Paterson/Passaic County,Total Homeless,432
+2016,NJ,34,Somerset County,Total Homeless,218
+2016,NJ,34,Trenton/Mercer County,Total Homeless,465
+2016,NJ,34,Elizabeth/Union County,Total Homeless,513
+2016,NJ,34,"Warren, Sussex, Hunterdon Counties",Total Homeless,253
+2016,NM,35,Albuquerque,Total Homeless,1222
+2016,NM,35,New Mexico Balance of State,Total Homeless,1041
+2016,NV,32,Las Vegas/Clark County,Total Homeless,6208
+2016,NV,32,Reno/Sparks/Washoe County,Total Homeless,989
+2016,NV,32,Nevada Balance of State,Total Homeless,201
+2016,NY,36,Rochester/Irondequoit/Greece/Monroe County,Total Homeless,860
+2016,NY,36,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties",Total Homeless,506
+2016,NY,36,Albany City & County,Total Homeless,748
+2016,NY,36,Cattaragus County,Total Homeless,27
+2016,NY,36,"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties",Total Homeless,867
+2016,NY,36,Schenectady City & County,Total Homeless,345
+2016,NY,36,"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties",Total Homeless,962
+2016,NY,36,Ithaca/Tompkins County,Total Homeless,86
+2016,NY,36,"Binghamton, Union/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Counties C",Total Homeless,276
+2016,NY,36,Troy/Rensselaer County,Total Homeless,179
+2016,NY,36,"Wayne, Ontario, Seneca, Yates Counties",Total Homeless,58
+2016,NY,36,Jamestown/Dunkirk/Chautauqua County,Total Homeless,23
+2016,NY,36,Clinton County,Total Homeless,132
+2016,NY,36,"Utica/Rome/Oneida, Madison Counties",Total Homeless,160
+2016,NY,36,Columbia/Greene County,Total Homeless,116
+2016,NY,36,Franklin County,Total Homeless,27
+2016,NY,36,Jefferson/Lewis/St. Lawrence Counties,Total Homeless,119
+2016,NY,36,"Glens Falls/Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties",Total Homeless,268
+2016,NY,36,New York City,Total Homeless,73523
+2016,NY,36,Poughkeepsie/Dutchess County,Total Homeless,385
+2016,NY,36,Newburgh/Middletown/Orange County,Total Homeless,343
+2016,NY,36,"Nassau, Suffolk Counties/Babylon/Islip/ Huntington",Total Homeless,3960
+2016,NY,36,Yonkers/Mount Vernon/New Rochelle/Westchester,Total Homeless,1750
+2016,NY,36,Rockland County,Total Homeless,141
+2016,NY,36,Sullivan County,Total Homeless,163
+2016,NY,36,Kingston/Ulster County,Total Homeless,328
+2016,OH,39,Cincinnati/Hamilton County,Total Homeless,1116
+2016,OH,39,Toledo/Lucas County,Total Homeless,599
+2016,OH,39,Cleveland/Cuyahoga County,Total Homeless,1697
+2016,OH,39,Columbus/Franklin County,Total Homeless,1724
+2016,OH,39,Youngstown/Mahoning County,Total Homeless,346
+2016,OH,39,Dayton/Kettering/Montgomery County,Total Homeless,751
+2016,OH,39,Akron/Barberton/Summit County,Total Homeless,679
+2016,OH,39,Ohio Balance of State,Total Homeless,3032
+2016,OH,39,Canton/Massillon/Alliance/Stark County,Total Homeless,460
+2016,OK,40,North Central Oklahoma,Total Homeless,129
+2016,OK,40,Tulsa City & County/Broken Arrow,Total Homeless,1043
+2016,OK,40,Oklahoma City,Total Homeless,1511
+2016,OK,40,Oklahoma Balance of State,Total Homeless,295
+2016,OK,40,Norman/Cleveland County,Total Homeless,138
+2016,OK,40,Northeast Oklahoma,Total Homeless,368
+2016,OK,40,Southwest Oklahoma Regional,Total Homeless,187
+2016,OK,40,Southeastern Oklahoma Regional,Total Homeless,436
+2016,OR,41,Eugene/Springfield/Lane County,Total Homeless,1451
+2016,OR,41,Portland-Gresham-Multnomah County,Total Homeless,3914
+2016,OR,41,Medford/Ashland/Jackson County,Total Homeless,527
+2016,OR,41,Central Oregon,Total Homeless,602
+2016,OR,41,Oregon Balance of State,Total Homeless,5710
+2016,OR,41,Hillsboro/Beaverton/Washington County,Total Homeless,571
+2016,OR,41,Clackamas County,Total Homeless,463
+2016,PA,42,Philadelphia,Total Homeless,6112
+2016,PA,42,Harrisburg/Dauphin County,Total Homeless,433
+2016,PA,42,Upper Darby/Chester/Haverford/Delaware County,Total Homeless,406
+2016,PA,42,Wilkes-Barre/Hazleton/Luzerne County,Total Homeless,169
+2016,PA,42,Lower Marion/Norristown/Abington/Montgomery County,Total Homeless,398
+2016,PA,42,Chester County,Total Homeless,558
+2016,PA,42,Reading/Berks County,Total Homeless,521
+2016,PA,42,Scranton/Lackawanna County,Total Homeless,242
+2016,PA,42,Eastern Pennsylvania,Total Homeless,2599
+2016,PA,42,Lancaster City & County,Total Homeless,356
+2016,PA,42,Bristol/Bensalem/Bucks County,Total Homeless,530
+2016,PA,42,York City & County,Total Homeless,365
+2016,PA,42,Pittsburgh/McKeesport/Penn Hills/Allegheny County,Total Homeless,1156
+2016,PA,42,Western Pennsylvania,Total Homeless,986
+2016,PA,42,Beaver County,Total Homeless,131
+2016,PA,42,Erie City & County,Total Homeless,377
+2016,RI,44,Rhode Island Statewide,Total Homeless,1160
+2016,SC,45,Charleston/Low Country,Total Homeless,550
+2016,SC,45,Greenville/Anderson/Spartanburg Upstate,Total Homeless,1829
+2016,SC,45,Columbia/Midlands,Total Homeless,1350
+2016,SC,45,Myrtle Beach/Sumter City & County,Total Homeless,1322
+2016,SD,46,South Dakota Statewide,Total Homeless,1072
+2016,TN,47,Chattanooga/Southeast Tennessee,Total Homeless,527
+2016,TN,47,Memphis/Shelby County,Total Homeless,1669
+2016,TN,47,Knoxville/Knox County,Total Homeless,748
+2016,TN,47,Central Tennessee,Total Homeless,296
+2016,TN,47,Nashville/Davidson County,Total Homeless,2365
+2016,TN,47,Oak Ridge/Upper Cumberland,Total Homeless,249
+2016,TN,47,Jackson/West Tennessee,Total Homeless,1541
+2016,TN,47,Appalachian Regional,Total Homeless,448
+2016,TN,47,Murfreesboro/Rutherford County,Total Homeless,306
+2016,TN,47,"Morristown/Blount, Sevier, Campbell, Cocke Counties",Total Homeless,630
+2016,TX,48,San Antonio/Bexar County,Total Homeless,2781
+2016,TX,48,Austin/Travis County,Total Homeless,2138
+2016,TX,48,Dallas City & County/Irving,Total Homeless,3810
+2016,TX,48,Fort Worth/Arlington/Tarrant County,Total Homeless,1938
+2016,TX,48,El Paso City & County,Total Homeless,1100
+2016,TX,48,Waco/McLennan County,Total Homeless,267
+2016,TX,48,Texas Balance of State (BoS),Total Homeless,6048
+2016,TX,48,Amarillo,Total Homeless,592
+2016,TX,48,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties",Total Homeless,256
+2016,TX,48,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties",Total Homeless,4031
+2016,TX,48,Bryan/College Station/Brazos Valley,Total Homeless,161
+2016,UT,49,Salt Lake City & County,Total Homeless,1891
+2016,UT,49,Utah Balance of State,Total Homeless,738
+2016,UT,49,Provo/Mountainland,Total Homeless,178
+2016,VA,51,"Richmond/Henrico, Chesterfield, Hanover Counties",Total Homeless,762
+2016,VA,51,"Norfolk/Chesapeake/Suffolk/Isle of Wright, Southampton Counties",Total Homeless,723
+2016,VA,51,Roanoke City & County/Salem,Total Homeless,308
+2016,VA,51,Virginia Beach,Total Homeless,389
+2016,VA,51,Charlottesville,Total Homeless,157
+2016,VA,51,Newport News/Hampton/Virginia Peninsula,Total Homeless,464
+2016,VA,51,Portsmouth,Total Homeless,169
+2016,VA,51,Lynchburg,Total Homeless,174
+2016,VA,51,"Harrisburg, Winchester/Western Virginia",Total Homeless,268
+2016,VA,51,"Fredericksburg/Spotsylvania, Stafford Counties",Total Homeless,209
+2016,VA,51,Virginia Balance of State (BoS),Total Homeless,654
+2016,VA,51,Arlington County,Total Homeless,174
+2016,VA,51,Fairfax County,Total Homeless,1059
+2016,VA,51,Loudoun County,Total Homeless,134
+2016,VA,51,City of Alexandria,Total Homeless,224
+2016,VA,51,Prince William County,Total Homeless,400
+2016,VT,50,Vermont Balance of State,Total Homeless,785
+2016,VT,50,Burlington/Chittenden County,Total Homeless,332
+2016,WA,53,Seattle/King County,Total Homeless,10730
+2016,WA,53,Washington Balance of State,Total Homeless,5294
+2016,WA,53,Spokane City & County,Total Homeless,981
+2016,WA,53,Tacoma/Lakewood/Pierce County,Total Homeless,1762
+2016,WA,53,Everett/Snohomish County,Total Homeless,960
+2016,WA,53,Yakima City & County,Total Homeless,412
+2016,WA,53,Vancouver/Clark County,Total Homeless,688
+2016,WI,55,Wisconsin Balance of State,Total Homeless,3445
+2016,WI,55,Milwaukee City & County,Total Homeless,1415
+2016,WI,55,Racine City & County,Total Homeless,196
+2016,WI,55,Madison/Dane County,Total Homeless,629
+2016,WV,54,Wheeling/Weirton Area,Total Homeless,91
+2016,WV,54,"Huntington/Cabell, Wayne Counties",Total Homeless,228
+2016,WV,54,"Charleston/Kanawha, Putnam, Boone, Clay Counties",Total Homeless,320
+2016,WV,54,West Virginia Balance of State,Total Homeless,748
+2016,WY,56,Wyoming Statewide,Total Homeless,857
